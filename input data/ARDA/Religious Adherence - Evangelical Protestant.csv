@@ -1,0 +1,52 @@
+id,value,geometry,geometryType,name,CNTRY,TYPE
+US-AL,420.95,[object Object],Polygon,Alabama,United States of America,State
+US-OK,418.64,[object Object],Polygon,Oklahoma,United States of America,State
+US-MS,390.42,[object Object],Polygon,Mississippi,United States of America,State
+US-AR,383.26,[object Object],Polygon,Arkansas,United States of America,State
+US-TN,364.05,[object Object],Polygon,Tennessee,United States of America,State
+US-KY,313.89,[object Object],Polygon,Kentucky,United States of America,State
+US-SC,290.14,[object Object],Polygon,South Carolina,United States of America,State
+US-NC,265.65,[object Object],Polygon,North Carolina,United States of America,State
+US-GA,262.58,[object Object],Polygon,Georgia,United States of America,State
+US-LA,249.99,[object Object],MultiPolygon,Louisiana,United States of America,State
+US-MO,240.84,[object Object],Polygon,Missouri,United States of America,State
+US-TX,235.4,[object Object],MultiPolygon,Texas,United States of America,State
+US-WA,204.76,[object Object],MultiPolygon,Washington,United States of America,State
+US-VA,203.38,[object Object],MultiPolygon,Virginia,United States of America,State
+US-SD,202.47,[object Object],Polygon,South Dakota,United States of America,State
+US-OH,196.97,[object Object],Polygon,Ohio,United States of America,State
+US-FL,184.34,[object Object],Polygon,Florida,United States of America,State
+US-IN,182.59,[object Object],Polygon,Indiana,United States of America,State
+US-AK,179.12,[object Object],MultiPolygon,Alaska,United States of America,State
+US-KS,173.49,[object Object],Polygon,Kansas,United States of America,State
+US-WV,168.32,[object Object],Polygon,West Virginia,United States of America,State
+US-DC,152.44,[object Object],Polygon,District of Columbia,United States of America,Federal District
+US-WI,145.38,[object Object],MultiPolygon,Wisconsin,United States of America,State
+US-NE,143.58,[object Object],Polygon,Nebraska,United States of America,State
+US-MT,136.59,[object Object],Polygon,Montana,United States of America,State
+US-NM,129.38,[object Object],Polygon,New Mexico,United States of America,State
+US-OR,127.83,[object Object],Polygon,Oregon,United States of America,State
+US-ID,123.92,[object Object],Polygon,Idaho,United States of America,State
+US-MI,121.04,[object Object],MultiPolygon,Michigan,United States of America,State
+US-MN,118.43,[object Object],Polygon,Minnesota,United States of America,State
+US-IL,117.63,[object Object],Polygon,Illinois,United States of America,State
+US-CO,117.42,[object Object],Polygon,Colorado,United States of America,State
+US-MD,113.95,[object Object],Polygon,Maryland,United States of America,State
+US-WY,111.95,[object Object],Polygon,Wyoming,United States of America,State
+US-IA,110.51,[object Object],Polygon,Iowa,United States of America,State
+US-ND,107.6,[object Object],Polygon,North Dakota,United States of America,State
+US-AZ,106.16,[object Object],Polygon,Arizona,United States of America,State
+US-PA,98.03,[object Object],Polygon,Pennsylvania,United States of America,State
+US-HI,92.93,[object Object],MultiPolygon,Hawaii,United States of America,State
+US-DE,90.98,[object Object],Polygon,Delaware,United States of America,State
+US-CA,89.91,[object Object],MultiPolygon,California,United States of America,State
+US-VT,72.53,[object Object],Polygon,Vermont,United States of America,State
+US-CT,68.93,[object Object],Polygon,Connecticut,United States of America,State
+US-NV,67.6,[object Object],Polygon,Nevada,United States of America,State
+US-ME,61.05,[object Object],MultiPolygon,Maine,United States of America,State
+US-NY,51.5,[object Object],MultiPolygon,New York,United States of America,State
+US-NJ,51.28,[object Object],Polygon,New Jersey,United States of America,State
+US-NH,48.44,[object Object],Polygon,New Hampshire,United States of America,State
+US-RI,38.25,[object Object],Polygon,Rhode Island,United States of America,State
+US-MA,36.5,[object Object],MultiPolygon,Massachusetts,United States of America,State
+US-UT,20.34,[object Object],Polygon,Utah,United States of America,State

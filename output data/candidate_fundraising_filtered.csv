@@ -1,0 +1,851 @@
+"","Candidate","Party.Num","State","State_Abbr","Office","District","Gender.Num","White.Num","Black.Num","Asian.Num","Latino.Num","Middle_Eastern.Num","Native_American.Num","Incumbent.Num","Election_Denier.Num","Fundraising_Total","index","full_district","Special"
+"1","Jrmar ""JJ"" Jefferson",1,"Texas","TX","Representative","1",1,0,1,0,0,0,0,0,0,28794,"1","TX-1",0
+"2","Robin Fulford",1,"Texas","TX","Representative","2",0,1,0,0,0,0,0,0,0,95686,"2","TX-2",0
+"3","Sandeep Srivastava",1,"Texas","TX","Representative","3",1,0,0,1,0,0,0,0,0,68334,"3","TX-3",0
+"4","Iro Omere",1,"Texas","TX","Representative","4",0,0,1,0,0,0,0,0,0,14200,"4","TX-4",0
+"5","Tartisha Hill",1,"Texas","TX","Representative","5",0,0,1,0,0,0,0,0,0,3000,"5","TX-5",0
+"6","Lizzie Fletcher",1,"Texas","TX","Representative","7",0,1,0,0,0,0,0,1,0,1119722,"6","TX-7",0
+"7","Laura Jones",1,"Texas","TX","Representative","8",0,1,0,0,0,0,0,0,0,11580,"7","TX-8",0
+"8","Al Green",1,"Texas","TX","Representative","9",1,0,1,0,0,0,0,1,0,106053,"8","TX-9",0
+"9","Linda Nuno",1,"Texas","TX","Representative","10",0,0,0,0,1,0,0,0,0,0,"9","TX-10",0
+"10","Trey J. Hunt",1,"Texas","TX","Representative","12",1,1,1,0,0,0,0,0,0,14590,"10","TX-12",0
+"11","Kathleen Brown",1,"Texas","TX","Representative","13",0,1,0,0,0,0,0,0,0,40716,"11","TX-13",0
+"12","Mikal Williams",1,"Texas","TX","Representative","14",1,1,0,0,0,0,0,0,0,28985,"12","TX-14",0
+"13","Michelle Vallejo",1,"Texas","TX","Representative","15",0,0,0,0,1,0,0,0,0,905218,"13","TX-15",0
+"14","Veronica Escobar",1,"Texas","TX","Representative","16",0,0,0,0,1,0,0,1,0,246292,"14","TX-16",0
+"15","Mary Jo Woods",1,"Texas","TX","Representative","17",0,1,0,0,0,0,0,0,0,0,"15","TX-17",0
+"16","Sheila Jackson Lee",1,"Texas","TX","Representative","18",0,0,1,0,0,0,0,1,0,420382,"16","TX-18",0
+"17","Joaquin Castro",1,"Texas","TX","Representative","20",1,0,0,0,1,0,0,1,0,133472,"17","TX-20",0
+"18","Claudia Andreana Zapata",1,"Texas","TX","Representative","21",0,0,0,0,1,0,0,0,0,31821,"18","TX-21",0
+"19","Jamie Kaye Jordan",1,"Texas","TX","Representative","22",0,1,0,0,0,0,0,0,0,0,"19","TX-22",0
+"20","John Lira",1,"Texas","TX","Representative","23",1,0,0,0,1,0,0,0,0,227345,"20","TX-23",0
+"21","Jan McDowell",1,"Texas","TX","Representative","24",0,1,0,0,0,0,0,0,0,67028,"21","TX-24",0
+"22","Maclovio Perez Jr.",1,"Texas","TX","Representative","27",1,0,0,0,1,0,0,0,0,0,"22","TX-27",0
+"23","Henry Cuellar",1,"Texas","TX","Representative","28",1,0,0,0,1,0,0,1,0,1220535,"23","TX-28",0
+"24","Sylvia Garcia",1,"Texas","TX","Representative","29",0,0,0,0,1,0,0,1,0,170861,"24","TX-29",0
+"25","Jasmine Crockett",1,"Texas","TX","Representative","30",0,0,1,0,0,0,0,0,0,136892,"25","TX-30",0
+"26","Colin Allred",1,"Texas","TX","Representative","32",1,0,1,0,0,0,0,1,0,1198601,"26","TX-32",0
+"27","Marc Veasey",1,"Texas","TX","Representative","33",1,0,1,0,0,0,0,1,0,283774,"27","TX-33",0
+"28","Vicente Gonzalez",1,"Texas","TX","Representative","34",1,0,0,0,1,0,0,1,0,1143722,"28","TX-34",0
+"29","Greg Casar",1,"Texas","TX","Representative","35",1,0,0,0,1,0,0,0,0,287109,"29","TX-35",0
+"30","Jon Haire",1,"Texas","TX","Representative","36",1,1,0,0,0,0,0,0,0,31626,"30","TX-36",0
+"31","Lloyd Doggett",1,"Texas","TX","Representative","37",1,1,0,0,0,0,0,1,0,458166,"31","TX-37",0
+"32","Duncan F. Klussmann",1,"Texas","TX","Representative","38",1,1,0,0,0,0,0,0,0,92428,"32","TX-38",0
+"33","Thomas M. McDermott Jr.",1,"Indiana","IN","Senator","0",1,1,0,0,0,0,0,0,0,571451,"33","IN-0",0
+"34","Frank J. Mrvan",1,"Indiana","IN","Representative","1",1,1,0,0,0,0,0,1,0,831945,"34","IN-1",0
+"35","Paul D. Steury",1,"Indiana","IN","Representative","2",1,1,0,0,0,0,0,0,0,43875,"35","IN-2",0
+"36","Gary L. Snyder",1,"Indiana","IN","Representative","3",1,1,0,0,0,0,0,0,0,27193,"36","IN-3",0
+"37","Roger D. Day",1,"Indiana","IN","Representative","4",1,1,0,0,0,0,0,0,0,0,"37","IN-4",0
+"38","Jeannine Lee Lake",1,"Indiana","IN","Representative","5",0,0,1,0,0,0,0,0,0,11441,"38","IN-5",0
+"39","Cynthia ""Cinde"" Wirth",1,"Indiana","IN","Representative","6",0,1,0,0,0,0,0,0,0,11221,"39","IN-6",0
+"40","André D. Carson",1,"Indiana","IN","Representative","7",1,0,1,0,0,0,0,1,0,143572,"40","IN-7",0
+"41","Ray McCormick",1,"Indiana","IN","Representative","8",1,1,0,0,0,0,0,0,0,50339,"41","IN-8",0
+"42","Matthew Fyfe",1,"Indiana","IN","Representative","9",1,1,0,0,0,0,0,0,0,28466,"42","IN-9",0
+"43","Tim Ryan",1,"Ohio","OH","Senator","0",1,1,0,0,0,0,0,0,0,22466976,"43","OH-0",0
+"44","Greg Landsman",1,"Ohio","OH","Representative","1",1,1,0,0,0,0,0,0,0,1102806,"44","OH-1",0
+"45","Samantha Meadows",1,"Ohio","OH","Representative","2",0,1,0,0,0,0,0,0,0,6130,"45","OH-2",0
+"46","Joyce Beatty",1,"Ohio","OH","Representative","3",0,0,1,0,0,0,0,1,0,325961,"46","OH-3",0
+"47","Tamie Wilson",1,"Ohio","OH","Representative","4",0,1,1,0,0,0,0,0,0,30773,"47","OH-4",0
+"48","Craig Swartz",1,"Ohio","OH","Representative","5",1,1,0,0,0,0,0,0,0,14285,"49","OH-5",0
+"49","Louis G. Lyras",1,"Ohio","OH","Representative","6",1,1,0,0,0,0,0,0,0,30881,"50","OH-6",0
+"50","Matthew Diemer",1,"Ohio","OH","Representative","7",1,1,1,0,0,0,0,0,0,83981,"51","OH-7",0
+"51","Vanessa Enoch",1,"Ohio","OH","Representative","8",0,0,1,0,0,0,0,0,0,0,"52","OH-8",0
+"52","Marcy Kaptur",1,"Ohio","OH","Representative","9",0,1,0,0,0,0,0,1,0,859259,"53","OH-9",0
+"53","David Esrati",1,"Ohio","OH","Representative","10",1,1,0,0,0,0,0,0,0,20954,"54","OH-10",0
+"54","Shontel Brown",1,"Ohio","OH","Representative","11",0,0,1,0,0,0,0,1,0,929565,"55","OH-11",0
+"55","Amy Rippel-Elton",1,"Ohio","OH","Representative","12",0,1,0,0,0,0,0,0,0,0,"56","OH-12",0
+"56","Emilia Sykes",1,"Ohio","OH","Representative","13",0,0,1,0,0,0,0,0,0,930435,"57","OH-13",0
+"57","Matt Kilboy",1,"Ohio","OH","Representative","14",1,1,0,0,0,0,0,0,0,14299,"58","OH-14",0
+"58","Gary Josephson",1,"Ohio","OH","Representative","15",1,0,0,0,0,0,0,0,0,31001,"59","OH-15",0
+"59","Lacy Watson",1,"West Virginia","WV","Representative","1",1,0,1,0,0,0,0,0,0,0,"60","WV-1",0
+"60","Barry Lee Wendell",1,"West Virginia","WV","Representative","2",1,1,0,0,0,0,0,0,0,11883,"61","WV-2",0
+"61","Patty Pansing Brooks",1,"Nebraska","NE","Representative","1",0,1,0,0,0,0,0,0,0,668297,"62","NE-1",0
+"62","Tony Vargas",1,"Nebraska","NE","Representative","2",1,0,0,0,1,0,0,0,0,1581330,"63","NE-2",0
+"63","David J. Else",1,"Nebraska","NE","Representative","3",1,1,0,0,0,0,0,0,0,0,"64","NE-3",0
+"64","Charles Booker",1,"Kentucky","KY","Senator","0",1,0,1,0,0,0,0,0,0,1565535,"65","KY-0",0
+"65","Jimmy C. Ausbrooks",1,"Kentucky","KY","Representative","1",1,1,0,0,0,0,0,0,0,250,"66","KY-1",0
+"66","Hank Linderman",1,"Kentucky","KY","Representative","2",1,1,0,0,0,0,0,0,0,22704,"67","KY-2",0
+"67","Morgan McGarvey",1,"Kentucky","KY","Representative","3",1,1,0,0,0,0,0,0,0,1010411,"68","KY-3",0
+"68","Matthew Lehman",1,"Kentucky","KY","Representative","4",1,1,0,0,0,0,0,0,0,74279,"69","KY-4",0
+"69","Conor Halbleib",1,"Kentucky","KY","Representative","5",1,1,0,0,0,0,0,0,0,3530,"70","KY-5",0
+"70","Geoffrey M. ""Geoff"" Young",1,"Kentucky","KY","Representative","6",1,1,0,0,0,0,0,0,0,13807,"71","KY-6",0
+"71","Ron Wyden",1,"Oregon","OR","Senator","0",1,1,0,0,0,0,0,1,0,3175684,"72","OR-0",0
+"72","Suzanne Bonamici",1,"Oregon","OR","Representative","1",0,1,0,0,0,0,0,1,0,176655,"73","OR-1",0
+"73","Joe Yetter",1,"Oregon","OR","Representative","2",1,1,0,0,0,0,0,0,0,25396,"74","OR-2",0
+"74","Earl Blumenauer",1,"Oregon","OR","Representative","3",1,1,0,0,0,0,0,1,0,247652,"75","OR-3",0
+"75","Val Hoyle",1,"Oregon","OR","Representative","4",0,1,0,0,0,0,0,0,0,766993,"76","OR-4",0
+"76","Jamie McLeod-Skinner",1,"Oregon","OR","Representative","5",0,1,0,0,0,0,0,0,0,1470369,"77","OR-5",0
+"77","Andrea Salinas",1,"Oregon","OR","Representative","6",0,1,0,0,0,0,0,0,0,1417119,"78","OR-6",0
+"78","David Roth",1,"Idaho","ID","Senator","0",1,1,0,0,0,0,0,0,0,32918,"79","ID-0",0
+"79","Kaylee Peterson",1,"Idaho","ID","Representative","1",0,1,0,0,0,0,0,0,0,29125,"80","ID-1",0
+"80","Wendy Norman",1,"Idaho","ID","Representative","2",0,1,0,0,0,0,0,0,0,4470,"81","ID-2",0
+"81","Cheri Beasley",1,"North Carolina","NC","Senator","0",0,0,1,0,0,0,0,0,0,15501364,"82","NC-0",0
+"82","Don Davis",1,"North Carolina","NC","Representative","1",1,0,1,0,0,0,0,0,0,525308,"83","NC-1",0
+"83","Deborah K. Ross",1,"North Carolina","NC","Representative","2",0,1,0,0,0,0,0,1,0,635161,"84","NC-2",0
+"84","Barbara D. Gaskins",1,"North Carolina","NC","Representative","3",0,0,1,0,0,0,0,0,0,7750,"85","NC-3",0
+"85","Valerie P. Foushee",1,"North Carolina","NC","Representative","4",0,0,1,0,0,0,0,0,0,99094,"86","NC-4",0
+"86","Kyle Parrish",1,"North Carolina","NC","Representative","5",1,1,0,0,0,0,0,0,0,4150,"87","NC-5",0
+"87","Kathy Manning",1,"North Carolina","NC","Representative","6",0,1,0,0,0,0,0,1,0,1180059,"88","NC-6",0
+"88","Charles Graham",1,"North Carolina","NC","Representative","7",1,1,0,0,0,0,0,0,0,53715,"89","NC-7",0
+"89","Scott Huffman",1,"North Carolina","NC","Representative","8",1,1,0,0,0,0,0,0,0,13145,"90","NC-8",0
+"90","Ben Clark",1,"North Carolina","NC","Representative","9",1,0,1,0,0,0,0,0,0,55317,"91","NC-9",0
+"91","Pam Genant",1,"North Carolina","NC","Representative","10",0,1,0,0,0,0,0,0,0,34936,"92","NC-10",0
+"92","Jasmine Beach-Ferrara",1,"North Carolina","NC","Representative","11",0,1,0,0,0,0,0,0,0,521194,"93","NC-11",0
+"93","Alma S. Adams",1,"North Carolina","NC","Representative","12",0,0,1,0,0,0,0,1,0,153055,"94","NC-12",0
+"94","Wiley Nickel",1,"North Carolina","NC","Representative","13",1,1,0,0,0,0,0,0,0,1284684,"95","NC-13",0
+"95","Jeff Jackson",1,"North Carolina","NC","Representative","14",1,1,0,0,0,0,0,0,0,1736680,"96","NC-14",0
+"96","John Fetterman",1,"Pennsylvania","PA","Senator","0",1,1,0,0,0,0,0,0,0,23545207,"97","PA-0",0
+"97","Ashley Ehasz",1,"Pennsylvania","PA","Representative","1",0,1,0,0,0,0,0,0,0,465743,"98","PA-1",0
+"98","Brendan F. Boyle",1,"Pennsylvania","PA","Representative","2",1,1,0,0,0,0,0,1,0,249977,"99","PA-2",0
+"99","Madeleine Dean",1,"Pennsylvania","PA","Representative","4",0,1,0,0,0,0,0,1,0,416911,"101","PA-4",0
+"100","Mary Gay Scanlon",1,"Pennsylvania","PA","Representative","5",0,1,0,0,0,0,0,1,0,382763,"102","PA-5",0
+"101","Chrissy Houlahan",1,"Pennsylvania","PA","Representative","6",0,1,0,0,0,0,0,1,0,1124998,"103","PA-6",0
+"102","Susan Wild",1,"Pennsylvania","PA","Representative","7",0,1,0,0,0,0,0,1,0,2421256,"104","PA-7",0
+"103","Matt Cartwright",1,"Pennsylvania","PA","Representative","8",1,1,0,0,0,0,0,1,0,1522324,"105","PA-8",0
+"104","Amanda R. Waldman",1,"Pennsylvania","PA","Representative","9",0,1,0,0,0,0,0,0,0,8950,"106","PA-9",0
+"105","Shamaine Daniels",1,"Pennsylvania","PA","Representative","10",0,0,0,0,1,0,0,0,0,189366,"107","PA-10",0
+"106","Bob Hollister",1,"Pennsylvania","PA","Representative","11",1,1,0,0,0,0,0,0,0,104834,"108","PA-11",0
+"107","Summer Lee",1,"Pennsylvania","PA","Representative","12",0,0,1,0,0,0,0,0,0,417129,"109","PA-12",0
+"108","Dan Pastore",1,"Pennsylvania","PA","Representative","16",1,1,0,0,0,0,0,0,0,169323,"110","PA-16",0
+"109","Chris Deluzio",1,"Pennsylvania","PA","Representative","17",1,1,0,0,0,0,0,0,0,1600905,"111","PA-17",0
+"110","Taysha DeVaughan",1,"Virginia","VA","Representative","9",0,0,0,0,0,0,1,0,0,19072,"112","VA-9",0
+"111","Will Boyd",1,"Alabama","AL","Senator","0",1,0,1,0,0,0,0,0,0,50840,"113","AL-0",0
+"112","Phyllis Harvey-Hall",1,"Alabama","AL","Representative","2",0,0,1,0,0,0,0,0,0,11672,"114","AL-2",0
+"113","Lin Veasey",1,"Alabama","AL","Representative","3",0,0,0,0,0,0,0,0,0,1300,"115","AL-3",0
+"114","Rick Neighbors",1,"Alabama","AL","Representative","4",1,1,0,0,0,0,0,0,0,9010,"116","AL-4",0
+"115","Kathy Warner-Stanton",1,"Alabama","AL","Representative","5",0,0,1,0,0,0,0,0,0,6035,"117","AL-5",0
+"116","Terrycina Sewell",1,"Alabama","AL","Representative","7",0,0,1,0,0,0,0,1,0,242945,"118","AL-7",0
+"117","Natalie James",1,"Arkansas","AR","Senator","0",0,0,1,0,0,0,0,0,0,13935,"119","AR-0",0
+"118","Monte Hodges",1,"Arkansas","AR","Representative","1",1,0,1,0,0,0,0,0,0,12950,"120","AR-1",0
+"119","Quintessa Hathaway",1,"Arkansas","AR","Representative","2",0,0,1,0,0,0,0,0,0,0,"121","AR-2",0
+"120","Lauren Mallett-Hays",1,"Arkansas","AR","Representative","3",0,1,0,0,0,0,0,0,0,11624,"122","AR-3",0
+"121","John White",1,"Arkansas","AR","Representative","4",1,1,0,0,0,0,0,0,0,0,"123","AR-4",0
+"122","Raphael Warnock",1,"Georgia","GA","Senator","0",1,0,1,0,0,0,0,1,0,35622857,"124","GA-0",0
+"123","Wade Herring",1,"Georgia","GA","Representative","1",1,1,0,0,0,0,0,0,0,562532,"125","GA-1",0
+"124","Sanford Bishop",1,"Georgia","GA","Representative","2",1,0,1,0,0,0,0,1,0,694626,"126","GA-2",0
+"125","Val Almonord",1,"Georgia","GA","Representative","3",1,0,1,0,0,0,0,0,0,145,"127","GA-3",0
+"126","Henry C. ""Hank"" Johnson Jr.",1,"Georgia","GA","Representative","4",1,0,1,0,0,0,0,1,0,36514,"128","GA-4",0
+"127","Nikema Williams",1,"Georgia","GA","Representative","5",0,0,1,0,0,0,0,1,0,138499,"129","GA-5",0
+"128","Bob Christian",1,"Georgia","GA","Representative","6",1,1,0,0,0,0,0,0,0,23623,"130","GA-6",0
+"129","Lucy McBath",1,"Georgia","GA","Representative","7",0,0,1,0,0,0,0,1,0,1423129,"131","GA-7",0
+"130","Darrius Butler",1,"Georgia","GA","Representative","8",1,0,1,0,0,0,0,0,0,0,"132","GA-8",0
+"131","Michael ""Mike"" Ford",1,"Georgia","GA","Representative","9",1,1,0,0,0,0,0,0,0,5075,"133","GA-9",0
+"132","Tabitha Johnson-Green",1,"Georgia","GA","Representative","10",0,0,1,0,0,0,0,0,0,1429,"134","GA-10",0
+"133","Antonio Daza",1,"Georgia","GA","Representative","11",1,0,0,0,1,0,0,0,0,12315,"135","GA-11",0
+"134","Elizabeth ""Liz"" Johnson",1,"Georgia","GA","Representative","12",0,0,1,0,0,0,0,0,0,62773,"136","GA-12",0
+"135","David Scott",1,"Georgia","GA","Representative","13",1,0,1,0,0,0,0,1,0,128350,"137","GA-13",0
+"136","Marcus Flowers",1,"Georgia","GA","Representative","14",1,0,1,0,0,0,0,0,0,2348202,"138","GA-14",0
+"137","Melanie Ann Stansbury",1,"New Mexico","NM","Representative","1",0,1,0,0,0,0,0,1,0,481506,"139","NM-1",0
+"138","Gabriel Vasquez",1,"New Mexico","NM","Representative","2",1,0,0,0,1,0,0,0,0,1583185,"140","NM-2",0
+"139","Teresa Leger Fernandez",1,"New Mexico","NM","Representative","3",0,0,0,0,1,0,0,1,0,1007926,"141","NM-3",0
+"140","Dianne Black",1,"Mississippi","MS","Representative","1",0,0,1,0,0,0,0,0,0,8869,"142","MS-1",0
+"141","Bennie G. Thompson",1,"Mississippi","MS","Representative","2",1,0,1,0,0,0,0,1,0,265355,"143","MS-2",0
+"142","Shuwaski A. Young",1,"Mississippi","MS","Representative","3",1,0,1,0,0,0,0,0,0,25300,"144","MS-3",0
+"143","Johnny L. DuPree ",1,"Mississippi","MS","Representative","4",1,0,1,0,0,0,0,0,0,40509,"145","MS-4",0
+"144","Monica Tranel",1,"Montana","MT","Representative","1",0,1,0,0,0,0,0,0,0,1595998,"146","MT-1",0
+"145","Penny Ronning",1,"Montana","MT","Representative","2",0,1,0,0,0,0,0,0,0,62428,"147","MT-2",0
+"146","Michael Franken",1,"Iowa","IA","Senator","0",1,1,0,0,0,0,0,0,0,3413950,"148","IA-0",0
+"147","Christina Bohannan",1,"Iowa","IA","Representative","1",0,1,0,0,0,0,0,0,0,1342708,"149","IA-1",0
+"148","Liz Mathis",1,"Iowa","IA","Representative","2",0,1,0,0,0,0,0,0,0,1803166,"150","IA-2",0
+"149","Cindy Axne",1,"Iowa","IA","Representative","3",0,1,0,0,0,0,0,1,0,2064020,"151","IA-3",0
+"150","Ryan Melton",1,"Iowa","IA","Representative","4",1,1,0,0,0,0,0,0,0,12602,"152","IA-4",0
+"151","Donald W. Norcross",1,"New Jersey","NJ","Representative","1",1,1,0,0,0,0,0,1,0,339576,"154","NJ-1",0
+"152","Tim Alexander",1,"New Jersey","NJ","Representative","2",1,0,1,0,0,0,0,0,0,165120,"155","NJ-2",0
+"153","Andy Kim",1,"New Jersey","NJ","Representative","3",1,0,0,1,0,0,0,1,0,2202438,"156","NJ-3",0
+"154","Matthew Jenkins",1,"New Jersey","NJ","Representative","4",1,1,0,0,0,0,0,0,0,19345,"157","NJ-4",0
+"155","Josh Gottheimer",1,"New Jersey","NJ","Representative","5",1,1,0,0,0,0,0,1,0,2563606,"158","NJ-5",0
+"156","Frank Pallone Jr.",1,"New Jersey","NJ","Representative","6",1,1,0,0,0,0,0,1,0,532442,"159","NJ-6",0
+"157","Tom Malinowski",1,"New Jersey","NJ","Representative","7",1,1,0,0,0,0,0,1,0,3445039,"160","NJ-7",0
+"158","Robert J. Menendez",1,"New Jersey","NJ","Representative","8",1,0,0,0,1,0,0,0,0,215876,"161","NJ-8",0
+"159","Bill Pascrell Jr.",1,"New Jersey","NJ","Representative","9",1,1,0,0,0,0,0,1,0,262704,"162","NJ-9",0
+"160","Donald M. Payne Jr.",1,"New Jersey","NJ","Representative","10",1,0,1,0,0,0,0,1,0,82700,"163","NJ-10",0
+"161","Mikie Sherrill",1,"New Jersey","NJ","Representative","11",0,1,0,0,0,0,0,1,0,1746788,"164","NJ-11",0
+"162","Bonnie Watson Coleman",1,"New Jersey","NJ","Representative","12",0,0,1,0,0,0,0,1,0,145386,"165","NJ-12",0
+"163","Alex Padilla",1,"California","CA","Senator","0",1,0,0,0,1,0,0,1,0,3168817,"166","CA-0",0
+"164","Max Steiner",1,"California","CA","Representative","1",1,1,0,0,0,0,0,0,0,219355,"167","CA-1",0
+"165","Jared Huffman",1,"California","CA","Representative","2",1,1,0,0,0,0,0,1,0,151664,"168","CA-2",0
+"166","Kermit Jones",1,"California","CA","Representative","3",1,0,1,0,0,0,0,0,0,1332081,"169","CA-3",0
+"167","Mike Thompson",1,"California","CA","Representative","4",1,1,0,0,0,0,0,1,0,326121,"170","CA-4",0
+"168","Michael J. ""Mike"" Barkley",1,"California","CA","Representative","5",1,1,0,0,0,0,0,0,0,13361,"171","CA-5",0
+"169","Ami Bera",1,"California","CA","Representative","6",1,0,0,1,0,0,0,1,0,227107,"172","CA-6",0
+"170","Doris Matsui",1,"California","CA","Representative","7",0,0,0,1,0,0,0,1,0,138764,"173","CA-7",0
+"171","John Garamendi",1,"California","CA","Representative","8",1,1,0,0,0,0,0,1,0,257746,"174","CA-8",0
+"172","Josh Harder",1,"California","CA","Representative","9",1,1,0,0,0,0,0,1,0,2133008,"175","CA-9",0
+"173","Nancy Pelosi",1,"California","CA","Representative","11",0,1,0,0,0,0,0,1,0,15995076,"177","CA-11",0
+"174","Barbara Lee",1,"California","CA","Representative","12",0,0,1,0,0,0,0,1,0,578965,"178","CA-12",0
+"175","Adam Gray",1,"California","CA","Representative","13",1,1,0,0,0,0,0,0,0,839944,"179","CA-13",0
+"176","Eric Swalwell",1,"California","CA","Representative","14",1,1,0,0,0,0,0,1,0,1196979,"180","CA-14",0
+"177","Ro Khanna",1,"California","CA","Representative","17",1,0,0,1,0,0,0,1,0,1940962,"185","CA-17",0
+"178","Zoe Lofgren",1,"California","CA","Representative","18",0,1,0,0,0,0,0,1,0,276598,"186","CA-18",0
+"179","Jimmy Panetta",1,"California","CA","Representative","19",1,1,0,0,0,0,0,1,0,502485,"187","CA-19",0
+"180","Marisa Wood",1,"California","CA","Representative","20",0,1,0,0,0,0,0,0,0,215234,"188","CA-20",0
+"181","Jim Costa",1,"California","CA","Representative","21",1,1,0,0,0,0,0,1,0,596214,"189","CA-21",0
+"182","Rudy Salas",1,"California","CA","Representative","22",1,0,0,0,1,0,0,0,0,1218515,"190","CA-22",0
+"183","Derek Marshall",1,"California","CA","Representative","23",1,1,0,0,0,0,0,0,0,351042,"191","CA-23",0
+"184","Salud Carbajal",1,"California","CA","Representative","24",1,0,0,0,1,0,0,1,0,453076,"192","CA-24",0
+"185","Raul Ruiz",1,"California","CA","Representative","25",1,0,0,0,1,0,0,1,0,391028,"193","CA-25",0
+"186","Julia Brownley",1,"California","CA","Representative","26",0,1,0,0,0,0,0,1,0,628126,"194","CA-26",0
+"187","Christy Smith",1,"California","CA","Representative","27",0,1,0,0,0,0,0,0,0,1801428,"195","CA-27",0
+"188","Judy Chu",1,"California","CA","Representative","28",0,0,0,1,0,0,0,1,0,692097,"196","CA-28",0
+"189","Grace F. Napolitano",1,"California","CA","Representative","31",0,0,0,0,1,0,0,1,0,29750,"201","CA-31",0
+"190","Brad Sherman",1,"California","CA","Representative","32",1,1,0,0,0,0,0,1,0,459930,"202","CA-32",0
+"191","Pete Aguilar",1,"California","CA","Representative","33",1,0,0,0,1,0,0,1,0,615949,"203","CA-33",0
+"192","Norma J. Torres",1,"California","CA","Representative","35",0,0,0,0,1,0,0,1,0,110977,"206","CA-35",0
+"193","Ted W. Lieu",1,"California","CA","Representative","36",1,0,0,1,0,0,0,1,0,348391,"207","CA-36",0
+"194","Linda T. Sánchez",1,"California","CA","Representative","38",0,0,0,0,1,0,0,1,0,199242,"210","CA-38",0
+"195","Mark Takano",1,"California","CA","Representative","39",1,0,0,1,0,0,0,1,0,272230,"211","CA-39",0
+"196","Asif Mahmood",1,"California","CA","Representative","40",1,0,0,1,0,0,0,0,0,883344,"212","CA-40",0
+"197","Will Rollins",1,"California","CA","Representative","41",1,1,0,0,0,0,0,0,0,1724563,"213","CA-41",0
+"198","Robert Garcia",1,"California","CA","Representative","42",1,0,0,0,1,0,0,0,0,282463,"214","CA-42",0
+"199","Maxine Waters",1,"California","CA","Representative","43",0,0,1,0,0,0,0,1,0,292754,"215","CA-43",0
+"200","Nanette Diaz Barragan",1,"California","CA","Representative","44",0,0,0,0,1,0,0,1,0,143013,"216","CA-44",0
+"201","Jay F. Chen",1,"California","CA","Representative","45",1,0,0,1,0,0,0,0,0,1735483,"217","CA-45",0
+"202","Lou Correa",1,"California","CA","Representative","46",1,0,0,0,1,0,0,1,0,189441,"218","CA-46",0
+"203","Katie Porter",1,"California","CA","Representative","47",0,1,0,0,0,0,0,1,0,5756969,"219","CA-47",0
+"204","Stephen Houlahan",1,"California","CA","Representative","48",1,1,0,0,0,0,0,0,0,27932,"220","CA-48",0
+"205","Mike Levin",1,"California","CA","Representative","49",1,1,0,0,0,0,0,1,0,1649266,"221","CA-49",0
+"206","Scott Peters",1,"California","CA","Representative","50",1,1,0,0,0,0,0,1,0,250964,"222","CA-50",0
+"207","Sara Jacobs",1,"California","CA","Representative","51",0,1,0,0,0,0,0,1,0,512079,"223","CA-51",0
+"208","Juan Vargas",1,"California","CA","Representative","52",1,0,0,0,1,0,0,1,0,99000,"224","CA-52",0
+"209","Jennifer Lewis",1,"Virginia","VA","Representative","6",0,1,0,0,0,0,0,0,0,74584,"225","VA-6",0
+"210","Chellie Pingree",1,"Maine","ME","Representative","1",0,1,0,0,0,0,0,1,0,116562,"226","ME-1",0
+"211","Jared Golden",1,"Maine","ME","Representative","2",1,1,0,0,0,0,0,1,0,2180885,"227","ME-2",0
+"212","Catherine Cortez Masto",1,"Nevada","NV","Senator","0",0,1,0,0,1,0,0,1,0,22810659,"228","NV-0",0
+"213","Dina Titus",1,"Nevada","NV","Representative","1",0,1,0,0,0,0,0,1,0,963115,"229","NV-1",0
+"214","Elizabeth Mercedes Krause",1,"Nevada","NV","Representative","2",0,0,0,0,0,0,1,0,0,26170,"230","NV-2",0
+"215","Susie Lee",1,"Nevada","NV","Representative","3",0,1,0,0,0,0,0,1,0,1937755,"231","NV-3",0
+"216","Steven A. Horsford",1,"Nevada","NV","Representative","4",1,0,1,0,0,0,0,1,0,1154458,"232","NV-4",0
+"217","Krystle Matthews",1,"South Carolina","SC","Senator","0",0,0,1,0,0,0,0,0,0,27747,"233","SC-0",0
+"218","Annie Andrews",1,"South Carolina","SC","Representative","1",0,1,0,0,0,0,0,0,0,884065,"234","SC-1",0
+"219","Judd Larkins",1,"South Carolina","SC","Representative","2",1,1,0,0,0,0,0,0,0,35499,"235","SC-2",0
+"220","Evangeline Hundley",1,"South Carolina","SC","Representative","5",0,0,1,0,0,0,0,0,0,0,"237","SC-5",0
+"221","James E. ""Jim"" Clyburn",1,"South Carolina","SC","Representative","6",1,0,1,0,0,0,0,1,0,680567,"238","SC-6",0
+"222","Daryl W. Scott",1,"South Carolina","SC","Representative","7",1,0,1,0,0,0,0,0,0,0,"239","SC-7",0
+"223","Katrina Christiansen",1,"North Dakota","ND","Senator","0",0,1,0,0,0,0,0,0,0,42645,"240","ND-0",0
+"224","Mark Haugen",1,"North Dakota","ND","Representative","0",1,1,0,0,0,0,0,0,0,2050,"241","ND-0",0
+"225","Herbert C. ""Herb"" Jones Jr.",1,"Virginia","VA","Representative","1",1,0,1,0,0,0,0,0,0,143691,"242","VA-1",0
+"226","Elaine G. Luria",1,"Virginia","VA","Representative","2",0,1,0,0,0,0,0,1,0,3884074,"243","VA-2",0
+"227","Robert C. ""Bobby"" Scott",1,"Virginia","VA","Representative","3",1,0,1,0,0,0,0,1,0,64665,"244","VA-3",0
+"228","A. Donald McEachin",1,"Virginia","VA","Representative","4",1,0,1,0,0,0,0,1,0,160280,"245","VA-4",0
+"229","Joshua M. Throneburg",1,"Virginia","VA","Representative","5",1,1,0,0,0,0,0,0,0,508170,"246","VA-5",0
+"230","Abigail A. Spanberger",1,"Virginia","VA","Representative","7",0,1,0,0,0,0,0,1,0,2840533,"247","VA-7",0
+"231","Donald S. Beyer Jr.",1,"Virginia","VA","Representative","8",1,1,0,0,0,0,0,1,0,388677,"248","VA-8",0
+"232","Jennifer T. Wexton",1,"Virginia","VA","Representative","10",0,1,0,0,0,0,0,1,0,896044,"249","VA-10",0
+"233","Gerald E. ""Gerry"" Connolly",1,"Virginia","VA","Representative","11",1,1,0,0,0,0,0,1,0,209940,"250","VA-11",0
+"234","Michael Bennet",1,"Colorado","CO","Senator","0",1,0,0,0,0,0,0,1,0,6329604,"251","CO-0",0
+"235","Diana DeGette",1,"Colorado","CO","Representative","1",0,1,0,0,0,0,0,1,0,160222,"252","CO-1",0
+"236","Joe Neguse",1,"Colorado","CO","Representative","2",1,0,1,0,0,0,0,1,0,477312,"253","CO-2",0
+"237","Adam Frisch",1,"Colorado","CO","Representative","3",1,1,0,0,0,0,0,0,0,1781585,"254","CO-3",0
+"238","Ike McCorkle",1,"Colorado","CO","Representative","4",1,1,0,0,0,0,0,0,0,64705,"255","CO-4",0
+"239","David Torres",1,"Colorado","CO","Representative","5",1,0,0,0,1,0,0,0,0,10250,"256","CO-5",0
+"240","Jason Crow",1,"Colorado","CO","Representative","6",1,1,0,0,0,0,0,1,0,708437,"257","CO-6",0
+"241","Brittany Pettersen",1,"Colorado","CO","Representative","7",0,1,0,0,0,0,0,0,0,1072791,"258","CO-7",0
+"242","Yadira Caraveo",1,"Colorado","CO","Representative","8",0,0,0,0,1,0,0,0,0,1506138,"259","CO-8",0
+"243","Tammy Duckworth",1,"Illinois","IL","Senator","0",0,1,0,1,0,0,0,1,0,2697011,"260","IL-0",0
+"244","Jonathan L. Jackson",1,"Illinois","IL","Representative","1",1,0,1,0,0,0,0,0,0,120804,"261","IL-1",0
+"245","Robin Kelly",1,"Illinois","IL","Representative","2",0,0,1,0,0,0,0,1,0,236740,"262","IL-2",0
+"246","Delia Ramirez",1,"Illinois","IL","Representative","3",0,0,0,0,1,0,0,0,0,80770,"263","IL-3",0
+"247","Jesus ""Chuy"" Garcia",1,"Illinois","IL","Representative","4",1,0,0,0,1,0,0,1,0,125770,"264","IL-4",0
+"248","Mike Quigley",1,"Illinois","IL","Representative","5",1,1,0,0,0,0,0,1,0,144425,"265","IL-5",0
+"249","Sean Casten",1,"Illinois","IL","Representative","6",1,1,0,0,0,0,0,1,0,1877777,"266","IL-6",0
+"250","Raja Krishnamoorthi",1,"Illinois","IL","Representative","8",1,0,0,1,0,0,0,1,0,2611102,"268","IL-8",0
+"251","Janice D. Schakowsky",1,"Illinois","IL","Representative","9",0,1,0,0,0,0,0,1,0,221542,"269","IL-9",0
+"252","Brad Schneider",1,"Illinois","IL","Representative","10",1,1,0,0,0,0,0,1,0,952586,"270","IL-10",0
+"253","Bill Foster",1,"Illinois","IL","Representative","11",1,1,0,0,0,0,0,1,0,952590,"271","IL-11",0
+"254","Homer ""Chip"" Markel",1,"Illinois","IL","Representative","12",1,1,0,0,0,0,0,0,0,15854,"272","IL-12",0
+"255","Nikki Budzinski",1,"Illinois","IL","Representative","13",0,1,0,0,0,0,0,0,0,1568153,"273","IL-13",0
+"256","Lauren Underwood",1,"Illinois","IL","Representative","14",0,0,1,0,0,0,0,1,0,2108627,"274","IL-14",0
+"257","Paul J. Lange",1,"Illinois","IL","Representative","15",1,1,0,0,0,0,0,0,0,13743,"275","IL-15",0
+"258","Eric Sorensen",1,"Illinois","IL","Representative","17",1,1,0,0,0,0,0,0,0,1504470,"276","IL-17",0
+"259","Charles E. Schumer",1,"New York","NY","Senator","0",1,1,0,0,0,0,0,1,0,9686598,"277","NY-0",0
+"260","Madison Horn",1,"Oklahoma","OK","Senator","0",0,1,0,0,0,0,1,0,0,166160,"278","OK-0",0
+"261","Kendra Horn",1,"Oklahoma","OK","Senator","0",0,1,0,0,0,0,0,0,0,914494,"281","OK-0",1
+"262","Adam Martin",1,"Oklahoma","OK","Representative","1",1,0,1,0,0,0,0,0,0,13575,"282","OK-1",0
+"263","Naomi Andrews",1,"Oklahoma","OK","Representative","2",0,1,0,0,0,0,0,0,0,75,"283","OK-2",0
+"264","Jeremiah A. Ross",1,"Oklahoma","OK","Representative","3",1,1,0,0,0,0,0,0,0,0,"284","OK-3",0
+"265","Mary Brannon",1,"Oklahoma","OK","Representative","4",0,1,0,0,0,0,0,0,0,0,"285","OK-4",0
+"266","Joshua Harris-Till",1,"Oklahoma","OK","Representative","5",1,0,1,0,0,0,0,0,0,28411,"286","OK-5",0
+"267","Rick Edwin Jones",1,"Utah","UT","Representative","1",1,1,0,0,0,0,0,0,0,0,"287","UT-1",0
+"268","Nick Mitchell",1,"Utah","UT","Representative","2",1,0,1,0,0,0,0,0,0,12135,"288","UT-2",0
+"269","Glenn J. Wright",1,"Utah","UT","Representative","3",1,1,0,0,0,0,0,0,0,3000,"289","UT-3",0
+"270","Darlene McDonald",1,"Utah","UT","Representative","4",0,0,1,0,0,0,0,0,0,20495,"290","UT-4",0
+"271","Chris Van Hollen",1,"Maryland","MD","Senator","0",1,1,0,0,0,0,0,1,0,1394269,"291","MD-0",0
+"272","Heather R. Mizeur",1,"Maryland","MD","Representative","1",0,1,0,0,0,0,0,0,0,1051855,"292","MD-1",0
+"273","C.A. Dutch Ruppersberger",1,"Maryland","MD","Representative","2",1,1,0,0,0,0,0,1,0,178695,"293","MD-2",0
+"274","John Sarbanes",1,"Maryland","MD","Representative","3",1,1,0,0,0,0,0,1,0,34930,"294","MD-3",0
+"275","Glenn F. Ivey",1,"Maryland","MD","Representative","4",1,0,1,0,0,0,0,0,0,448081,"295","MD-4",0
+"276","Steny Hoyer",1,"Maryland","MD","Representative","5",1,1,0,0,0,0,0,1,0,674164,"296","MD-5",0
+"277","David J. Trone",1,"Maryland","MD","Representative","6",1,1,0,0,0,0,0,1,0,309602,"297","MD-6",0
+"278","Kweisi Mfume",1,"Maryland","MD","Representative","7",1,0,1,0,0,0,0,1,0,133881,"298","MD-7",0
+"279","Jamie Raskin",1,"Maryland","MD","Representative","8",1,1,0,0,0,0,0,1,0,1030489,"299","MD-8",0
+"280","Mark Kelly",1,"Arizona","AZ","Senator","0",1,1,0,0,0,0,0,1,0,29590633,"300","AZ-0",0
+"281","Jevin D. Hodge",1,"Arizona","AZ","Representative","1",1,0,1,0,0,0,0,0,0,1141123,"301","AZ-1",0
+"282","Tom O'Halleran",1,"Arizona","AZ","Representative","2",1,1,0,0,0,0,0,1,0,1234394,"302","AZ-2",0
+"283","Ruben Gallego",1,"Arizona","AZ","Representative","3",1,0,0,0,1,0,0,1,0,366368,"303","AZ-3",0
+"284","Greg Stanton",1,"Arizona","AZ","Representative","4",1,1,0,0,0,0,0,1,0,1180697,"304","AZ-4",0
+"285","Javier Garcia Ramos",1,"Arizona","AZ","Representative","5",1,0,0,0,1,0,0,0,0,6149,"305","AZ-5",0
+"286","Kirsten Engel",1,"Arizona","AZ","Representative","6",0,1,0,0,0,0,0,0,0,1128175,"306","AZ-6",0
+"287","Raúl Grijalva",1,"Arizona","AZ","Representative","7",1,0,0,0,1,0,0,1,0,161900,"307","AZ-7",0
+"288","Mark R. Holland",1,"Kansas","KS","Senator","0",1,1,0,0,0,0,0,0,0,392975,"308","KS-0",0
+"289","James ""Jimmy"" Beard",1,"Kansas","KS","Representative","1",1,1,0,0,0,0,0,0,0,7620,"309","KS-1",0
+"290","Patrick Schmidt",1,"Kansas","KS","Representative","2",1,1,0,0,0,0,0,0,0,558256,"310","KS-2",0
+"291","Sharice Davids",1,"Kansas","KS","Representative","3",0,0,0,0,0,0,1,1,0,2744589,"311","KS-3",0
+"292","Bob Hernandez",1,"Kansas","KS","Representative","4",1,0,0,0,1,0,0,0,0,16125,"312","KS-4",0
+"293","Bob Lorinser",1,"Michigan","MI","Representative","1",1,1,0,0,0,0,0,0,0,162437,"313","MI-1",0
+"294","Jerry Hilliard",1,"Michigan","MI","Representative","2",1,1,0,0,0,0,0,0,0,7303,"314","MI-2",0
+"295","Hillary Scholten",1,"Michigan","MI","Representative","3",0,1,0,0,0,0,0,0,0,1603346,"315","MI-3",0
+"296","Bart Goldberg",1,"Michigan","MI","Representative","5",1,1,0,0,0,0,0,0,0,101816,"316","MI-5",0
+"297","Debbie Dingell",1,"Michigan","MI","Representative","6",0,1,0,0,0,0,0,1,0,284615,"317","MI-6",0
+"298","Elissa Slotkin",1,"Michigan","MI","Representative","7",0,1,0,0,0,0,0,1,0,3355459,"318","MI-7",0
+"299","Daniel T. Kildee",1,"Michigan","MI","Representative","8",1,1,0,0,0,0,0,1,0,1470416,"319","MI-8",0
+"300","Brian Jaye",1,"Michigan","MI","Representative","9",1,1,0,0,0,0,0,0,0,19165,"320","MI-9",0
+"301","Carl J. Marlinga",1,"Michigan","MI","Representative","10",1,1,0,0,0,0,0,0,0,515862,"321","MI-10",0
+"302","Haley Stevens",1,"Michigan","MI","Representative","11",0,1,0,0,0,0,0,1,0,1207694,"322","MI-11",0
+"303","Rashida Tlaib",1,"Michigan","MI","Representative","12",0,0,0,0,0,1,0,1,0,785175,"323","MI-12",0
+"304","Shri Thanedar",1,"Michigan","MI","Representative","13",1,0,0,1,0,0,0,0,0,30700,"324","MI-13",0
+"305","Trudy Busch Valentine",1,"Missouri","MO","Senator","0",0,1,0,0,0,0,0,0,0,4210218,"325","MO-0",0
+"306","Cori Bush",1,"Missouri","MO","Representative","1",0,0,1,0,0,0,0,1,0,578653,"326","MO-1",0
+"307","Trish Gunby",1,"Missouri","MO","Representative","2",0,1,0,0,0,0,0,0,0,419546,"327","MO-2",0
+"308","Bethany Mann",1,"Missouri","MO","Representative","3",0,1,0,0,0,0,0,0,0,3900,"328","MO-3",0
+"309","Jack Truman",1,"Missouri","MO","Representative","4",1,1,0,0,0,0,0,0,0,0,"329","MO-4",0
+"310","Emanuel Cleaver II",1,"Missouri","MO","Representative","5",1,0,1,0,0,0,0,1,0,99916,"330","MO-5",0
+"311","Henry Martin",1,"Missouri","MO","Representative","6",1,0,1,0,0,0,0,0,0,43476,"331","MO-6",0
+"312","Kristen Radaker-Sheafer",1,"Missouri","MO","Representative","7",0,1,0,0,0,0,0,0,0,2920,"332","MO-7",0
+"313","Randi McCallian",1,"Missouri","MO","Representative","8",0,1,0,0,0,0,0,0,0,13592,"333","MO-8",0
+"314","Patty Murray",1,"Washington","WA","Senator","0",0,1,0,0,0,0,0,1,0,4540293,"334","WA-0",0
+"315","Suzan DelBene",1,"Washington","WA","Representative","1",0,1,0,0,0,0,0,1,0,460072,"335","WA-1",0
+"316","Rick Larsen",1,"Washington","WA","Representative","2",1,1,0,0,0,0,0,1,0,288721,"336","WA-2",0
+"317","Marie Gluesenkamp Perez",1,"Washington","WA","Representative","3",0,1,0,0,1,0,0,0,0,2394322,"337","WA-3",0
+"318","Doug White",1,"Washington","WA","Representative","4",1,1,0,0,0,0,0,0,0,364423,"338","WA-4",0
+"319","Natasha Hill",1,"Washington","WA","Representative","5",0,0,1,0,0,0,0,0,0,147171,"339","WA-5",0
+"320","Derek Kilmer",1,"Washington","WA","Representative","6",1,1,0,0,0,0,0,1,0,505742,"340","WA-6",0
+"321","Pramila Jayapal",1,"Washington","WA","Representative","7",0,0,0,1,0,0,0,1,0,648605,"341","WA-7",0
+"322","Kim Schrier",1,"Washington","WA","Representative","8",0,1,0,0,0,0,0,1,0,3460010,"342","WA-8",0
+"323","Adam Smith",1,"Washington","WA","Representative","9",1,1,0,0,0,0,0,1,0,232158,"343","WA-9",0
+"324","Marilyn Strickland",1,"Washington","WA","Representative","10",0,0,1,0,0,0,0,1,0,470309,"344","WA-10",0
+"325","Cameron Parsons",1,"Tennessee","TN","Representative","1",1,1,0,0,0,0,0,0,0,0,"345","TN-1",0
+"326","Mark Harmon",1,"Tennessee","TN","Representative","2",1,1,0,0,0,0,0,0,0,24757,"346","TN-2",0
+"327","Meg Gorman",1,"Tennessee","TN","Representative","3",0,1,0,0,0,0,0,0,0,30775,"347","TN-3",0
+"328","Wayne Steele",1,"Tennessee","TN","Representative","4",1,1,0,0,0,0,0,0,0,3838,"348","TN-4",0
+"329","Heidi Campbell",1,"Tennessee","TN","Representative","5",0,1,0,0,0,0,0,0,0,597016,"349","TN-5",0
+"330","Randal Cooper",1,"Tennessee","TN","Representative","6",1,1,0,0,0,0,0,0,0,0,"350","TN-6",0
+"331","Odessa Kelly",1,"Tennessee","TN","Representative","7",0,0,1,0,0,0,0,0,0,312409,"351","TN-7",0
+"332","Lynnette P. Williams",1,"Tennessee","TN","Representative","8",0,0,1,0,0,0,0,0,0,375,"352","TN-8",0
+"333","Steve Cohen",1,"Tennessee","TN","Representative","9",1,1,0,0,0,0,0,1,0,36800,"353","TN-9",0
+"334","Richard Blumenthal",1,"Connecticut","CT","Senator","0",1,1,0,0,0,0,0,1,0,1113278,"354","CT-0",0
+"335","John B. Larson",1,"Connecticut","CT","Representative","1",1,1,0,0,0,0,0,1,0,354564,"355","CT-1",0
+"336","Joe Courtney",1,"Connecticut","CT","Representative","2",1,1,0,0,0,0,0,1,0,387539,"356","CT-2",0
+"337","Rosa L. DeLauro",1,"Connecticut","CT","Representative","3",0,1,0,0,0,0,0,1,0,621480,"357","CT-3",0
+"338","Jim Himes",1,"Connecticut","CT","Representative","4",1,1,0,0,0,0,0,1,0,286015,"358","CT-4",0
+"339","Jahana Hayes",1,"Connecticut","CT","Representative","5",0,0,1,0,0,0,0,1,0,780429,"359","CT-5",0
+"340","Jeff Ettinger",1,"Minnesota","MN","Representative","1",1,1,0,0,0,0,0,0,0,447071,"360","MN-1",0
+"341","Angie Craig",1,"Minnesota","MN","Representative","2",0,1,0,0,0,0,0,1,0,2195711,"361","MN-2",0
+"342","Dean Phillips",1,"Minnesota","MN","Representative","3",1,1,0,0,0,0,0,1,0,914412,"362","MN-3",0
+"343","Betty McCollum",1,"Minnesota","MN","Representative","4",0,1,0,0,0,0,0,1,0,401322,"363","MN-4",0
+"344","Ilhan Omar",1,"Minnesota","MN","Representative","5",0,0,1,0,0,0,0,1,0,883752,"364","MN-5",0
+"345","Jeanne Hendricks",1,"Minnesota","MN","Representative","6",0,1,0,0,0,0,0,0,0,53890,"365","MN-6",0
+"346","Jill Abahsain",1,"Minnesota","MN","Representative","7",0,1,0,0,0,0,0,0,0,10521,"366","MN-7",0
+"347","Jen Schultz",1,"Minnesota","MN","Representative","8",0,1,0,0,0,0,0,0,0,274830,"367","MN-8",0
+"348","Peter Welch",1,"Vermont","VT","Senator","0",1,1,0,0,0,0,0,0,0,477924,"368","VT-0",0
+"349","Becca Balint",1,"Vermont","VT","Representative","0",0,1,0,0,0,0,0,0,0,400722,"369","VT-0",0
+"350","Mandela Barnes",1,"Wisconsin","WI","Senator","0",1,0,1,0,0,0,0,0,0,20015109,"370","WI-0",0
+"351","Ann Roe",1,"Wisconsin","WI","Representative","1",0,1,0,0,0,0,0,0,0,355947,"371","WI-1",0
+"352","Mark Pocan",1,"Wisconsin","WI","Representative","2",1,1,0,0,0,0,0,1,0,153657,"372","WI-2",0
+"353","Brad Pfaff",1,"Wisconsin","WI","Representative","3",1,1,0,0,0,0,0,0,0,887654,"373","WI-3",0
+"354","Gwen Moore",1,"Wisconsin","WI","Representative","4",0,0,1,0,0,0,0,1,0,110523,"374","WI-4",0
+"355","Mike Van Someren",1,"Wisconsin","WI","Representative","5",1,1,0,0,0,0,0,0,0,32616,"375","WI-5",0
+"356","Richard ""Dick"" Ausman",1,"Wisconsin","WI","Representative","7",1,1,0,0,0,0,0,0,0,30625,"376","WI-7",0
+"357","Brian Schatz",1,"Hawaii","HI","Senator","0",1,1,0,0,0,0,0,1,0,447139,"377","HI-0",0
+"358","Ed Case",1,"Hawaii","HI","Representative","1",1,1,0,0,0,0,0,1,0,409232,"378","HI-1",0
+"359","Jill N. Tokuda",1,"Hawaii","HI","Representative","2",0,0,0,1,0,0,0,0,0,399722,"379","HI-2",0
+"360","Mary S. Peltola",1,"Alaska","AK","Representative","0",0,0,0,0,0,0,1,0,0,3722044,"381","AK-0",0
+"361","Lynnette GreyBull",1,"Wyoming","WY","Representative","0",0,0,0,0,0,0,1,0,0,22600,"382","WY-0",0
+"362","Val Demings",1,"Florida","FL","Senator","0",0,0,1,0,0,0,0,0,0,24688761,"383","FL-0",0
+"363","Rebekah Jones",1,"Florida","FL","Representative","1",0,1,0,0,0,0,0,0,0,277244,"384","FL-1",0
+"364","Al Lawson",1,"Florida","FL","Representative","2",1,0,1,0,0,0,0,1,0,165345,"386","FL-2",0
+"365","Danielle Hawk",1,"Florida","FL","Representative","3",0,1,0,0,0,0,0,0,0,24122,"387","FL-3",0
+"366","LaShonda ""L.J."" Holloway",1,"Florida","FL","Representative","4",0,0,1,0,0,0,0,0,0,1300,"388","FL-4",0
+"367","Karen Green",1,"Florida","FL","Representative","7",0,0,1,0,0,0,0,0,0,29630,"389","FL-7",0
+"368","Joanne Terry",1,"Florida","FL","Representative","8",0,1,0,0,0,0,0,0,0,31518,"390","FL-8",0
+"369","Darren Soto",1,"Florida","FL","Representative","9",1,0,0,0,1,0,0,1,0,204202,"391","FL-9",0
+"370","Maxwell Alejandro Frost",1,"Florida","FL","Representative","10",1,0,1,0,1,0,0,0,0,857387,"392","FL-10",0
+"371","Shante Munns",1,"Florida","FL","Representative","11",0,0,1,0,0,0,0,0,0,1920,"393","FL-11",0
+"372","Kimberly Walker",1,"Florida","FL","Representative","12",0,0,1,0,0,0,0,0,0,3522,"394","FL-12",0
+"373","Eric Lynn",1,"Florida","FL","Representative","13",1,1,0,0,0,0,0,0,0,1033314,"395","FL-13",0
+"374","Kathy Castor",1,"Florida","FL","Representative","14",0,1,0,0,0,0,0,1,0,303373,"396","FL-14",0
+"375","Alan M. Cohn",1,"Florida","FL","Representative","15",1,1,0,0,0,0,0,0,0,651068,"397","FL-15",0
+"376","Jan Schneider",1,"Florida","FL","Representative","16",0,1,0,0,0,0,0,0,0,1517,"398","FL-16",0
+"377","Andrea Doria Kale",1,"Florida","FL","Representative","17",0,1,0,0,0,0,0,0,0,4210,"399","FL-17",0
+"378","Cindy Banyai",1,"Florida","FL","Representative","19",0,1,0,0,0,0,0,0,0,18725,"400","FL-19",0
+"379","Sheila Cherfilus-McCormick",1,"Florida","FL","Representative","20",0,0,1,0,0,0,0,1,0,161181,"401","FL-20",0
+"380","Corinna Balderramos Robinson",1,"Florida","FL","Representative","21",0,1,0,0,1,0,0,0,0,41470,"402","FL-21",0
+"381","Lois Frankel",1,"Florida","FL","Representative","22",0,1,0,0,0,0,0,1,0,247757,"403","FL-22",0
+"382","Jared Moskowitz",1,"Florida","FL","Representative","23",1,1,0,0,0,0,0,0,0,358291,"404","FL-23",0
+"383","Frederica Wilson",1,"Florida","FL","Representative","24",0,0,1,0,0,0,0,1,0,77521,"405","FL-24",0
+"384","Debbie Wasserman Schultz",1,"Florida","FL","Representative","25",0,1,0,0,0,0,0,1,0,592607,"406","FL-25",0
+"385","Christine Alexandria Olivo",1,"Florida","FL","Representative","26",0,0,1,0,0,0,0,0,0,57416,"407","FL-26",0
+"386","Annette Taddeo",1,"Florida","FL","Representative","27",0,0,0,0,1,0,0,0,0,1334976,"408","FL-27",0
+"387","Robert Asencio",1,"Florida","FL","Representative","28",1,0,0,0,1,0,0,0,0,65282,"409","FL-28",0
+"388","Bridget Fleming",1,"New York","NY","Representative","1",0,1,0,0,0,0,0,0,0,1461001,"410","NY-1",0
+"389","Jackie Gordon",1,"New York","NY","Representative","2",0,0,1,0,0,0,0,0,0,619891,"411","NY-2",0
+"390","Robert P. Zimmerman",1,"New York","NY","Representative","3",1,1,0,0,0,0,0,0,0,1318265,"412","NY-3",0
+"391","Laura A. Gillen",1,"New York","NY","Representative","4",0,1,0,0,0,0,0,0,0,743227,"413","NY-4",0
+"392","Gregory Meeks",1,"New York","NY","Representative","5",1,0,1,0,0,0,0,1,0,359153,"414","NY-5",0
+"393","Grace Meng",1,"New York","NY","Representative","6",0,0,0,1,0,0,0,1,0,361106,"415","NY-6",0
+"394","Nydia M. Velazquez",1,"New York","NY","Representative","7",0,0,0,0,1,0,0,1,0,29916,"416","NY-7",0
+"395","Hakeem S. Jeffries",1,"New York","NY","Representative","8",1,0,1,0,0,0,0,1,0,1212373,"417","NY-8",0
+"396","Daniel Goldman",1,"New York","NY","Representative","10",1,1,0,0,0,0,0,0,0,1570584,"419","NY-10",0
+"397","Max N. Rose",1,"New York","NY","Representative","11",1,1,0,0,0,0,0,0,0,1162712,"420","NY-11",0
+"398","Jerrold L. Nadler",1,"New York","NY","Representative","12",1,1,0,0,0,0,0,1,0,976680,"421","NY-12",0
+"399","Alexandria Ocasio-Cortez",1,"New York","NY","Representative","14",0,0,0,0,1,0,0,1,0,1707783,"423","NY-14",0
+"400","Ritchie J. Torres",1,"New York","NY","Representative","15",1,0,1,0,1,0,0,1,0,1515360,"424","NY-15",0
+"401","Jamaal Bowman",1,"New York","NY","Representative","16",1,0,1,0,0,0,0,1,0,455122,"425","NY-16",0
+"402","Sean Patrick Maloney",1,"New York","NY","Representative","17",1,1,0,0,0,0,0,1,0,1967612,"426","NY-17",0
+"403","Pat Ryan",1,"New York","NY","Representative","18",1,1,0,0,0,0,0,0,0,2757923,"427","NY-18",0
+"404","Josh Riley",1,"New York","NY","Representative","19",1,1,0,0,0,0,0,0,0,2095138,"428","NY-19",0
+"405","Paul D. Tonko",1,"New York","NY","Representative","20",1,1,0,0,0,0,0,1,0,283445,"429","NY-20",0
+"406","Matt Castelli",1,"New York","NY","Representative","21",1,1,0,0,0,0,0,0,0,1151520,"430","NY-21",0
+"407","Francis Conole",1,"New York","NY","Representative","22",1,1,0,0,0,0,0,0,0,1486214,"431","NY-22",0
+"408","Max H. Della Pia",1,"New York","NY","Representative","23",1,1,0,0,0,0,0,0,0,114990,"432","NY-23",0
+"409","Steven Holden",1,"New York","NY","Representative","24",1,1,0,0,0,0,0,0,0,43043,"433","NY-24",0
+"410","Joseph D. Morelle",1,"New York","NY","Representative","25",1,1,0,0,0,0,0,1,0,556186,"434","NY-25",0
+"411","Brian Higgins",1,"New York","NY","Representative","26",1,1,0,0,0,0,0,1,0,260698,"435","NY-26",0
+"412","Richard E. Neal",1,"Massachusetts","MA","Representative","1",1,1,0,0,0,0,0,1,0,425407,"436","MA-1",0
+"413","James P. McGovern",1,"Massachusetts","MA","Representative","2",1,1,0,0,0,0,0,1,0,307952,"437","MA-2",0
+"414","Lori Loureiro Trahan",1,"Massachusetts","MA","Representative","3",0,1,0,0,0,0,0,1,0,547740,"438","MA-3",0
+"415","Katherine M. Clark",1,"Massachusetts","MA","Representative","5",0,1,0,0,0,0,0,1,0,356024,"440","MA-5",0
+"416","Seth Moulton",1,"Massachusetts","MA","Representative","6",1,1,0,0,0,0,0,1,0,333399,"441","MA-6",0
+"417","Ayanna S. Pressley",1,"Massachusetts","MA","Representative","7",0,0,1,0,0,0,0,1,0,319561,"442","MA-7",0
+"418","Stephen F. Lynch",1,"Massachusetts","MA","Representative","8",1,1,0,0,0,0,0,1,0,316855,"443","MA-8",0
+"419","Bill Keating",1,"Massachusetts","MA","Representative","9",1,1,0,0,0,0,0,1,0,159383,"444","MA-9",0
+"420","Lisa Blunt Rochester",1,"Delaware","DE","Representative","0",0,0,1,0,0,0,0,1,0,608714,"445","DE-0",0
+"421","Maggie Hassan",1,"New Hampshire","NH","Senator","0",0,1,0,0,0,0,0,1,0,12184882,"446","NH-0",0
+"422","Chris Pappas",1,"New Hampshire","NH","Representative","1",1,1,0,0,0,0,0,1,0,1743249,"447","NH-1",0
+"423","Ann McLane Kuster",1,"New Hampshire","NH","Representative","2",0,1,0,0,0,0,0,1,0,1267419,"448","NH-2",0
+"424","David N. Cicilline",1,"Rhode Island","RI","Representative","1",1,1,0,0,0,0,0,1,0,419463,"449","RI-1",0
+"425","Seth M. Magaziner",1,"Rhode Island","RI","Representative","2",1,1,0,0,0,0,0,0,0,1155719,"450","RI-2",0
+"426","Nathaniel Moran",0,"Texas","TX","Representative","1",1,1,0,0,0,0,0,0,0,78080,"451","TX-1",0
+"427","Dan Crenshaw",0,"Texas","TX","Representative","2",1,1,0,0,0,0,0,1,0,2416874,"452","TX-2",0
+"428","Keith Self",0,"Texas","TX","Representative","3",1,1,0,0,0,0,0,0,1,269160,"453","TX-3",0
+"429","Pat Fallon",0,"Texas","TX","Representative","4",1,1,0,0,0,0,0,1,1,113826,"454","TX-4",0
+"430","Lance Gooden",0,"Texas","TX","Representative","5",1,1,0,0,0,0,0,1,1,217782,"455","TX-5",0
+"431","Johnny Teague",0,"Texas","TX","Representative","7",1,1,0,0,0,0,0,0,0,81275,"457","TX-7",0
+"432","Morgan Luttrell",0,"Texas","TX","Representative","8",1,1,0,0,0,0,0,0,1,1334823,"458","TX-8",0
+"433","Jimmy I. Leon",0,"Texas","TX","Representative","9",1,0,0,0,0,0,0,0,0,0,"459","TX-9",0
+"434","Michael McCaul",0,"Texas","TX","Representative","10",1,1,0,0,0,0,0,1,0,970436,"460","TX-10",0
+"435","Kay Granger",0,"Texas","TX","Representative","12",0,1,0,0,0,0,0,1,0,517962,"462","TX-12",0
+"436","Ronny Jackson",0,"Texas","TX","Representative","13",1,1,0,0,0,0,0,1,1,1018039,"463","TX-13",0
+"437","Randy Weber",0,"Texas","TX","Representative","14",1,1,0,0,0,0,0,1,1,316659,"464","TX-14",0
+"438","Monica De La Cruz",0,"Texas","TX","Representative","15",0,0,0,0,1,0,0,0,1,1340477,"465","TX-15",0
+"439","Irene Armendariz-Jackson",0,"Texas","TX","Representative","16",0,0,0,0,1,0,0,0,1,95138,"466","TX-16",0
+"440","Pete Sessions",0,"Texas","TX","Representative","17",1,1,0,0,0,0,0,1,1,253890,"467","TX-17",0
+"441","Carmen Maria Montiel",0,"Texas","TX","Representative","18",0,0,0,0,1,0,0,0,1,66095,"468","TX-18",0
+"442","Kyle Sinclair",0,"Texas","TX","Representative","20",1,1,0,0,0,0,0,0,0,107341,"470","TX-20",0
+"443","Chip Roy",0,"Texas","TX","Representative","21",1,1,0,0,0,0,0,1,0,718640,"471","TX-21",0
+"444","Troy E. Nehls",0,"Texas","TX","Representative","22",1,1,0,0,0,0,0,1,1,286216,"472","TX-22",0
+"445","Tony Gonzales",0,"Texas","TX","Representative","23",1,0,0,0,1,0,0,1,0,562821,"473","TX-23",0
+"446","Beth Van Duyne",0,"Texas","TX","Representative","24",0,1,0,0,0,0,0,1,1,531283,"474","TX-24",0
+"447","Michael Cloud",0,"Texas","TX","Representative","27",1,1,0,0,0,0,0,1,1,233327,"477","TX-27",0
+"448","Cassy Garcia",0,"Texas","TX","Representative","28",0,0,0,0,1,0,0,0,0,628730,"478","TX-28",0
+"449","Robert Schafranek",0,"Texas","TX","Representative","29",1,1,0,0,0,0,0,0,0,0,"479","TX-29",0
+"450","James Rodgers",0,"Texas","TX","Representative","30",1,1,0,0,0,0,0,0,0,28782,"480","TX-30",0
+"451","Antonio Swad",0,"Texas","TX","Representative","32",1,0,0,0,1,0,0,0,0,40347,"482","TX-32",0
+"452","Patrick David Gillespie",0,"Texas","TX","Representative","33",1,1,0,0,0,0,0,0,0,0,"483","TX-33",0
+"453","Mayra Flores",0,"Texas","TX","Representative","34",0,0,0,0,1,0,0,0,1,1309445,"484","TX-34",0
+"454","Dan McQueen",0,"Texas","TX","Representative","35",1,1,0,0,0,0,0,0,0,0,"485","TX-35",0
+"455","Brian Babin",0,"Texas","TX","Representative","36",1,1,0,0,0,0,0,1,1,303495,"486","TX-36",0
+"456","Jenny Garcia Sharon",0,"Texas","TX","Representative","37",0,1,0,0,0,0,0,0,1,1350,"487","TX-37",0
+"457","Wesley Hunt",0,"Texas","TX","Representative","38",1,0,1,0,0,0,0,0,0,1538357,"488","TX-38",0
+"458","Todd Young",0,"Indiana","IN","Senator","0",1,1,0,0,0,0,0,1,0,2036744,"489","IN-0",0
+"459","Jennifer-Ruth Green",0,"Indiana","IN","Representative","1",0,0,1,0,0,0,0,0,0,1116519,"490","IN-1",0
+"460","Jackie Walorski",0,"Indiana","IN","Representative","2",0,1,0,0,0,0,0,1,1,288247,"491","IN-2",0
+"461","Jim Banks",0,"Indiana","IN","Representative","3",1,1,0,0,0,0,0,1,0,562754,"492","IN-3",0
+"462","Jim Baird",0,"Indiana","IN","Representative","4",1,1,0,0,0,0,0,1,1,43558,"493","IN-4",0
+"463","Victoria Spartz",0,"Indiana","IN","Representative","5",0,1,0,0,0,0,0,1,0,810433,"494","IN-5",0
+"464","Greg Pence",0,"Indiana","IN","Representative","6",1,1,0,0,0,0,0,1,1,418398,"495","IN-6",0
+"465","Angela Grabovsky",0,"Indiana","IN","Representative","7",0,1,0,0,0,0,0,0,0,116935,"496","IN-7",0
+"466","Larry D. Bucshon",0,"Indiana","IN","Representative","8",1,1,0,0,0,0,0,1,0,171832,"497","IN-8",0
+"467","Erin Houchin",0,"Indiana","IN","Representative","9",0,1,0,0,0,0,0,0,0,195496,"498","IN-9",0
+"468","J.D. Vance",0,"Ohio","OH","Senator","0",1,1,0,0,0,0,0,0,1,5092005,"499","OH-0",0
+"469","Steve Chabot",0,"Ohio","OH","Representative","1",1,1,0,0,0,0,0,1,1,587367,"500","OH-1",0
+"470","Brad Wenstrup",0,"Ohio","OH","Representative","2",1,1,0,0,0,0,0,1,0,243152,"501","OH-2",0
+"471","Lee R. Stahley",0,"Ohio","OH","Representative","3",1,1,0,0,0,0,0,0,0,0,"502","OH-3",0
+"472","Jim Jordan",0,"Ohio","OH","Representative","4",1,1,0,0,0,0,0,1,1,2969673,"503","OH-4",0
+"473","Bob Latta",0,"Ohio","OH","Representative","5",1,1,0,0,0,0,0,1,0,241535,"504","OH-5",0
+"474","Bill Johnson",0,"Ohio","OH","Representative","6",1,1,0,0,0,0,0,1,1,218367,"505","OH-6",0
+"475","Max Miller",0,"Ohio","OH","Representative","7",1,1,0,0,0,0,0,0,1,480223,"506","OH-7",0
+"476","Warren Davidson",0,"Ohio","OH","Representative","8",1,1,0,0,0,0,0,1,1,241346,"507","OH-8",0
+"477","J.R. Majewski",0,"Ohio","OH","Representative","9",1,1,0,0,0,0,0,0,1,287126,"508","OH-9",0
+"478","Mike Turner",0,"Ohio","OH","Representative","10",1,1,0,0,0,0,0,1,0,176895,"509","OH-10",0
+"479","Eric J. Brewer",0,"Ohio","OH","Representative","11",1,0,1,0,0,0,0,0,0,0,"510","OH-11",0
+"480","Troy Balderson",0,"Ohio","OH","Representative","12",1,1,0,0,0,0,0,1,0,400590,"511","OH-12",0
+"481","Madison Gesiotto Gilbert",0,"Ohio","OH","Representative","13",0,1,0,0,0,0,0,0,0,593758,"512","OH-13",0
+"482","David P. Joyce",0,"Ohio","OH","Representative","14",1,1,0,0,0,0,0,1,0,588910,"513","OH-14",0
+"483","Mike Carey",0,"Ohio","OH","Representative","15",1,1,0,0,0,0,0,1,0,636839,"514","OH-15",0
+"484","Jim Myles",0,"Virginia","VA","Representative","11",1,1,0,0,0,0,0,0,0,131054,"515","VA-11",0
+"485","Carol Miller",0,"West Virginia","WV","Representative","1",0,1,0,0,0,0,0,1,1,214146,"516","WV-1",0
+"486","Alexander X. Mooney",0,"West Virginia","WV","Representative","2",1,1,0,0,1,0,0,1,1,450464,"517","WV-2",0
+"487","Mike Flood",0,"Nebraska","NE","Representative","1",1,1,0,0,0,0,0,0,0,542991,"518","NE-1",0
+"488","Don Bacon",0,"Nebraska","NE","Representative","2",1,1,0,0,0,0,0,1,0,734278,"519","NE-2",0
+"489","Adrian Smith",0,"Nebraska","NE","Representative","3",1,1,0,0,0,0,0,1,0,167909,"520","NE-3",0
+"490","Rand Paul",0,"Kentucky","KY","Senator","0",1,1,0,0,0,0,0,1,0,4987117,"521","KY-0",0
+"491","James R. Comer",0,"Kentucky","KY","Representative","1",1,1,0,0,0,0,0,1,0,490999,"522","KY-1",0
+"492","S. Brett Guthrie",0,"Kentucky","KY","Representative","2",1,1,0,0,0,0,0,1,0,119925,"523","KY-2",0
+"493","Stuart N. Ray",0,"Kentucky","KY","Representative","3",1,1,0,0,0,0,0,0,0,139849,"524","KY-3",0
+"494","Thomas Massie",0,"Kentucky","KY","Representative","4",1,1,0,0,0,0,0,1,0,232761,"525","KY-4",0
+"495","Harold ""Hal"" Rogers",0,"Kentucky","KY","Representative","5",1,1,0,0,0,0,0,1,1,219000,"526","KY-5",0
+"496","Andy Barr",0,"Kentucky","KY","Representative","6",1,1,0,0,0,0,0,1,0,750572,"527","KY-6",0
+"497","Jo Rae Perkins",0,"Oregon","OR","Senator","0",0,1,0,0,0,0,0,0,1,36430,"528","OR-0",0
+"498","Christopher A. Mann",0,"Oregon","OR","Representative","1",1,1,0,0,0,0,0,0,1,0,"529","OR-1",0
+"499","Cliff S. Bentz",0,"Oregon","OR","Representative","2",1,1,0,0,0,0,0,1,0,298795,"530","OR-2",0
+"500","Joanna Harbour",0,"Oregon","OR","Representative","3",0,1,0,0,0,0,0,0,0,5400,"531","OR-3",0
+"501","Alek Skarlatos",0,"Oregon","OR","Representative","4",1,1,0,0,0,0,0,0,0,1527424,"532","OR-4",0
+"502","Lori Chavez-DeRemer",0,"Oregon","OR","Representative","5",0,0,0,0,1,0,0,0,0,967504,"533","OR-5",0
+"503","Mike Erickson",0,"Oregon","OR","Representative","6",1,1,0,0,0,0,0,0,0,501550,"534","OR-6",0
+"504","Mike Crapo",0,"Idaho","ID","Senator","0",1,1,0,0,0,0,0,1,0,668013,"535","ID-0",0
+"505","Russ Fulcher",0,"Idaho","ID","Representative","1",1,1,0,0,0,0,0,1,1,99160,"536","ID-1",0
+"506","Mike Simpson",0,"Idaho","ID","Representative","2",1,1,0,0,0,0,0,1,0,183626,"537","ID-2",0
+"507","Ted Budd",0,"North Carolina","NC","Senator","0",1,1,0,0,0,0,0,0,0,5035019,"538","NC-0",0
+"508","Sandy Smith",0,"North Carolina","NC","Representative","1",0,1,0,0,0,0,0,0,1,400451,"539","NC-1",0
+"509","Christine E. Villaverde",0,"North Carolina","NC","Representative","2",0,1,0,0,0,0,0,0,0,46400,"541","NC-2",0
+"510","Greg Murphy",0,"North Carolina","NC","Representative","3",1,1,0,0,0,0,0,1,1,719158,"542","NC-3",0
+"511","Courtney Geels",0,"North Carolina","NC","Representative","4",0,1,0,0,0,0,0,0,0,177378,"543","NC-4",0
+"512","Virginia Foxx",0,"North Carolina","NC","Representative","5",0,1,0,0,0,0,0,1,1,505932,"544","NC-5",0
+"513","Christian Castelli",0,"North Carolina","NC","Representative","6",1,1,0,0,0,0,0,0,0,344192,"545","NC-6",0
+"514","David Rouzer",0,"North Carolina","NC","Representative","7",1,1,0,0,0,0,0,1,1,278633,"546","NC-7",0
+"515","Dan Bishop",0,"North Carolina","NC","Representative","8",1,1,0,0,0,0,0,1,1,449819,"547","NC-8",0
+"516","Richard Hudson",0,"North Carolina","NC","Representative","9",1,1,0,0,0,0,0,1,1,886736,"548","NC-9",0
+"517","Patrick McHenry",0,"North Carolina","NC","Representative","10",1,1,0,0,0,0,0,1,0,563578,"549","NC-10",0
+"518","Chuck Edwards",0,"North Carolina","NC","Representative","11",1,1,0,0,0,0,0,0,0,229284,"550","NC-11",0
+"519","Tyler Lee",0,"North Carolina","NC","Representative","12",1,1,0,0,0,0,0,0,0,113381,"551","NC-12",0
+"520","Bo Hines",0,"North Carolina","NC","Representative","13",1,1,0,0,0,0,0,0,1,718892,"552","NC-13",0
+"521","Pat Harrigan",0,"North Carolina","NC","Representative","14",1,1,0,0,0,0,0,0,0,392454,"553","NC-14",0
+"522","Mehmet Oz",0,"Pennsylvania","PA","Senator","0",1,0,0,0,0,1,0,0,0,10161294,"554","PA-0",0
+"523","Brian Fitzpatrick",0,"Pennsylvania","PA","Representative","1",1,1,0,0,0,0,0,1,0,629707,"555","PA-1",0
+"524","Aaron Bashir",0,"Pennsylvania","PA","Representative","2",1,0,0,1,0,0,0,0,1,0,"556","PA-2",0
+"525","Christian Nascimento",0,"Pennsylvania","PA","Representative","4",1,1,0,0,0,0,0,0,0,131510,"557","PA-4",0
+"526","David Galluch",0,"Pennsylvania","PA","Representative","5",1,1,0,0,0,0,0,0,0,359272,"558","PA-5",0
+"527","Guy Ciarrocchi",0,"Pennsylvania","PA","Representative","6",1,1,0,0,0,0,0,0,0,363263,"559","PA-6",0
+"528","Lisa Scheller",0,"Pennsylvania","PA","Representative","7",0,1,0,0,0,0,0,0,0,1300250,"560","PA-7",0
+"529","Jim Bognet",0,"Pennsylvania","PA","Representative","8",1,1,0,0,0,0,0,0,1,1131479,"561","PA-8",0
+"530","Dan Meuser",0,"Pennsylvania","PA","Representative","9",1,1,0,0,0,0,0,1,1,433305,"562","PA-9",0
+"531","Scott Perry",0,"Pennsylvania","PA","Representative","10",1,1,0,0,0,0,0,1,1,1057229,"563","PA-10",0
+"532","Lloyd K. Smucker",0,"Pennsylvania","PA","Representative","11",1,1,0,0,0,0,0,1,1,118548,"564","PA-11",0
+"533","Mike Doyle",0,"Pennsylvania","PA","Representative","12",1,1,0,0,0,0,0,0,0,81252,"565","PA-12",0
+"534","Mike Kelly",0,"Pennsylvania","PA","Representative","16",1,1,0,0,0,0,0,1,1,240935,"569","PA-16",0
+"535","Jeremy Shaffer",0,"Pennsylvania","PA","Representative","17",1,1,0,0,0,0,0,0,0,803092,"570","PA-17",0
+"536","Bob Good",0,"Virginia","VA","Representative","5",1,1,0,0,0,0,0,1,1,313437,"571","VA-5",0
+"537","Karina Lipsman",0,"Virginia","VA","Representative","8",0,1,0,0,0,0,0,0,0,113053,"572","VA-8",0
+"538","Hung Cao",0,"Virginia","VA","Representative","10",1,0,0,1,0,0,0,0,0,1547619,"573","VA-10",0
+"539","Katie Britt",0,"Alabama","AL","Senator","0",0,1,0,0,0,0,0,0,1,3531472,"574","AL-0",0
+"540","Barry Moore",0,"Alabama","AL","Representative","2",1,1,0,0,0,0,0,1,1,191361,"576","AL-2",0
+"541","Mike Rogers",0,"Alabama","AL","Representative","3",1,1,0,0,0,0,0,1,1,954360,"577","AL-3",0
+"542","Robert Aderholt",0,"Alabama","AL","Representative","4",1,1,0,0,0,0,0,1,1,357328,"578","AL-4",0
+"543","Dale Strong",0,"Alabama","AL","Representative","5",1,1,0,0,0,0,0,0,1,310035,"579","AL-5",0
+"544","Beatrice Nichols",0,"Alabama","AL","Representative","7",0,1,0,0,0,0,0,0,0,15990,"581","AL-7",0
+"545","John Boozman",0,"Arkansas","AR","Senator","0",1,1,0,0,0,0,0,1,0,1377221,"582","AR-0",0
+"546","Rick Crawford",0,"Arkansas","AR","Representative","1",1,1,0,0,0,0,0,1,1,129303,"583","AR-1",0
+"547","French Hill",0,"Arkansas","AR","Representative","2",1,1,0,0,0,0,0,1,0,735158,"584","AR-2",0
+"548","Steve Womack",0,"Arkansas","AR","Representative","3",1,1,0,0,0,0,0,1,0,398698,"585","AR-3",0
+"549","Bruce Westerman",0,"Arkansas","AR","Representative","4",1,1,0,0,0,0,0,1,0,485454,"586","AR-4",0
+"550","Herschel Junior Walker",0,"Georgia","GA","Senator","0",1,0,1,0,0,0,0,0,0,15054373,"587","GA-0",0
+"551","Earl L. ""Buddy"" Carter",0,"Georgia","GA","Representative","1",1,1,0,0,0,0,0,1,0,414031,"588","GA-1",0
+"552","Chris West",0,"Georgia","GA","Representative","2",1,1,0,0,0,0,0,0,0,340266,"589","GA-2",0
+"553","Drew Ferguson",0,"Georgia","GA","Representative","3",1,1,0,0,0,0,0,1,0,280240,"590","GA-3",0
+"554","Jonathan Chavez",0,"Georgia","GA","Representative","4",1,1,0,0,0,0,0,0,0,0,"591","GA-4",0
+"555","Christian Zimm",0,"Georgia","GA","Representative","5",1,1,0,0,0,0,0,0,0,11224,"592","GA-5",0
+"556","Rich McCormick",0,"Georgia","GA","Representative","6",1,1,0,0,0,0,0,0,1,1252980,"593","GA-6",0
+"557","Mark Gonsalves",0,"Georgia","GA","Representative","7",1,1,0,0,0,0,0,0,1,216632,"594","GA-7",0
+"558","Austin Scott",0,"Georgia","GA","Representative","8",1,1,0,0,0,0,0,1,0,175500,"595","GA-8",0
+"559","Andrew Clyde",0,"Georgia","GA","Representative","9",1,1,0,0,0,0,0,1,1,202336,"596","GA-9",0
+"560","Mike Collins",0,"Georgia","GA","Representative","10",1,1,0,0,0,0,0,0,1,527584,"597","GA-10",0
+"561","Barry Loudermilk",0,"Georgia","GA","Representative","11",1,1,0,0,0,0,0,1,1,200132,"598","GA-11",0
+"562","Rick W. Allen",0,"Georgia","GA","Representative","12",1,1,0,0,0,0,0,1,1,259336,"599","GA-12",0
+"563","Caesar Gonzales",0,"Georgia","GA","Representative","13",1,0,0,0,1,0,0,0,1,3765,"600","GA-13",0
+"564","Marjorie Taylor Greene",0,"Georgia","GA","Representative","14",0,1,0,0,0,0,0,1,1,1424754,"601","GA-14",0
+"565","Michelle Garcia Holmes",0,"New Mexico","NM","Representative","1",0,1,0,0,0,0,0,0,0,116185,"602","NM-1",0
+"566","Yvette Herrell",0,"New Mexico","NM","Representative","2",0,1,0,0,0,0,1,1,1,1330445,"603","NM-2",0
+"567","Alexis Martinez Johnson",0,"New Mexico","NM","Representative","3",0,0,0,0,1,0,0,0,0,147631,"604","NM-3",0
+"568","Trent Kelly",0,"Mississippi","MS","Representative","1",1,1,0,0,0,0,0,1,1,247811,"605","MS-1",0
+"569","Brian Flowers",0,"Mississippi","MS","Representative","2",1,1,0,0,0,0,0,0,1,6600,"606","MS-2",0
+"570","Michael Guest",0,"Mississippi","MS","Representative","3",1,1,0,0,0,0,0,1,0,209944,"607","MS-3",0
+"571","Mike Ezell",0,"Mississippi","MS","Representative","4",1,1,0,0,0,0,0,0,0,375510,"608","MS-4",0
+"572","Ryan K. Zinke",0,"Montana","MT","Representative","1",1,1,0,0,0,0,0,0,0,1882284,"609","MT-1",0
+"573","Matt Rosendale",0,"Montana","MT","Representative","2",1,1,0,0,0,0,0,1,1,455588,"610","MT-2",0
+"574","Chuck Grassley",0,"Iowa","IA","Senator","0",1,1,0,0,0,0,0,1,0,1782203,"611","IA-0",0
+"575","Mariannette Miller-Meeks",0,"Iowa","IA","Representative","1",0,1,0,0,0,0,0,1,0,1127185,"612","IA-1",0
+"576","Ashley Hinson",0,"Iowa","IA","Representative","2",0,1,0,0,0,0,0,1,0,1702432,"613","IA-2",0
+"577","Zach Nunn",0,"Iowa","IA","Representative","3",1,1,0,0,0,0,0,0,0,1004919,"614","IA-3",0
+"578","Randy Feenstra",0,"Iowa","IA","Representative","4",1,1,0,0,0,0,0,1,0,464065,"615","IA-4",0
+"579","Claire Gustafson",0,"New Jersey","NJ","Representative","1",0,1,0,0,0,0,0,0,0,0,"618","NJ-1",0
+"580","Jeff Van Drew",0,"New Jersey","NJ","Representative","2",1,1,0,0,0,0,0,1,0,621328,"619","NJ-2",0
+"581","Bob Healey",0,"New Jersey","NJ","Representative","3",1,1,0,0,0,0,0,0,0,607764,"620","NJ-3",0
+"582","Christopher H. Smith",0,"New Jersey","NJ","Representative","4",1,1,0,0,0,0,0,1,0,285020,"621","NJ-4",0
+"583","Frank T. Pallotta",0,"New Jersey","NJ","Representative","5",1,1,0,0,0,0,0,0,0,345236,"622","NJ-5",0
+"584","Susan M. Kiley",0,"New Jersey","NJ","Representative","6",0,1,0,0,0,0,0,0,0,116861,"623","NJ-6",0
+"585","Thomas H. Kean Jr.",0,"New Jersey","NJ","Representative","7",1,1,0,0,0,0,0,0,0,1710273,"624","NJ-7",0
+"586","Marcos Arroyo",0,"New Jersey","NJ","Representative","8",1,0,0,0,1,0,0,0,0,0,"625","NJ-8",0
+"587","Billy Prempeh",0,"New Jersey","NJ","Representative","9",1,0,1,0,0,0,0,0,0,88506,"626","NJ-9",0
+"588","David H. Pinckney",0,"New Jersey","NJ","Representative","10",1,0,0,0,0,0,0,0,0,0,"627","NJ-10",0
+"589","Paul DeGroot",0,"New Jersey","NJ","Representative","11",1,1,0,0,0,0,0,0,0,169354,"628","NJ-11",0
+"590","Darius Mayfield",0,"New Jersey","NJ","Representative","12",1,0,1,0,0,0,0,0,1,67335,"629","NJ-12",0
+"591","Mark P. Meuser",0,"California","CA","Senator","0",1,1,0,0,0,0,0,0,0,297914,"630","CA-0",0
+"592","Doug LaMalfa",0,"California","CA","Representative","1",1,1,0,0,0,0,0,1,1,233989,"631","CA-1",0
+"593","Douglas Brower",0,"California","CA","Representative","2",1,1,0,0,0,0,0,0,0,5907,"632","CA-2",0
+"594","Kevin Kiley",0,"California","CA","Representative","3",1,1,0,0,0,0,0,0,0,1169273,"633","CA-3",0
+"595","Matt Brock",0,"California","CA","Representative","4",1,1,0,0,0,0,0,0,0,2250,"634","CA-4",0
+"596","Tom McClintock",0,"California","CA","Representative","5",1,1,0,0,0,0,0,1,0,407887,"635","CA-5",0
+"597","Tamika Hamilton",0,"California","CA","Representative","6",0,0,1,0,0,0,0,0,0,303264,"636","CA-6",0
+"598","Max Semenenko",0,"California","CA","Representative","7",1,1,0,0,0,0,0,0,0,4152,"637","CA-7",0
+"599","Rudy Recile",0,"California","CA","Representative","8",1,0,0,1,0,0,0,0,0,6105,"638","CA-8",0
+"600","Tom Patti",0,"California","CA","Representative","9",1,1,0,0,0,0,0,0,0,603806,"639","CA-9",0
+"601","John Dennis",0,"California","CA","Representative","11",1,1,0,0,0,0,0,0,1,142742,"640","CA-11",0
+"602","Stephen Slauson",0,"California","CA","Representative","12",1,1,0,0,0,0,0,0,0,0,"641","CA-12",0
+"603","John Duarte",0,"California","CA","Representative","13",1,1,0,0,0,0,0,0,0,1046342,"642","CA-13",0
+"604","Alison Hayden",0,"California","CA","Representative","14",0,1,0,0,0,0,0,0,1,0,"643","CA-14",0
+"605","Ritesh Tandon",0,"California","CA","Representative","17",1,0,0,1,0,0,0,0,0,55536,"644","CA-17",0
+"606","Peter Hernandez",0,"California","CA","Representative","18",1,0,0,0,1,0,0,0,0,118242,"645","CA-18",0
+"607","Jeff Gorman",0,"California","CA","Representative","19",1,1,0,0,0,0,0,0,0,18585,"646","CA-19",0
+"608","Kevin McCarthy",0,"California","CA","Representative","20",1,1,0,0,0,0,0,1,1,11289364,"647","CA-20",0
+"609","Michael Maher",0,"California","CA","Representative","21",1,1,0,0,0,0,0,0,0,153670,"648","CA-21",0
+"610","David G. Valadao",0,"California","CA","Representative","22",1,1,0,0,0,0,0,1,0,754599,"649","CA-22",0
+"611","Jay Obernolte",0,"California","CA","Representative","23",1,1,0,0,0,0,0,1,0,289701,"650","CA-23",0
+"612","Brad Allen",0,"California","CA","Representative","24",1,1,0,0,0,0,0,0,0,8000,"651","CA-24",0
+"613","Brian E. Hawkins",0,"California","CA","Representative","25",1,0,1,0,0,0,0,0,0,113955,"652","CA-25",0
+"614","Matt Jacobs",0,"California","CA","Representative","26",1,1,0,0,0,0,0,0,0,974432,"653","CA-26",0
+"615","Mike Garcia",0,"California","CA","Representative","27",1,0,0,0,1,0,0,1,1,2022120,"654","CA-27",0
+"616","Wes Hallman",0,"California","CA","Representative","28",1,1,0,0,0,0,0,0,0,45872,"655","CA-28",0
+"617","Daniel Bocic Martinez",0,"California","CA","Representative","31",1,1,0,0,0,0,0,0,0,0,"656","CA-31",0
+"618","Lucie Lapointe Volotzky",0,"California","CA","Representative","32",0,1,0,0,0,0,0,0,0,25640,"657","CA-32",0
+"619","John Mark Porter",0,"California","CA","Representative","33",1,1,0,0,0,0,0,0,0,3432,"658","CA-33",0
+"620","Mike Cargile",0,"California","CA","Representative","35",1,1,0,0,0,0,0,0,1,21015,"659","CA-35",0
+"621","Joe E. Collins III",0,"California","CA","Representative","36",1,0,1,0,0,0,0,0,1,258445,"660","CA-36",0
+"622","Eric J. Ching",0,"California","CA","Representative","38",1,0,0,1,0,0,0,0,1,91414,"661","CA-38",0
+"623","Aja Smith",0,"California","CA","Representative","39",0,0,1,0,0,0,0,0,1,8921,"662","CA-39",0
+"624","Young Kim",0,"California","CA","Representative","40",0,0,0,1,0,0,0,1,0,3804953,"663","CA-40",0
+"625","Ken Calvert",0,"California","CA","Representative","41",1,1,0,0,0,0,0,1,1,984432,"664","CA-41",0
+"626","John Briscoe",0,"California","CA","Representative","42",1,1,0,0,0,0,0,0,1,14675,"665","CA-42",0
+"627","Omar Navarro",0,"California","CA","Representative","43",1,0,0,0,1,0,0,0,1,1995,"666","CA-43",0
+"628","Paul Jones",0,"California","CA","Representative","44",1,1,0,0,0,0,0,0,0,0,"667","CA-44",0
+"629","Michelle Steel",0,"California","CA","Representative","45",0,0,0,1,0,0,0,1,0,1344402,"668","CA-45",0
+"630","Christopher J. Gonzales",0,"California","CA","Representative","46",1,0,0,0,1,0,0,0,0,24688,"669","CA-46",0
+"631","Scott Baugh",0,"California","CA","Representative","47",1,1,0,0,0,0,0,0,0,867953,"670","CA-47",0
+"632","Darrell Issa",0,"California","CA","Representative","48",1,1,0,0,0,0,0,1,1,366679,"671","CA-48",0
+"633","Brian Maryott",0,"California","CA","Representative","49",1,1,0,0,0,0,0,0,0,2114405,"672","CA-49",0
+"634","Corey Gustafson",0,"California","CA","Representative","50",1,1,0,0,0,0,0,0,0,28307,"673","CA-50",0
+"635","Stan Caplan",0,"California","CA","Representative","51",1,1,0,0,0,0,0,0,0,56008,"674","CA-51",0
+"636","Tyler Geffeney",0,"California","CA","Representative","52",1,1,0,0,0,0,0,0,0,8180,"675","CA-52",0
+"637","Edwin Thelander",0,"Maine","ME","Representative","1",1,1,0,0,0,0,0,0,0,122716,"676","ME-1",0
+"638","Bruce Poliquin",0,"Maine","ME","Representative","2",1,1,0,0,0,0,0,0,0,1305743,"677","ME-2",0
+"639","Adam Paul Laxalt",0,"Nevada","NV","Senator","0",1,1,0,0,0,0,0,0,1,7761263,"678","NV-0",0
+"640","Mark Robertson",0,"Nevada","NV","Representative","1",1,1,0,0,0,0,0,0,0,416484,"679","NV-1",0
+"641","Mark E. Amodei",0,"Nevada","NV","Representative","2",1,1,0,0,0,0,0,1,0,363300,"680","NV-2",0
+"642","April Becker",0,"Nevada","NV","Representative","3",0,1,0,0,0,0,0,0,1,842903,"681","NV-3",0
+"643","Sam Peters",0,"Nevada","NV","Representative","4",1,1,0,0,0,0,0,0,1,801184,"682","NV-4",0
+"644","Tim Scott",0,"South Carolina","SC","Senator","0",1,0,1,0,0,0,0,1,0,11646458,"683","SC-0",0
+"645","Nancy Mace",0,"South Carolina","SC","Representative","1",0,1,0,0,0,0,0,1,0,885471,"684","SC-1",0
+"646","Joe Wilson",0,"South Carolina","SC","Representative","2",1,1,0,0,0,0,0,1,1,194140,"685","SC-2",0
+"647","Ralph Norman",0,"South Carolina","SC","Representative","5",1,1,0,0,0,0,0,1,1,274252,"688","SC-5",0
+"648","Duke Buckner",0,"South Carolina","SC","Representative","6",1,0,1,0,0,0,0,0,0,73891,"689","SC-6",0
+"649","Russell Fry",0,"South Carolina","SC","Representative","7",1,1,0,0,0,0,0,0,1,585576,"690","SC-7",0
+"650","John Hoeven",0,"North Dakota","ND","Senator","0",1,1,0,0,0,0,0,1,0,551723,"691","ND-0",0
+"651","Kelly Armstrong",0,"North Dakota","ND","Representative","0",1,1,0,0,0,0,0,1,0,470336,"692","ND-0",0
+"652","Rob J. Wittman",0,"Virginia","VA","Representative","1",1,1,0,0,0,0,0,1,0,454349,"693","VA-1",0
+"653","Jen A. Kiggans",0,"Virginia","VA","Representative","2",0,1,0,0,0,0,0,0,0,1246380,"694","VA-2",0
+"654","Terry T. Namkung",0,"Virginia","VA","Representative","3",1,0,1,1,0,0,0,0,0,45827,"695","VA-3",0
+"655","Leon Benjamin Sr.",0,"Virginia","VA","Representative","4",1,0,1,0,0,0,0,0,1,116059,"696","VA-4",0
+"656","Ben L. Cline",0,"Virginia","VA","Representative","6",1,1,0,0,0,0,0,1,1,240663,"697","VA-6",0
+"657","Yesli I. Vega",0,"Virginia","VA","Representative","7",0,0,0,0,1,0,0,0,0,1302530,"698","VA-7",0
+"658","H. Morgan Griffith",0,"Virginia","VA","Representative","9",1,1,0,0,0,0,0,1,0,91064,"699","VA-9",0
+"659","Joe O'Dea",0,"Colorado","CO","Senator","0",1,1,0,0,0,0,0,0,0,2843775,"700","CO-0",0
+"660","Jennifer Qualteri",0,"Colorado","CO","Representative","1",0,0,0,0,0,0,0,0,1,0,"701","CO-1",0
+"661","Marshall Dawson",0,"Colorado","CO","Representative","2",1,0,0,0,0,0,0,0,0,15947,"702","CO-2",0
+"662","Lauren Boebert",0,"Colorado","CO","Representative","3",0,1,0,0,0,0,0,1,1,1376971,"703","CO-3",0
+"663","Ken Buck",0,"Colorado","CO","Representative","4",1,1,0,0,0,0,0,1,0,340796,"704","CO-4",0
+"664","Doug Lamborn",0,"Colorado","CO","Representative","5",1,1,0,0,0,0,0,1,1,113877,"705","CO-5",0
+"665","Steven Monahan",0,"Colorado","CO","Representative","6",1,1,0,0,0,0,0,0,0,159464,"706","CO-6",0
+"666","Erik Aadland",0,"Colorado","CO","Representative","7",1,1,0,0,0,0,0,0,0,717524,"707","CO-7",0
+"667","Barbara Kirkmeyer",0,"Colorado","CO","Representative","8",0,1,0,0,0,0,0,0,0,516570,"708","CO-8",0
+"668","Kathy Salvi",0,"Illinois","IL","Senator","0",0,1,0,0,0,0,0,0,0,371613,"709","IL-0",0
+"669","Eric Carlson",0,"Illinois","IL","Representative","1",1,1,0,0,0,0,0,0,0,2744,"710","IL-1",0
+"670","Thomas Lynch",0,"Illinois","IL","Representative","2",1,1,0,0,0,0,0,0,0,0,"711","IL-2",0
+"671","Justin Burau",0,"Illinois","IL","Representative","3",1,1,0,0,0,0,0,0,0,9360,"712","IL-3",0
+"672","James Falakos",0,"Illinois","IL","Representative","4",1,1,0,0,0,0,0,0,0,0,"713","IL-4",0
+"673","Tommy Hanson",0,"Illinois","IL","Representative","5",1,1,0,0,0,0,0,0,0,0,"714","IL-5",0
+"674","Keith Pekau",0,"Illinois","IL","Representative","6",1,1,0,0,0,0,0,0,0,597994,"715","IL-6",0
+"675","Chris Dargis",0,"Illinois","IL","Representative","8",1,1,0,0,0,0,0,0,0,100026,"716","IL-8",0
+"676","Maxwell ""Max"" Rice",0,"Illinois","IL","Representative","9",1,1,0,0,0,0,0,0,0,6251,"717","IL-9",0
+"677","Joseph Severino",0,"Illinois","IL","Representative","10",1,1,0,0,0,0,0,0,0,20450,"718","IL-10",0
+"678","Catalina Lauf",0,"Illinois","IL","Representative","11",0,0,0,0,1,0,0,0,0,739100,"719","IL-11",0
+"679","Mike Bost",0,"Illinois","IL","Representative","12",1,1,0,0,0,0,0,1,1,261712,"720","IL-12",0
+"680","Regan Deering",0,"Illinois","IL","Representative","13",0,1,0,0,0,0,0,0,0,415359,"721","IL-13",0
+"681","Scott R. Gryder",0,"Illinois","IL","Representative","14",1,1,0,0,0,0,0,0,0,279158,"722","IL-14",0
+"682","Mary Miller",0,"Illinois","IL","Representative","15",0,1,0,0,0,0,0,1,1,326877,"723","IL-15",0
+"683","Esther Joy King",0,"Illinois","IL","Representative","17",0,1,0,0,0,0,0,0,0,1792583,"725","IL-17",0
+"684","Joe Pinion",0,"New York","NY","Senator","0",1,0,1,0,0,0,0,0,0,122651,"726","NY-0",0
+"685","James Lankford",0,"Oklahoma","OK","Senator","0",1,1,0,0,0,0,0,1,0,1457892,"727","OK-0",0
+"686","Markwayne Mullin",0,"Oklahoma","OK","Senator","0",1,1,0,0,0,0,1,0,1,1448206,"728","OK-0",1
+"687","Kevin Hern",0,"Oklahoma","OK","Representative","1",1,1,0,0,0,0,0,1,1,256917,"729","OK-1",0
+"688","Josh Brecheen",0,"Oklahoma","OK","Representative","2",1,1,0,0,0,0,0,0,0,338293,"730","OK-2",0
+"689","Frank D. Lucas",0,"Oklahoma","OK","Representative","3",1,1,0,0,0,0,0,1,1,121697,"731","OK-3",0
+"690","Tom Cole",0,"Oklahoma","OK","Representative","4",1,1,0,0,0,0,1,1,1,678682,"732","OK-4",0
+"691","Stephanie Bice",0,"Oklahoma","OK","Representative","5",0,1,0,0,0,1,0,1,1,439136,"733","OK-5",0
+"692","Blake D. Moore",0,"Utah","UT","Representative","1",1,1,0,0,0,0,0,1,0,330801,"735","UT-1",0
+"693","Chris Stewart",0,"Utah","UT","Representative","2",1,1,0,0,0,0,0,1,1,196434,"736","UT-2",0
+"694","John Curtis",0,"Utah","UT","Representative","3",1,1,0,0,0,0,0,1,0,485200,"737","UT-3",0
+"695","Burgess Owens",0,"Utah","UT","Representative","4",1,0,1,0,0,0,0,1,1,971486,"738","UT-4",0
+"696","Chris Chaffee",0,"Maryland","MD","Senator","0",1,1,0,0,0,0,0,0,1,0,"739","MD-0",0
+"697","Andy Harris",0,"Maryland","MD","Representative","1",1,1,0,0,0,0,0,1,1,359550,"740","MD-1",0
+"698","Nicolee Ambrose",0,"Maryland","MD","Representative","2",0,1,0,0,0,0,0,0,0,299054,"741","MD-2",0
+"699","Yuripzy Morgan",0,"Maryland","MD","Representative","3",0,0,0,0,1,0,0,0,0,350585,"742","MD-3",0
+"700","Jeff Warner",0,"Maryland","MD","Representative","4",1,1,0,0,0,0,0,0,0,16249,"743","MD-4",0
+"701","Chris Palombi",0,"Maryland","MD","Representative","5",1,1,0,0,0,0,0,0,0,15595,"744","MD-5",0
+"702","Neil C. Parrott",0,"Maryland","MD","Representative","6",1,1,0,0,0,0,0,0,0,468970,"745","MD-6",0
+"703","Scott M. Collier",0,"Maryland","MD","Representative","7",1,1,0,0,0,0,0,0,1,0,"746","MD-7",0
+"704","Gregory Thomas Coll",0,"Maryland","MD","Representative","8",1,1,0,0,0,0,0,0,0,11800,"747","MD-8",0
+"705","Blake Masters",0,"Arizona","AZ","Senator","0",1,1,0,0,0,0,0,0,1,6335067,"748","AZ-0",0
+"706","David Schweikert",0,"Arizona","AZ","Representative","1",1,1,0,0,0,0,0,1,1,530960,"749","AZ-1",0
+"707","Eli Crane",0,"Arizona","AZ","Representative","2",1,1,0,0,0,0,0,0,1,1224809,"750","AZ-2",0
+"708","Jeff Zink",0,"Arizona","AZ","Representative","3",1,1,0,0,0,0,0,0,1,17963,"751","AZ-3",0
+"709","Kelly Cooper",0,"Arizona","AZ","Representative","4",1,1,0,0,0,0,0,0,0,478201,"752","AZ-4",0
+"710","Andy Biggs",0,"Arizona","AZ","Representative","5",1,1,0,0,0,0,0,1,1,462389,"753","AZ-5",0
+"711","Juan Ciscomani",0,"Arizona","AZ","Representative","6",1,0,0,0,1,0,0,0,0,1578988,"754","AZ-6",0
+"712","Luis Pozzolo",0,"Arizona","AZ","Representative","7",1,0,0,0,1,0,0,0,0,31990,"755","AZ-7",0
+"713","Jerry Moran",0,"Kansas","KS","Senator","0",1,1,0,0,0,0,0,1,0,784432,"758","KS-0",0
+"714","Tracey Mann",0,"Kansas","KS","Representative","1",1,1,0,0,0,0,0,1,1,170080,"759","KS-1",0
+"715","Jake LaTurner",0,"Kansas","KS","Representative","2",1,1,0,0,0,0,0,1,1,402563,"760","KS-2",0
+"716","Amanda L. Adkins",0,"Kansas","KS","Representative","3",0,1,0,0,0,0,0,0,0,1179305,"761","KS-3",0
+"717","Ron Estes",0,"Kansas","KS","Representative","4",1,1,0,0,0,0,0,1,1,268292,"762","KS-4",0
+"718","Jack Bergman",0,"Michigan","MI","Representative","1",1,1,0,0,0,0,0,1,1,211717,"763","MI-1",0
+"719","John Moolenaar",0,"Michigan","MI","Representative","2",1,1,0,0,0,0,0,1,0,673296,"764","MI-2",0
+"720","John Gibbs",0,"Michigan","MI","Representative","3",1,0,1,0,0,0,0,0,0,428062,"765","MI-3",0
+"721","Tim Walberg",0,"Michigan","MI","Representative","5",1,1,0,0,0,0,0,1,1,287514,"767","MI-5",0
+"722","Whittney Williams",0,"Michigan","MI","Representative","6",0,0,0,1,0,0,0,0,0,450,"768","MI-6",0
+"723","Tom Barrett",0,"Michigan","MI","Representative","7",1,1,0,0,0,0,0,0,0,479281,"769","MI-7",0
+"724","Paul Junge",0,"Michigan","MI","Representative","8",1,1,0,0,0,0,0,0,0,431041,"770","MI-8",0
+"725","Lisa McClain",0,"Michigan","MI","Representative","9",0,1,0,0,0,0,0,1,1,279441,"771","MI-9",0
+"726","John James",0,"Michigan","MI","Representative","10",1,0,1,0,0,0,0,0,0,972024,"772","MI-10",0
+"727","Mark Ambrose",0,"Michigan","MI","Representative","11",1,1,0,0,0,0,0,0,0,200107,"773","MI-11",0
+"728","Steven Elliott",0,"Michigan","MI","Representative","12",1,1,0,0,0,0,0,0,0,49574,"774","MI-12",0
+"729","Martell D. Bivings",0,"Michigan","MI","Representative","13",1,0,1,0,0,0,0,0,0,52250,"775","MI-13",0
+"730","Eric Schmitt",0,"Missouri","MO","Senator","0",1,1,0,0,0,0,0,0,1,2218836,"776","MO-0",0
+"731","Andrew Jones",0,"Missouri","MO","Representative","1",1,0,1,0,0,0,0,0,0,24479,"777","MO-1",0
+"732","Ann Wagner",0,"Missouri","MO","Representative","2",0,1,0,0,0,0,0,1,0,775292,"778","MO-2",0
+"733","Blaine Luetkemeyer",0,"Missouri","MO","Representative","3",1,1,0,0,0,0,0,1,1,393104,"779","MO-3",0
+"734","Mark Alford",0,"Missouri","MO","Representative","4",1,1,0,0,0,0,0,0,0,359333,"780","MO-4",0
+"735","Jacob Turk",0,"Missouri","MO","Representative","5",1,1,0,0,0,0,0,0,0,18450,"781","MO-5",0
+"736","Sam Graves",0,"Missouri","MO","Representative","6",1,1,0,0,0,0,0,1,1,439995,"782","MO-6",0
+"737","Eric Burlison",0,"Missouri","MO","Representative","7",1,1,0,0,0,0,0,0,0,465662,"783","MO-7",0
+"738","Jason Smith",0,"Missouri","MO","Representative","8",1,1,0,0,0,0,0,1,1,909099,"784","MO-8",0
+"739","Tiffany Smiley",0,"Washington","WA","Senator","0",0,1,0,0,0,0,0,0,0,9919408,"785","WA-0",0
+"740","Vincent J. Cavaleri",0,"Washington","WA","Representative","1",1,1,0,0,0,0,0,0,0,83174,"786","WA-1",0
+"741","Dan Matthews",0,"Washington","WA","Representative","2",1,1,0,0,0,0,0,0,0,21649,"787","WA-2",0
+"742","Joe Kent",0,"Washington","WA","Representative","3",1,1,0,0,0,0,0,0,1,1160420,"788","WA-3",0
+"743","Dan Newhouse",0,"Washington","WA","Representative","4",1,1,0,0,0,0,0,1,0,319654,"789","WA-4",0
+"744","Cathy McMorris Rodgers",0,"Washington","WA","Representative","5",0,1,0,0,0,0,0,1,0,889623,"790","WA-5",0
+"745","Elizabeth Kreiselmaier",0,"Washington","WA","Representative","6",0,1,0,0,0,0,0,0,0,155314,"791","WA-6",0
+"746","Cliff Moon",0,"Washington","WA","Representative","7",1,1,0,0,0,0,0,0,0,2341,"792","WA-7",0
+"747","Matt Larkin",0,"Washington","WA","Representative","8",1,1,0,0,0,0,0,0,0,766041,"793","WA-8",0
+"748","Doug Basler",0,"Washington","WA","Representative","9",1,1,0,0,0,0,0,0,1,76171,"794","WA-9",0
+"749","Keith R. Swank",0,"Washington","WA","Representative","10",1,1,0,0,0,0,0,0,1,70431,"795","WA-10",0
+"750","Diana Lynn Harshbarger",0,"Tennessee","TN","Representative","1",0,1,0,0,0,0,0,1,1,318887,"796","TN-1",0
+"751","Tim Burchett",0,"Tennessee","TN","Representative","2",1,1,0,0,0,0,0,1,1,274423,"797","TN-2",0
+"752","Chuck Fleischmann",0,"Tennessee","TN","Representative","3",1,1,0,0,0,0,0,1,1,173096,"798","TN-3",0
+"753","Scott DesJarlais",0,"Tennessee","TN","Representative","4",1,1,0,0,0,0,0,1,1,39270,"799","TN-4",0
+"754","Andy Ogles",0,"Tennessee","TN","Representative","5",1,1,0,0,0,0,0,0,1,557575,"800","TN-5",0
+"755","John Rose",0,"Tennessee","TN","Representative","6",1,1,0,0,0,0,0,1,1,444034,"801","TN-6",0
+"756","Mark E. Green",0,"Tennessee","TN","Representative","7",1,1,0,0,0,0,0,1,0,491851,"802","TN-7",0
+"757","David Kustoff",0,"Tennessee","TN","Representative","8",1,1,0,0,0,0,0,1,1,382503,"803","TN-8",0
+"758","Charlotte Bergmann",0,"Tennessee","TN","Representative","9",0,0,1,0,0,0,0,0,1,18167,"804","TN-9",0
+"759","Leora R. Levy",0,"Connecticut","CT","Senator","0",0,0,0,0,1,0,0,0,0,705511,"805","CT-0",0
+"760","Larry Lazor",0,"Connecticut","CT","Representative","1",1,1,0,0,0,0,0,0,0,59927,"806","CT-1",0
+"761","Mike France",0,"Connecticut","CT","Representative","2",1,1,0,0,0,0,0,0,0,260984,"807","CT-2",0
+"762","Lesley DeNardis",0,"Connecticut","CT","Representative","3",0,1,0,0,0,0,0,0,0,10328,"808","CT-3",0
+"763","Jayme Stevenson",0,"Connecticut","CT","Representative","4",0,1,0,0,0,0,0,0,0,173571,"809","CT-4",0
+"764","George Logan",0,"Connecticut","CT","Representative","5",1,0,1,0,0,0,0,0,0,642678,"810","CT-5",0
+"765","Brad Finstad",0,"Minnesota","MN","Representative","1",1,1,0,0,0,0,0,0,0,457270,"811","MN-1",0
+"766","Tyler Kistner",0,"Minnesota","MN","Representative","2",1,1,0,0,0,0,0,0,0,1133830,"812","MN-2",0
+"767","Tom Weiler",0,"Minnesota","MN","Representative","3",1,1,0,0,0,0,0,0,0,216867,"813","MN-3",0
+"768","May Lor Xiong",0,"Minnesota","MN","Representative","4",0,0,0,1,0,0,0,0,0,54607,"814","MN-4",0
+"769","Cicely Davis",0,"Minnesota","MN","Representative","5",0,0,1,0,0,0,0,0,0,578270,"815","MN-5",0
+"770","Tom Emmer",0,"Minnesota","MN","Representative","6",1,1,0,0,0,0,0,1,0,1226760,"816","MN-6",0
+"771","Michelle Fischbach",0,"Minnesota","MN","Representative","7",0,1,0,0,0,0,0,1,1,261999,"817","MN-7",0
+"772","Pete Stauber",0,"Minnesota","MN","Representative","8",1,1,0,0,0,0,0,1,0,500355,"818","MN-8",0
+"773","Gerald Malloy",0,"Vermont","VT","Senator","0",1,1,0,0,0,0,0,0,0,228960,"819","VT-0",0
+"774","Liam Madden",0,"Vermont","VT","Representative","0",1,1,0,0,0,0,0,0,0,4355,"820","VT-0",0
+"775","Ron Johnson",0,"Wisconsin","WI","Senator","0",1,1,0,0,0,0,0,1,1,11782661,"821","WI-0",0
+"776","Bryan Steil",0,"Wisconsin","WI","Representative","1",1,1,0,0,0,0,0,1,0,839195,"822","WI-1",0
+"777","Erik Olsen",0,"Wisconsin","WI","Representative","2",1,1,0,0,0,0,0,0,0,49823,"823","WI-2",0
+"778","Derrick Van Orden",0,"Wisconsin","WI","Representative","3",1,1,0,0,0,0,0,0,1,1986621,"824","WI-3",0
+"779","Tim Rogers",0,"Wisconsin","WI","Representative","4",1,0,1,0,0,0,0,0,0,0,"825","WI-4",0
+"780","Scott Fitzgerald",0,"Wisconsin","WI","Representative","5",1,1,0,0,0,0,0,1,1,205610,"826","WI-5",0
+"781","Tom Tiffany",0,"Wisconsin","WI","Representative","7",1,1,0,0,0,0,0,1,1,386301,"828","WI-7",0
+"782","Bob McDermott",0,"Hawaii","HI","Senator","0",1,1,0,0,0,0,0,0,0,0,"830","HI-0",0
+"783","Conrad Kress",0,"Hawaii","HI","Representative","1",1,1,0,0,0,0,0,0,0,31357,"831","HI-1",0
+"784","Joe Akana",0,"Hawaii","HI","Representative","2",1,0,0,0,0,0,1,0,0,5710,"832","HI-2",0
+"785","Sarah Palin",0,"Alaska","AK","Representative","0",0,1,0,0,0,0,0,0,1,548995,"837","AK-0",0
+"786","Harriet Hageman",0,"Wyoming","WY","Representative","0",0,1,0,0,0,0,0,0,1,1242676,"838","WY-0",0
+"787","Marco Rubio",0,"Florida","FL","Senator","0",1,0,0,0,1,0,0,1,0,15477364,"839","FL-0",0
+"788","Matt Gaetz",0,"Florida","FL","Representative","1",1,1,0,0,0,0,0,1,1,970338,"840","FL-1",0
+"789","Neal Dunn",0,"Florida","FL","Representative","2",1,1,0,0,0,0,0,1,1,479632,"841","FL-2",0
+"790","Kat Cammack",0,"Florida","FL","Representative","3",0,1,0,0,0,0,0,1,1,344939,"842","FL-3",0
+"791","Aaron Bean",0,"Florida","FL","Representative","4",1,1,0,0,0,0,0,0,0,494951,"843","FL-4",0
+"792","Cory Mills",0,"Florida","FL","Representative","7",1,1,0,0,0,0,0,0,1,174036,"846","FL-7",0
+"793","Bill Posey",0,"Florida","FL","Representative","8",1,1,0,0,0,0,0,1,1,193035,"847","FL-8",0
+"794","Scotty Moore",0,"Florida","FL","Representative","9",1,1,0,0,0,0,0,0,1,294475,"848","FL-9",0
+"795","Calvin B. Wimbish",0,"Florida","FL","Representative","10",1,0,1,0,0,0,0,0,1,101625,"849","FL-10",0
+"796","Daniel Webster",0,"Florida","FL","Representative","11",1,1,0,0,0,0,0,1,1,178420,"850","FL-11",0
+"797","Gus Michael Bilirakis",0,"Florida","FL","Representative","12",1,1,0,0,0,0,0,1,1,352370,"851","FL-12",0
+"798","Anna Paulina Luna",0,"Florida","FL","Representative","13",0,0,0,0,1,0,0,0,1,1012551,"852","FL-13",0
+"799","James Judge",0,"Florida","FL","Representative","14",1,1,0,0,0,0,0,0,0,54850,"853","FL-14",0
+"800","Laurel Lee",0,"Florida","FL","Representative","15",0,1,0,0,0,0,0,0,0,754247,"854","FL-15",0
+"801","Vern Buchanan",0,"Florida","FL","Representative","16",1,1,0,0,0,0,0,1,0,657539,"855","FL-16",0
+"802","Greg Steube",0,"Florida","FL","Representative","17",1,1,0,0,0,0,0,1,1,207938,"856","FL-17",0
+"803","Byron Donalds",0,"Florida","FL","Representative","19",1,0,1,0,0,0,0,1,1,1005044,"858","FL-19",0
+"804","Drew Montez Clark",0,"Florida","FL","Representative","20",1,0,1,0,0,0,0,0,0,39863,"859","FL-20",0
+"805","Brian Mast",0,"Florida","FL","Representative","21",1,1,0,0,0,0,0,1,1,1128294,"860","FL-21",0
+"806","Dan Franzese",0,"Florida","FL","Representative","22",1,1,0,0,0,0,0,0,0,157031,"861","FL-22",0
+"807","Joe Budd",0,"Florida","FL","Representative","23",1,1,0,0,0,0,0,0,0,65700,"862","FL-23",0
+"808","Jesus G. Navarro",0,"Florida","FL","Representative","24",1,0,0,0,1,0,0,0,1,9872,"863","FL-24",0
+"809","Carla Spalding",0,"Florida","FL","Representative","25",0,0,1,0,0,0,0,0,0,330714,"864","FL-25",0
+"810","Mario Diaz-Balart",0,"Florida","FL","Representative","26",1,0,0,0,1,0,0,1,1,565197,"865","FL-26",0
+"811","Maria Elvira Salazar",0,"Florida","FL","Representative","27",0,0,0,0,1,0,0,1,0,1481332,"866","FL-27",0
+"812","Carlos A. Gimenez",0,"Florida","FL","Representative","28",1,0,0,0,1,0,0,1,1,393781,"867","FL-28",0
+"813","Nicholas J. LaLota",0,"New York","NY","Representative","1",1,1,0,0,0,0,0,0,0,0,"868","NY-1",0
+"814","Andrew R. Garbarino",0,"New York","NY","Representative","2",1,1,0,0,0,0,0,1,0,381333,"869","NY-2",0
+"815","George A.D. Santos",0,"New York","NY","Representative","3",1,1,0,0,1,0,0,0,1,539861,"870","NY-3",0
+"816","Anthony P. D'Esposito",0,"New York","NY","Representative","4",1,1,0,0,0,0,0,0,0,660154,"871","NY-4",0
+"817","Paul King",0,"New York","NY","Representative","5",1,1,0,0,0,0,0,0,0,51553,"872","NY-5",0
+"818","Thomas Zmich",0,"New York","NY","Representative","6",1,1,0,0,0,0,0,0,0,1000,"873","NY-6",0
+"819","Juan Pagan",0,"New York","NY","Representative","7",1,0,0,0,1,0,0,0,0,0,"874","NY-7",0
+"820","Yuri Dashevsky",0,"New York","NY","Representative","8",1,1,0,0,0,0,0,0,0,2532,"875","NY-8",0
+"821","Benine Hamdan",0,"New York","NY","Representative","10",0,0,0,0,0,1,0,0,0,850,"876","NY-10",0
+"822","Nicole Malliotakis",0,"New York","NY","Representative","11",0,1,0,0,1,0,0,1,1,1132000,"877","NY-11",0
+"823","Michael Zumbluskas",0,"New York","NY","Representative","12",1,1,0,0,0,0,0,0,0,3300,"878","NY-12",0
+"824","Tina Forte",0,"New York","NY","Representative","14",0,1,0,0,0,0,0,0,1,434865,"879","NY-14",0
+"825","Stylo A. Sapaskis",0,"New York","NY","Representative","15",1,1,0,0,0,0,0,0,0,0,"880","NY-15",0
+"826","Miriam L. Flisser",0,"New York","NY","Representative","16",0,1,0,0,0,0,0,0,0,0,"881","NY-16",0
+"827","Michael V. Lawler",0,"New York","NY","Representative","17",1,1,0,0,0,0,0,0,0,675802,"882","NY-17",0
+"828","Colin J. Schmitt",0,"New York","NY","Representative","18",1,1,0,0,0,0,0,0,0,610965,"883","NY-18",0
+"829","Marcus Molinaro",0,"New York","NY","Representative","19",1,1,0,0,0,0,0,0,0,945234,"884","NY-19",0
+"830","Elizabeth L. Joy",0,"New York","NY","Representative","20",0,1,0,0,0,0,0,0,1,304724,"885","NY-20",0
+"831","Elise M. Stefanik",0,"New York","NY","Representative","21",0,1,0,0,0,0,0,1,1,1759076,"886","NY-21",0
+"832","Brandon M. Williams",0,"New York","NY","Representative","22",1,1,0,0,0,0,0,0,0,449599,"887","NY-22",0
+"833","Nick Langworthy",0,"New York","NY","Representative","23",1,1,0,0,0,0,0,0,0,520969,"888","NY-23",0
+"834","Claudia Tenney",0,"New York","NY","Representative","24",0,1,0,0,0,0,0,1,0,617406,"889","NY-24",0
+"835","La'Ron D. Singletary",0,"New York","NY","Representative","25",1,0,1,0,0,0,0,0,0,216497,"890","NY-25",0
+"836","Steven L. Sams II",0,"New York","NY","Representative","26",1,1,0,0,0,0,0,0,0,6000,"891","NY-26",0
+"837","Dean James Martilli",0,"Massachusetts","MA","Representative","1",1,1,0,0,0,0,0,0,0,8080,"892","MA-1",0
+"838","Jeffrey A. Sossa-Paquette",0,"Massachusetts","MA","Representative","2",1,1,0,0,0,0,0,0,0,81379,"893","MA-2",0
+"839","Dean A. Tran",0,"Massachusetts","MA","Representative","3",1,0,0,1,0,0,0,0,0,41434,"894","MA-3",0
+"840","Caroline Colarusso",0,"Massachusetts","MA","Representative","5",0,1,0,0,0,0,0,0,1,44520,"895","MA-5",0
+"841","Bob May",0,"Massachusetts","MA","Representative","6",1,1,0,0,0,0,0,0,0,11918,"896","MA-6",0
+"842","Donnie Dionicio Palmer",0,"Massachusetts","MA","Representative","7",1,0,1,0,0,0,0,0,1,0,"897","MA-7",0
+"843","Robert G. Burke",0,"Massachusetts","MA","Representative","8",1,1,0,0,0,0,0,0,0,0,"898","MA-8",0
+"844","Jesse G. Brown",0,"Massachusetts","MA","Representative","9",1,1,0,0,0,0,0,0,0,36020,"899","MA-9",0
+"845","Lee Murphy",0,"Delaware","DE","Representative","0",1,1,0,0,0,0,0,0,0,141180,"900","DE-0",0
+"846","Donald C. Bolduc",0,"New Hampshire","NH","Senator","0",1,1,0,0,0,0,0,0,1,1863740,"901","NH-0",0
+"847","Karoline Leavitt",0,"New Hampshire","NH","Representative","1",0,1,0,0,0,0,0,0,1,1711474,"902","NH-1",0
+"848","Robert Burns",0,"New Hampshire","NH","Representative","2",1,1,0,0,0,0,0,0,0,98570,"903","NH-2",0
+"849","Allen R. Waters",0,"Rhode Island","RI","Representative","1",1,0,1,0,0,0,0,0,0,19130,"904","RI-1",0
+"850","Allan W. Fung",0,"Rhode Island","RI","Representative","2",1,0,0,1,0,0,0,0,0,844812,"905","RI-2",0

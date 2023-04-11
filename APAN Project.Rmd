@@ -1,0 +1,1281 @@
+---
+title: "APAN Project"
+author: "Michael Dunphy"
+date: "2023-04-11"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Elections in a Post-Roe Era: An Analysis of the 2022 Midterms Elections
+#### By: Michael Dunphy
+
+[Presentation](https://docs.google.com/presentation/d/1Q5DU93FQGAexcz5tzT6y5xHMizqD4dgvBXTKYxYBYxo/edit?usp=sharing) on the topic given at the University of Maryland, College Park on April 11th, 2023 as part of the Applied Political Analytics Master's Program.
+
+##### TL;DR
+This research uses data at the candidate and district level to understand the impact of the Dobbs decision on the 2022 U.S. Midterm elections at the U.S. House and U.S. Senate level. Two measurements were modeled, controlling for relevant factors, to track individual candidate performance: individual contribution fundraising after the Dobbs decision and candidate win probability. Two measurements were modeled, controlling for relevant factors, to track electoral performance at the district level: vote margin shift from the 2020 Presidential election and the probability of a Democrat winning based on district characteristics. It was found that states with higher salience of abortion, measured by Google Trends search data, increased Democratic candidate fundraising at both office levels. States that implemented abortion bans or were hostile towards abortion saw an increased shift in Democratic vote share from the 2020 Presidential election at both office levels. It is recommended that Democrats focus on the abortion issue in campaign and party messaging in the upcoming 2024 elections to increase candidate fundraising performance and raise awareness of bans and hostile policies toward abortion to mobilize pro-choice voters, increasing Democratic vote share. Recommended competitive House districts to implement this strategy include: AZ-1, AZ-6, IA-3, MI-10, MT-1, NE-2, and WI-3. Recommended competitive Senate races to implement this strategy include: AZ, WI, and PA.
+
+##### Introduction
+On June 24th, 2022, the United States Supreme court decided in Dobbs v. Jackson Women’s Health Organization that the U.S. constitution does not provide the right to abortion, overruling Roe v. Wade and Planned Parenthood v. Casey. This gave individual states the power to regulate any aspect of abortion not protected by federal law. Debate over the abortion issue increased with many states implementing trigger bans and several other states proposing policies hostile towards abortion. This made abortion a highly salient issue during the 2022 Midterm election cycle with many candidates discussing the Dobbs decision in campaign messaging. 
+
+Political science research has shown that abortion can be considered an “easy issue” due to its persistence, salience, and ability to be easily understood election cycle to election cycle. The abortion issue has gradually transformed the political parties with elites polarizing on the issue with Democrats adopting the “pro-choice” policy position and Republicans adopting the “pro-life” policy position. This led to mass level polarization with voters sorting themselves along party lines on this issue. Previous research has shown that past Supreme Court decisions on abortion have had electoral impacts including influences on U.S. President, Senate, House, gubernatorial, and state legislature elections.
+
+Given the surprising midterm election results with Democrats overperforming fundamentals and the high salience of abortion this election cycle, this research looks to address the question: what impact did the Dobbs decision have on the results of the 2022 U.S. House and U.S. Senate midterm elections?
+
+##### Research Design
+Four hypotheses were formed to test the electoral impact of the Dobbs decision:
+- Increased salience of abortion will improve the performance for Democrats as pro-choice voters will be mobilized due to the loss of the constitutional right to an abortion
+- Increased performance for Democrats in states that have banned or are hostile towards abortion
+- Gender of candidates will be significant with women Democratic candidates overperforming since voters assume Democrats and women candidates to be more pro-choice
+- Increased share of college educated voters and religious adherence of Evangelical protestants at the district level will increase and decrease Democratic performance respectively as these are major predictors of an individual’s position on abortion
+
+Data used in this analysis was collected from multiple sources including: 
+- FiveThirtyEight: 2022 U.S. House and U.S. Senate candidate data
+- Federal Election Commission (FEC): Individual contribution fundraising data
+- Dave’s Redistricting App (DRA): 2020 Presidential vote share by district
+- The New York Times: 2022 Midterm election results
+- Ballotpedia/Cook Political Report/USA Today: 2022 Midterm vote share margin shift from 2020 Presidential election at the district level
+- Census Bureau: 2021 American Community Survey demographic data at the district level
+- Google Trends: Number of searches including “abortion” at the state level in the last week of the election cycle relative to the 2022 peak for that state
+- Center for Reproductive Rights: Abortion law status tracking states that have implemented abortion bans or have hostile policies towards abortion at the state level 
+- Association of Religion Data Archives: Religious adherence rate per 1,000 for Evangelical Protestants at the state level
+
+Four multivariate regression models were created to measure electoral performance, controlling for relevant variables, among House, Senate, and competitive House candidates/districts with competitive House districts being determined by the 2020 Presidential vote share being within a margin of 10 ppt. The four measurements of electoral performance include: individual contribution fundraising proportion after the Dobbs decision (Democrat fundraising amount / Democrat and Republican fundraising amount in race), candidate win probability, vote margin shift from the 2020 Presidential election, and the probability of a Democrat winning based on district characteristics. Data was collected and processed in R with data visuals created in Tableau. The R Markdown file and Tableau workbook can be viewed on github upon request along with data files for replication purposes. Districts without a Democratic or Republican opponent or had two Republicans/Democrats running against each other were removed resulting in 848 candidates (786 House candidates, 62 Senate candidates) and 424 districts (393 House districts, 31 Senate districts) included in analysis.
+
+##### Results
+The results of the first model measuring the fundraising proportion of individual contributions given to candidates after the Dobbs decision found that salience of abortion was statistically significant, increasing the post-Dobbs fundraising proportion for Democrats among House, Senate, and Competitive House candidates. Abortion law status (whether the state banned or had hostile policies towards abortion) significantly increased the fundraising proportion for Democrats at the Senate level with religious adherence slightly increasing the fundraising proportion for Democrats among all House candidates. The results of the second model measuring the probability of a candidate winning the general election found that gender was the only variable of interest to be statistically significant, increasing the probability of a candidate win when the candidate was a woman by 8%.
+
+The results of the third model measuring the Democratic vote margin shift from the 2020 Presidential election to the 2022 Midterm election found that salience of abortion significantly decreased the margin shift among all House districts while abortion law status significantly increased the vote margin shift among all House and Competitive House districts. Religious adherence for Evangelical Protestants significantly decreased the margin shift among all House districts. The results of the final model measuring the probability of a Democratic candidate winning based on district characteristics found that none of the variables of interest were statistically significant predictors.
+
+It was found through this analysis that election denialism of the 2020 Presidential election hurt Republican candidates, decreasing the post-Dobbs fundraising proportion for these candidates by 16 ppt at the Senate level and increasing the shift in Democratic vote margin from 2020 by 1.3 ppt among all House districts. However, this helped House GOP candidates in the post-Dobbs fundraising proportion by 5 ppt.
+
+##### Recommendations
+Looking at the 2024 elections, it is recommended the Democratic party:
+Focus on the abortion issue in campaign and party messaging as increased salience on this issue increased Democratic candidate fundraising
+Raise awareness of bans and hostile abortion policies from GOP state legislatures as pro-choice voters become mobilized, increasing Democratic vote share
+Tie the Dobbs decision and election denialism to the GOP as these are unpopular issues that Democrats can use to hurt GOP candidate electoral performance
+
+Pick-up House districts that were within a margin of 5 ppt in 2022 to target in 2024 with this strategy include: AZ-1, AZ-6, IA-3, MI-10, MT-1, NE-2, and WI-3. Competitive Senate districts to target in 2024 with this strategy include AZ, WI, and PA. These districts all have low Evangelical religious adherence rates at the state level and could improve candidate fundraising and voter mobilization efforts with a strategy focusing on the abortion issue.
+
+
+#### Data
+
+Data collected for this analysis came from multiple sources. To start, data was collected from 538’s “2022 Primary Project” [GitHub repository](https://github.com/fivethirtyeight/data/tree/master/primary-project-2022) which tracked the 2022 midterm primary candidates at the federal level. This data was processed to extract general election candidates by filtering candidates based on whether or not they won their primary election (or if there was one, their runoff election). 900 candidates were pulled with information on endorsements, incumbency status, race, and gender of the candidates. 
+
+Contributions to candidates were provided by the [FEC](https://www.fec.gov/) which tracks federal level campaign finance information. This data included 'Candidate master', ‘Candidate-committee linkages’, and ‘Contributions by individuals’ on the [bulk data webpage](https://www.fec.gov/data/browse-data/?tab=bulk-data). Candidates not matched by the FEC fundraising data were manually  [confirmed](https://docs.google.com/spreadsheets/d/1C_W9G6RHF3NjHTEAeIrTNIa8rMdiZBfzfMp6cHl1C_w/edit?usp=sharing) on the FEC website to not having contribution records for this election cycle.
+
+Google trends data was provided by Google, using the [gtrendsR R package](https://cran.r-project.org/web/packages/gtrendsR/gtrendsR.pdf) to identify the salience of the abortion issue this election cycle for each state.
+
+District level data was provided by [Dave’s Redistricting App](https://davesredistricting.org/maps#home) (DRA) for each state. This data was manually collected for each state and inputted into this [google sheet](https://docs.google.com/spreadsheets/d/1bEdkobH-AgaGFZ0zHO3r_dnA5DVJPjFnWhNm8g-P5N0/edit?usp=sharing). The sources of data and processing done to calculate these values for districts can be viewed on [DRA’s website](https://davesredistricting.org/maps#aboutdata). Data that was used was the 2020 presidential vote share for each party.
+
+Election result data was manually collected for the [New York Times Midterm Tracker](https://www.nytimes.com/interactive/2022/11/08/us/elections/results-senate.html?action=click&pgtype=Article&state=default&module=election-results&context=election_recirc&region=NavBar) for house and senate candidates and inputted into this [google sheet](https://docs.google.com/spreadsheets/d/1PFxFBpbsdMT8_b8weiqAeTIx1Q11vgNIWIlYYAjOU0M/edit?usp=sharing).
+
+Vote margin shift from 2020 Presidential election to 2022 Midterm election was collected in this [google sheet](https://docs.google.com/spreadsheets/d/1PBX0qkvmVmMcLcrWWGPydQzvHQ696JCubXYyqLDFZfY/edit?usp=sharing). House level shift is provided by [Ballotpedia](https://ballotpedia.org/Election_results,_2022:_Comparison_of_2020_presidential_and_2022_U.S._House_midterm_results) and Senate level shift was calculated using data provided by [Cook Political Report](https://www.cookpolitical.com/2020-national-popular-vote-tracker) and [USA Today](https://www.usatoday.com/elections/results/2022-11-08/senate/).
+
+Urbanization index of districts was provided by 538 and collected in this [google sheet](https://docs.google.com/spreadsheets/d/1vLdj5PHHtZdqk1EY0mWStBifLVRz9vT1H6zZrVIB7aY/edit?usp=sharing). House level data source can be found [here](https://github.com/fivethirtyeight/data/blob/master/district-urbanization-index-2022/urbanization-index-2022.csv) and Senate level data source can be found [here](https://fivethirtyeight.com/features/how-urban-or-rural-is-your-state-and-what-does-that-mean-for-the-2020-election/).
+
+State region was provided by the Census Bureau and collected in this [google sheet](https://docs.google.com/spreadsheets/d/1PGKTLvrdfa6cAFQgrgJHiZb1_RUw0AezEnoSoh5BCLQ/edit?usp=sharing). The data source can be found [here](https://www2.census.gov/geo/pdfs/maps-data/maps/reference/us_regdiv.pdf).
+
+Religious adherence rates by state was provided by the Association of Religion Data Archives and collected in this [google sheet](https://docs.google.com/spreadsheets/d/1NQCAYqo4MO9HZOA5GcpdsXuBoKEypaFBuFmB7XUwn94/edit?usp=sharing). The data source can be found [here](https://thearda.com/us-religion/maps/us-state-maps?color=orange&m1=2_2_9999_2020&m2=2_2_1_2020).
+
+State abortion law status was provided by the Center for Reproductive Rights and was collected in this [google sheet](https://docs.google.com/spreadsheets/d/1BDRWHJN-D0XnyXBWZFY6fRpqv4bmJxDNdWPrjDECv_s/edit?usp=sharing). The data source can be found [here](https://reproductiverights.org/maps/abortion-laws-by-state/).
+
+
+#### Actions
+- Candidates loaded from 538 and processed to only include general election candidates
+- FEC data (individual donations, candidates, candidate-committee link) was collected for the 2022 cycle and joined together. Fundraising amount total past Dobbs decision date (6/24/2022) aggregated by candidate.
+- FEC data and 538 candidates joined on LAST NAME, STATE, OFFICE, DISTRICT
+- Candidates not matched were checked with FEC website to make sure there were no records of transactions for these candidates
+- Districts with no Democratic or Republican opponent, had either two Republicans or two Democrats running were filtered out. 846 candidates (784 House candidates, 62 Senate candidates, 423 districts (392 House districts, 31 Senate districts)
+- District level data was aggregated and district level variables were calculated
+- DRA data (2020 pres Dem margin) was added to the district level data set
+- NYT election results (winner) was added to the candidate level data set
+- Shift from Pres 2020 was added to the district level data set
+- State abortions status was added to the district level data set with three numeric dummy variables representing: illegal status, hostile status, and other status
+- Google Trends data with number of hits for “abortion” last week of election cycle relative to 2022 peak was added to the district level data set
+- Census data (education, income, age, gender, and share white) processed and added to district level data
+- State region was processed and added to district level data
+- Urbanization index was processed and added to district level data
+- Religious adherence rate per 1000 by state was processed and added to district level data
+- Created three types for candidate and district data sets: house candidates/districts, senate candidates/districts, competitive house candidates/districts (competitive determined by 2020 margin within 10%)
+- Created the linear and logistic models with formatted output
+
+
+#### Code
+
+```{r, include = FALSE}
+
+library(tidyverse)
+library(data.table)
+library(plyr)
+library(dplyr)
+library(gtrendsR)
+library(stargazer)
+library(glmtoolbox)
+
+```
+
+
+Candidate Information
+
+```{r}
+
+# load 538 primary candidates
+dem <- read.csv("https://raw.githubusercontent.com/fivethirtyeight/data/master/primary-project-2022/dem_candidates.csv") %>%
+        select(Candidate, State, Office, District, Gender, Race.1, Race.2, Incumbent, Primary.Outcome, Runoff.Outcome)
+rep <- read.csv("https://raw.githubusercontent.com/fivethirtyeight/data/master/primary-project-2022/rep_candidates.csv") %>%
+        select(Candidate, State, Office, District, Gender, Race.1, Race.2, Incumbent, Primary.Outcome, Runoff.Outcome, X2020.Election.Stance)
+
+# process 538 primary candidate data 
+dem["Party"] <- "DEM"
+rep["Party"] <- "GOP"
+
+full_primary_candidates <- rbind.fill(dem, rep)
+# head(full_primary_candidates)
+
+# grab general election candidates 
+# create new column for general election status
+full_primary_candidates["General.Election.Candidate"] <- FALSE
+
+# determine general election candidate
+for (i in 1:nrow(full_primary_candidates)) {
+  if (full_primary_candidates[i, "Primary.Outcome"] == "Won") {
+    full_primary_candidates[i, "General.Election.Candidate"] <- TRUE
+  } else if (full_primary_candidates[i, "Primary.Outcome"] == "Made runoff") {
+    if (full_primary_candidates[i, "Runoff.Outcome"] == "Won" || full_primary_candidates[i, "Runoff.Outcome"] == "" || is.null(full_primary_candidates[i, "Runoff.Outcome"])) {
+      full_primary_candidates[i, "General.Election.Candidate"] <- TRUE
+    }
+  }
+}
+
+# filter only general election candidates
+full_general_candidates <- full_primary_candidates %>%
+                            filter(General.Election.Candidate == TRUE) %>%
+                            filter(Office == "Representative" | Office == "Senator (unexpired term)" | Office == "Senator")
+
+# convert gender to a numeric with 1 representing male and 0 representing female
+full_general_candidates$Gender.Num <- ifelse(full_general_candidates$Gender == "Male", 1, ifelse(full_general_candidates$Gender == "Female", 0, -99))
+
+# convert race to dummy variables
+full_general_candidates$Race.2 <- ifelse(full_general_candidates$Race.2 == "", NA, full_general_candidates$Race.2)
+full_general_candidates$White <- ifelse(!is.na(full_general_candidates$Race.2), grepl("White", full_general_candidates$Race.1) | grepl("White", full_general_candidates$Race.2), grepl("White", full_general_candidates$Race.1))
+full_general_candidates$White.Num <- ifelse(full_general_candidates$White, 1, 0)
+full_general_candidates$Black <- ifelse(!is.na(full_general_candidates$Race.2), grepl("Black", full_general_candidates$Race.1) | grepl("Black", full_general_candidates$Race.2), grepl("Black", full_general_candidates$Race.1))
+full_general_candidates$Black.Num <- ifelse(full_general_candidates$Black, 1, 0)
+full_general_candidates$Asian <- ifelse(!is.na(full_general_candidates$Race.2), grepl("Asian", full_general_candidates$Race.1) | grepl("Asian", full_general_candidates$Race.2), grepl("Asian", full_general_candidates$Race.1))
+full_general_candidates$Asian.Num <- ifelse(full_general_candidates$Asian, 1, 0)
+full_general_candidates$Latino <- ifelse(!is.na(full_general_candidates$Race.2), grepl("Latino", full_general_candidates$Race.1) | grepl("Latino", full_general_candidates$Race.2), grepl("Latino", full_general_candidates$Race.1))
+full_general_candidates$Latino.Num <- ifelse(full_general_candidates$Latino, 1, 0)
+full_general_candidates$Middle_Eastern <- ifelse(!is.na(full_general_candidates$Race.2), grepl("Middle Eastern", full_general_candidates$Race.1) | grepl("Middle Eastern", full_general_candidates$Race.2), grepl("Middle Eastern", full_general_candidates$Race.1))
+full_general_candidates$Middle_Eastern.Num <- ifelse(full_general_candidates$Middle_Eastern, 1, 0)
+full_general_candidates$Native_American <- ifelse(!is.na(full_general_candidates$Race.2), grepl("Native", full_general_candidates$Race.1) | grepl("Native", full_general_candidates$Race.2), grepl("Native", full_general_candidates$Race.1))
+full_general_candidates$Native_American.Num <- ifelse(full_general_candidates$Native_American, 1, 0)
+
+# convert incumbent to a numeric dummy variable (incumbent as 1, else 0)
+full_general_candidates$Incumbent.Num <- ifelse(str_detect(full_general_candidates$Incumbent, "Yes"), 1, 0)
+
+# convert 2020 election stance to a numeric dummy variable (election denier marked as 1, else 0)
+full_general_candidates$Election_Denier.Num <- ifelse(full_general_candidates$X2020.Election.Stance == "Fully denied", 1, 0)
+full_general_candidates$Election_Denier.Num <- ifelse(is.na(full_general_candidates$X2020.Election.Stance), 0, full_general_candidates$Election_Denier.Num)
+
+# convert Party to a numeric dummy variable (DEM as 1, REP as 0)
+full_general_candidates$Party.Num <- ifelse(full_general_candidates$Party == "DEM", 1, 0)
+
+# convert at-large and senate district values
+full_general_candidates$District <- ifelse(full_general_candidates$District == "N/A" | full_general_candidates$District == "At-Large", 0, full_general_candidates$District)
+
+# remove duplicate candidates
+full_general_candidates$Office[full_general_candidates$Office == "Senator (unexpired term)"] <- "Senator"
+full_general_candidates <- full_general_candidates %>%
+                            filter(duplicated(Candidate) == FALSE)
+
+# remove parts of name that interferes with grabbing last name
+full_general_candidates$Candidate_processed <- paste(full_general_candidates$Candidate," ")
+full_general_candidates$Candidate_processed <- gsub(" Sr. ", "", full_general_candidates$Candidate_processed)
+full_general_candidates$Candidate_processed <- gsub(" Jr. ", "", full_general_candidates$Candidate_processed)
+full_general_candidates$Candidate_processed <- gsub(" III ", "", full_general_candidates$Candidate_processed)
+full_general_candidates$Candidate_processed <- gsub(" II ", "", full_general_candidates$Candidate_processed)
+full_general_candidates$Candidate_processed <- trimws(full_general_candidates$Candidate_processed)
+
+# extract last name and store in new column
+full_general_candidates$Last_name <- word(full_general_candidates$Candidate_processed, - 1) 
+full_general_candidates$Last_name <- toupper(full_general_candidates$Last_name)
+full_general_candidates$Last_name <- gsub(" ", "", full_general_candidates$Last_name)
+full_general_candidates$Last_name <- gsub("Ñ", "N", full_general_candidates$Last_name)
+full_general_candidates$Last_name <- gsub("Á", "A", full_general_candidates$Last_name)
+full_general_candidates$Last_name <- gsub("'", "", full_general_candidates$Last_name)
+full_general_candidates$Last_name <- ifelse(grepl("-", full_general_candidates$Last_name) > 0, word(full_general_candidates$Last_name, sep = "-", -1), full_general_candidates$Last_name)
+
+# convert full state names to abbreviated names to match FEC format
+states_dict <- c(AL = "Alabama",
+                AK = "Alaska",
+                AZ = "Arizona",
+                AR = "Arkansas",
+                CA = "California",
+                CO = "Colorado",
+                CT = "Connecticut",
+                DE = "Delaware",
+                FL = "Florida",
+                GA = "Georgia",
+                HI = "Hawaii",
+                ID = "Idaho",
+                IL = "Illinois",
+                IN = "Indiana",
+                IA = "Iowa",
+                KS = "Kansas",
+                KY = "Kentucky",
+                LA = "Louisiana",
+                ME = "Maine",
+                MD = "Maryland",
+                MA = "Massachusetts",
+                MI = "Michigan",
+                MN = "Minnesota",
+                MS = "Mississippi",
+                MO = "Missouri",
+                MT = "Montana",
+                NE = "Nebraska",
+                NV = "Nevada",
+                NH = "New Hampshire",
+                NJ = "New Jersey",
+                NM = "New Mexico",
+                NY = "New York",
+                NC = "North Carolina",
+                ND = "North Dakota",
+                OH = "Ohio",
+                OK = "Oklahoma",
+                OR = "Oregon",
+                PA = "Pennsylvania",
+                RI = "Rhode Island",
+                SC = "South Carolina",
+                SD = "South Dakota",
+                TN = "Tennessee",
+                TX = "Texas",
+                UT = "Utah",
+                VT = "Vermont",
+                VA = "Virginia",
+                WA = "Washington",
+                WV = "West Virginia",
+                WI = "Wisconsin",
+                WY = "Wyoming")
+
+full_general_candidates$State_Abbr <- state.abb[match(full_general_candidates$State,state.name)]
+
+# select relevant columns for final candidate data set
+final_general_candidates <- full_general_candidates %>%
+                              select(Candidate, Last_name, Party.Num, State, State_Abbr, Office, District, Gender.Num, White.Num, Black.Num, Asian.Num, Latino.Num, Middle_Eastern.Num, Native_American.Num, Incumbent.Num, Election_Denier.Num)
+
+# head(final_general_candidates)
+write.csv(final_general_candidates, "output data/final_general_candidates.csv")
+
+```
+
+
+Individual FEC Donations
+
+```{r}
+
+# given how large of a file, the itcont.txt file used in the code below can be downloaded on the FEC website linked above in the Data section and added to the 'input data/FEC/Individual' folder in this repository.
+
+# individual donations header
+ind_header <- t((fread("input data/FEC/Individual/indiv_header_file.csv", header=FALSE)))
+
+# individual donations 2022
+ind_22 <- read.table("input data/FEC/Individual/indiv22/itcont.txt", header=FALSE, sep = '|', fill = TRUE, quote = "", col.names = ind_header[,1]) %>%
+            filter(str_sub(toString(TRANSACTION_DT), -4, -1) == "2022") %>%
+            select(TRAN_ID, TRANSACTION_DT, TRANSACTION_AMT, CMTE_ID, STATE)
+# head(ind_22)
+
+```
+
+
+FEC Candidate Information
+
+```{r}
+
+# candidate header
+cn_header <- t((fread("input data/FEC/Candidates/cn_header_file.csv", header=FALSE)))
+
+# candidates 2022
+cn_22 <- read.table("input data/FEC/Candidates/cn22.txt", header=FALSE, sep = '|', fill = TRUE, quote = "", col.names = cn_header[,1]) %>%
+         filter(CAND_ELECTION_YR == 2022 & (CAND_OFFICE == "H" | CAND_OFFICE == "S")) %>%
+         select(CAND_ID, CAND_NAME, CAND_PTY_AFFILIATION, CAND_ELECTION_YR, CAND_OFFICE, CAND_OFFICE_ST, CAND_OFFICE_DISTRICT, CAND_PCC)
+
+# clean party affiliation
+cn_22$CAND_PTY_AFFILIATION <- ifelse(cn_22$CAND_PTY_AFFILIATION == "DFL", "DEM", cn_22$CAND_PTY_AFFILIATION)
+cn_22$CAND_PTY_AFFILIATION <- ifelse(cn_22$CAND_ID == "H4MT01041", "REP", cn_22$CAND_PTY_AFFILIATION)
+
+# found that candidate district information for Aja Smith was incorrect in FEC. District ran was CA-39, not CA-41
+cn_22$CAND_OFFICE_DISTRICT <- ifelse(cn_22$CAND_ID == "H8CA41170", 39, cn_22$CAND_OFFICE_DISTRICT)
+
+# found that candidate district information for Luis Pozzolo was incorrect in FEC. District ran was AZ-7, not AZ-3
+cn_22$CAND_OFFICE_DISTRICT <- ifelse(cn_22$CAND_ID == "H2AZ03152", 7, cn_22$CAND_OFFICE_DISTRICT)
+
+# found that candidate district information for David Schweikert was incorrect in FEC. District ran was AZ-1, not AZ-6
+cn_22$CAND_OFFICE_DISTRICT <- ifelse(cn_22$CAND_ID == "H4AZ06045", 1, cn_22$CAND_OFFICE_DISTRICT)
+
+# found that candidate district information for Paul Jones was incorrect in FEC. District ran was CA-44, not CA-38
+cn_22$CAND_OFFICE_DISTRICT <- ifelse(cn_22$CAND_ID == "H0CA38140", 44, cn_22$CAND_OFFICE_DISTRICT)
+
+# found that candidate district information for Lisa McClain was incorrect in FEC. District ran was MI-9, not MI-10
+cn_22$CAND_OFFICE_DISTRICT <- ifelse(cn_22$CAND_ID == "H0MI10287", 9, cn_22$CAND_OFFICE_DISTRICT)
+
+# found that candidate district information for Tim Walberg was incorrect in FEC. District ran was MI-5, not MI-7
+cn_22$CAND_OFFICE_DISTRICT <- ifelse(cn_22$CAND_ID == "H4MI07103", 5, cn_22$CAND_OFFICE_DISTRICT)
+
+# found that candidate district information for Ben Clark was incorrect in FEC. District ran was NC-9, not NC-4
+cn_22$CAND_OFFICE_DISTRICT <- ifelse(cn_22$CAND_ID == "H2NC04150", 9, cn_22$CAND_OFFICE_DISTRICT)
+
+# found that candidate district information and name for Nicholas J. LaLota was incorrect in FEC. District ran was NY-1, not NY-2
+cn_22$CAND_OFFICE_DISTRICT <- ifelse(cn_22$CAND_ID == "H0NY02200", 1, cn_22$CAND_OFFICE_DISTRICT)
+cn_22$CAND_NAME <- ifelse(cn_22$CAND_ID == "H0NY02200", "LALOTA, NICK", cn_22$CAND_NAME)
+
+# change Antonio Daza's candidate name to DAZA, ANTONIO MIGUEL instead of DAZA-FERNANDEZ, ANTONIO MIGUEL
+cn_22$CAND_NAME <- ifelse(cn_22$CAND_ID == "H2GA11230", "DAZA, ANTONIO MIGUEL", cn_22$CAND_NAME)
+
+# change Ashley Hinson's candidate name to HINSON, ASHLEY instead of ARENHOLZ, ASHLEY HINSON
+cn_22$CAND_NAME <- ifelse(cn_22$CAND_ID == "H0IA01174", "HINSON, ASHLEY", cn_22$CAND_NAME)
+
+# change Jackie Walorski's candidate name to WALORSKI, JACKIE instead of WALORSKI SWIHART, JACKIE
+cn_22$CAND_NAME <- ifelse(cn_22$CAND_ID == "H0IN02190", "WALORSKI, JACKIE", cn_22$CAND_NAME)
+
+# head(cn_22)
+write.csv(cn_22, "output data/FEC Candidates/cn_22.csv")
+
+```
+
+
+FEC Candidate-Committee Linkage
+
+```{r}
+
+# candidate-committee linkage header
+ccl_header <- t((fread("input data/FEC/Candidate-Committee Linkage/ccl_header_file.csv", header=FALSE)))
+
+# candidate-committee linkage 2022
+ccl_22 <- read.table("input data/FEC/Candidate-Committee Linkage/ccl22.txt", header=FALSE, sep = '|', fill = TRUE, quote = "", col.names = ccl_header[,1]) %>%
+          filter(CAND_ELECTION_YR == 2022) %>%
+          select(CAND_ID, CAND_ELECTION_YR, CMTE_ID, LINKAGE_ID)
+# head(ccl_22)
+write.csv(ccl_22, "output data/FEC Candidate-Committee/ccl_22.csv")
+
+```
+
+
+Join FEC Data
+
+```{r}
+
+# 2022 fec data
+fec_22 <- ind_22 %>% 
+              inner_join(ccl_22, by = c("CMTE_ID")) %>%
+              inner_join(cn_22, by = c("CAND_ID"))
+# head(fec_22)
+write.csv(fec_22, "output data/FEC Joined/fec_22.csv")
+
+```
+
+
+Candidate Fundraising Totals
+```{r}
+
+# get fundraising totals for candidates by candidate ID for transactions after the Dobbs decision
+fec_22_totaled <- fec_22 %>%
+                  filter(TRANSACTION_DT >= 6242022 & TRANSACTION_DT <= 11082022) %>%
+                  group_by(CAND_ID, CAND_NAME, CAND_PTY_AFFILIATION, CAND_OFFICE, CAND_OFFICE_ST, CAND_OFFICE_DISTRICT) %>%
+                  dplyr::summarize(Fundraising_Total = sum(TRANSACTION_AMT, na.rm=TRUE))
+
+# process data to be joined with 538 candidate data
+fec_22_totaled$CAND_OFFICE <- ifelse(fec_22_totaled$CAND_OFFICE == "H", "Representative", "Senator")
+fec_22_totaled$CAND_PTY_AFFILIATION <- ifelse(fec_22_totaled$CAND_PTY_AFFILIATION == "DEM", 1, 0)
+
+# extract and clean candidate last name for joining
+fec_22_totaled$CAND_LAST <- word(fec_22_totaled$CAND_NAME, sep = ",", 1)
+fec_22_totaled$CAND_LAST <- gsub(" Sr.", "", fec_22_totaled$CAND_LAST)
+fec_22_totaled$CAND_LAST <- gsub(" Jr.", "", fec_22_totaled$CAND_LAST)
+fec_22_totaled$CAND_LAST <- gsub(" III", "", fec_22_totaled$CAND_LAST)
+fec_22_totaled$CAND_LAST <- gsub(" II", "", fec_22_totaled$CAND_LAST)
+fec_22_totaled$CAND_LAST <- gsub("'", "", fec_22_totaled$CAND_LAST)
+fec_22_totaled$CAND_LAST <- ifelse(grepl(" ", fec_22_totaled$CAND_LAST) > 0, word(fec_22_totaled$CAND_LAST,-1), fec_22_totaled$CAND_LAST)
+fec_22_totaled$CAND_LAST <- ifelse(grepl("-", fec_22_totaled$CAND_LAST) > 0, word(fec_22_totaled$CAND_LAST, sep = "-", -1), fec_22_totaled$CAND_LAST)
+
+# change data type for district to string
+fec_22_totaled$CAND_OFFICE_DISTRICT <- as.character(fec_22_totaled$CAND_OFFICE_DISTRICT)
+
+# head(fec_22_totaled)
+write.csv(fec_22_totaled, "output data/fec_22_totaled.csv")   
+
+
+# join with 538 candidate data
+candidate_fundraising <- final_general_candidates %>%
+                          left_join(fec_22_totaled, by = c("Last_name" = "CAND_LAST", "District" = "CAND_OFFICE_DISTRICT", "Office" = "CAND_OFFICE", "State_Abbr" = "CAND_OFFICE_ST")) %>%
+                          select(Candidate, Party.Num, State, State_Abbr, Office, District, Gender.Num, White.Num, Black.Num, Asian.Num, Latino.Num, Middle_Eastern.Num, Native_American.Num, Incumbent.Num, Election_Denier.Num, Fundraising_Total)
+
+candidate_fundraising$index <- row.names(candidate_fundraising)
+candidate_fundraising$Fundraising_Total <- ifelse(is.na(candidate_fundraising$Fundraising_Total), 0, candidate_fundraising$Fundraising_Total)
+
+# remove duplicate matches
+candidate_fundraising <- candidate_fundraising %>%
+                          filter(index != 279 & index != 385 & index != 540 & index != 280 & index != 48)
+
+# head(candidate_fundraising)
+write.csv(candidate_fundraising, "output data/candidate_fundraising.csv") 
+
+```
+
+Filter out districts
+```{r}
+
+# filter out districts with no Democratic or Republican opponent. This accounts for 27 districts.
+# Districts included: AL-1, AL-6, AZ-8, AZ-9, CA-10, FL-5, FL-6, FL-18, IL-7, IL-16, MA-4, NY-9, NY-13, PA-3, PA-13, PA-14, SC-3, SC-4, SD-At-Large, TX-6, TX-11, TX-19, TX-25, TX-26, TX-31, UT Senate, WI-6, WI-8
+# General elections for LA House districts were cancelled so were not included in analysis
+
+# filter out districts that were missing a candidate in the 538 data. This accounts for 2 districts
+# Districts included: MI-4, PA-15 (Democrat write-in candidates)
+removed_districts <- c("AL-1", "AL-6", "AZ-8", "AZ-9", "CA-10", "FL-5", "FL-6", "FL-18", "IL-7", "IL-16", "MA-4", "NY-9", "NY-13", "PA-3", "PA-13", "PA-14", "SC-3", "SC-4", "SD-0", "TX-6", "TX-11", "TX-19", "TX-25", "TX-26", "TX-31", "WI-6", "WI-8", "MI-4", "PA-15", "UT-0")
+
+candidate_fundraising_filtered <- candidate_fundraising %>%
+                                    mutate(full_district = paste(State_Abbr, "-", as.character(District), sep='')) %>%
+                                    filter(! full_district %in% removed_districts)
+
+# remove Nicholas Begich running in AK-0 since he didn't make the final round of voting
+# remove Buzz Kelley and Patricia Chesbro running in AK Senate since they didn't make it to the final round of voting
+candidate_fundraising_filtered <- candidate_fundraising_filtered %>%
+                                    filter(index != 836 & index != 835 & index != 380)
+
+# indicate special election for OK Senate
+candidate_fundraising_filtered$Special <- ifelse(candidate_fundraising_filtered$index == 281 | candidate_fundraising_filtered$index == 728, 1, 0)
+
+# remove districts with either two Republicans or two Democrats running against one another
+# Districts included: AK Senate, CA-15, CA-16, CA-29, CA-30, CA-34, CA-37
+same_party_districts <- c("CA-15", "CA-16", "CA-29", "CA-30", "CA-34", "CA-37")
+candidate_fundraising_filtered <- candidate_fundraising_filtered %>%
+                                   filter(! full_district %in% same_party_districts)
+candidate_fundraising_filtered <- candidate_fundraising_filtered %>%
+                                   filter(!(full_district == "AK-0" & Office == "Senator"))
+
+# head(candidate_fundraising_filtered)
+write.csv(candidate_fundraising_filtered, "output data/candidate_fundraising_filtered.csv") 
+
+```
+
+
+District Level Data
+```{r}
+
+districts <- data.frame(unique(candidate_fundraising_filtered[c("State","State_Abbr","Office","District","Special")]))
+
+districts$Dem_Name <- ""
+districts$Rep_Name <- ""
+  
+districts$Dem_Gender <- -1
+districts$Rep_Gender <- -1
+  
+districts$Dem_Incumbent <- -1
+districts$Rep_Incumbent <- -1
+  
+districts$Rep_Election_Denier <- 0
+
+districts$Dem_Fundraised <- -1
+districts$Rep_Fundraised <- -1
+              
+for (i in 1:nrow(districts)) {
+  for (j in 1:nrow(candidate_fundraising_filtered)) {
+    # match district with candidate info
+    if (districts[i, "State_Abbr"] == candidate_fundraising_filtered[j, "State_Abbr"] &
+          districts[i, "Office"] == candidate_fundraising_filtered[j, "Office"] &
+          districts[i, "District"] == candidate_fundraising_filtered[j, "District"] &
+          districts[i, "Special"] == candidate_fundraising_filtered[j, "Special"]) {
+        # pull relevant fields
+        party <- candidate_fundraising_filtered[j,"Party.Num"]
+        name <- candidate_fundraising_filtered[j,"Candidate"]
+        gender <- candidate_fundraising_filtered[j,"Gender.Num"]
+        incumbent <- candidate_fundraising_filtered[j,"Incumbent.Num"]
+        denier <- candidate_fundraising_filtered[j,"Election_Denier.Num"]
+        fundraised <- candidate_fundraising_filtered[j,"Fundraising_Total"]
+        
+        # add values to district
+        if (party == 1) {
+          districts[i, "Dem_Name"] <- name
+          districts[i, "Dem_Gender"] <- gender
+          districts[i, "Dem_Incumbent"] <- incumbent
+          districts[i, "Rep_Election_Denier"] <- 0
+          districts[i, "Dem_Fundraised"] <- fundraised
+        } else {
+          districts[i, "Rep_Name"] <- name
+          districts[i, "Rep_Gender"] <- gender
+          districts[i, "Rep_Incumbent"] <- incumbent
+          districts[i, "Rep_Election_Denier"] <- denier
+          districts[i, "Rep_Fundraised"] <- fundraised
+        }
+    } 
+  }
+}
+
+# create variables for models
+districts$Open.Num <- ifelse(districts$Dem_Incumbent == 0 & districts$Rep_Incumbent == 0, 1, 0)
+districts$Dem_Man_Rep_Man <- ifelse(districts$Dem_Gender == 1 & districts$Rep_Gender == 1, 1, 0)
+districts$Dem_Woman_Rep_Man <- ifelse(districts$Dem_Gender == 0 & districts$Rep_Gender == 1, 1, 0)
+districts$Dem_Man_Rep_Woman <- ifelse(districts$Dem_Gender == 1 & districts$Rep_Gender == 0, 1, 0)
+districts$Dem_Woman_Rep_Woman <- ifelse(districts$Dem_Gender == 0 & districts$Rep_Gender == 0, 1, 0)
+
+# get fundraising proportion by district 
+# Dem Fundraising Amount / (Dem Fundraising Amount + Rep Fundraising Amount)
+districts$Fundraising_Prop <- districts$Dem_Fundraised / (districts$Dem_Fundraised + districts$Rep_Fundraised)
+
+# head(districts)
+write.csv(districts, "output data/districts.csv") 
+
+```
+
+
+DRA District Information
+```{r}
+
+# District data provided by Dave's Redistricting App https://davesredistricting.org/maps#home
+# Each state's congressional district data was manually exported and combined into a csv
+dra_house <- read.csv("input data/DRA/DRA Data - House Districts .csv") %>%
+              select(DRA.Office, ID, State, Dem.2020.Pres, Rep.2020.Pres, Total.2020.Pres)
+dra_senate <- read.csv("input data/DRA/DRA Data - Senate Districts.csv") %>%
+              select(DRA.Office, ID, State, Dem.2020.Pres, Rep.2020.Pres, Total.2020.Pres)
+
+# DRA processing
+# append data sets 
+full_dra_districts <- rbind.fill(dra_house, dra_senate)
+# head(full_dra_districts)
+
+# create 2020 presidential vote share for each party
+full_dra_districts["Dem.2020.Pres.%"] <- as.double(full_dra_districts$Dem.2020.Pres) / as.double(full_dra_districts$Total.2020.Pres)
+full_dra_districts["Rep.2020.Pres.%"] <- as.double(full_dra_districts$Rep.2020.Pres) / as.double(full_dra_districts$Total.2020.Pres)
+full_dra_districts["Dem_Margin_2020"] <- (full_dra_districts["Dem.2020.Pres.%"] - full_dra_districts["Rep.2020.Pres.%"]) * 100
+
+# select office, id, state, and created columns
+final_dra_districts <- full_dra_districts %>%
+                                select(DRA.Office, ID, State, Dem_Margin_2020)
+
+names(final_dra_districts)[names(final_dra_districts) == "State"] <- "State.DRA"
+
+# change district labels to match district data set
+final_dra_districts$ID <- ifelse(final_dra_districts$ID == "At-Large" | final_dra_districts$ID == "N/A", "0", final_dra_districts$ID)
+
+# join with district data
+districts_dra <- districts %>%
+                  left_join(final_dra_districts, by = c("Office" = "DRA.Office", "State_Abbr" = "State.DRA", "District" = "ID")) 
+
+# head(districts_dra)
+write.csv(districts_dra, "output data/districts_dra.csv")
+
+```
+
+
+NYT Election Results
+```{r}
+
+# Election results were collected manually off of the NYT Election tracker: https://www.nytimes.com/interactive/2022/11/08/us/elections/results-senate.html?action=click&pgtype=Article&state=default&module=election-results&context=election_recirc&region=NavBar
+# Data was collected and inputed into this spreadsheet: https://docs.google.com/spreadsheets/d/1PFxFBpbsdMT8_b8weiqAeTIx1Q11vgNIWIlYYAjOU0M/edit?usp=sharing
+
+nyt_election_results <- read.csv("input data/NYT/NYT Election Tracker Data - General Election Candidates.csv") %>%
+                          select(State, Office, District, Candidate, Party, Winner)
+
+# change district labels to match candidate data set
+nyt_election_results$District <- ifelse(nyt_election_results$District == "At-Large" | nyt_election_results$District == "N/A", "0", nyt_election_results$District)
+nyt_election_results$Winner <- ifelse(nyt_election_results$Winner, 1, 0)
+
+# join with candidate data set
+candidate_fundraising_filtered_nyt <- candidate_fundraising_filtered %>%
+                                        left_join(nyt_election_results, by = c("State" = "State", "Office" = "Office", "District" = "District", "Candidate" = "Candidate")) %>%
+                                        select(-c(Party))
+# head(candidate_fundraising_filtered_nyt)
+write.csv(candidate_fundraising_filtered_nyt, "output data/candidate_fundraising_filtered_nyt.csv")
+
+# create District Dem Win
+nyt_election_results <- nyt_election_results %>%
+                          filter(Party == "DEM") %>%
+                          group_by(State, Office, District) %>%
+                          dplyr::summarize(District_DEM_Win = sum(Winner))
+
+districts_dra_nyt <- districts_dra %>%
+                      left_join(nyt_election_results, by = c("State" = "State", "Office" = "Office", "District" = "District"))
+# head(districts_dra_nyt)
+
+```
+
+
+Shift from 2020
+```{r}
+
+# house districts
+house_shift <- read.csv("input data/Vote Shift/2020 to 2022 Shift - House Shift.csv") %>%
+                select(District, X2022.U.S..House.margin, Difference)
+
+# clean up data
+house_shift$State.Shift <- word(house_shift$District, sep = "-", 1)
+house_shift$District.Shift <- word(house_shift$District, sep = "-", 2)
+house_shift$District.Shift <- sub("^0+", "", house_shift$District.Shift)
+house_shift$District.Shift <- ifelse(house_shift$District.Shift == "AL", "0", house_shift$District.Shift)
+house_shift$Margin_2022 <- ifelse(substr(house_shift$X2022.U.S..House.margin, 1, 1) == "D", as.double(substring(house_shift$X2022.U.S..House.margin, 3)), as.double(substring(house_shift$X2022.U.S..House.margin, 3)) * -1)
+house_shift$Shift <- ifelse(substr(house_shift$Difference, 1, 1) == "D", as.double(substring(house_shift$Difference, 3)), as.double(substring(house_shift$Difference, 3)) * -1)
+house_shift$Office.Shift <- "Representative"
+
+house_shift <- house_shift %>%
+                select(Office.Shift, State.Shift, District.Shift, Margin_2022, Shift)
+
+# join with house district data
+districts_dra_nyt_shift <- districts_dra_nyt %>%
+                        left_join(house_shift, by = c("Office" = "Office.Shift", "State_Abbr" = "State.Shift", "District" = "District.Shift"))
+
+# senate districts
+senate_shift <- read.csv("input data/Vote Shift/2020 to 2022 Shift - Senate Shift.csv") %>%
+                  select(stateid, X2022.Dem.This.Margin, X20.22.Dem.Margin.Shift, Special)
+
+# clean up data
+names(senate_shift)[names(senate_shift) == "X2022.Dem.This.Margin"] <- "Senate_Margin_2022"
+names(senate_shift)[names(senate_shift) == "X20.22.Dem.Margin.Shift"] <- "Senate_Shift"
+senate_shift$Senate_Margin_2022 <- as.double(sub("%","", senate_shift$Senate_Margin_2022))
+senate_shift$Senate_Shift <- as.double(sub("%","", senate_shift$Senate_Shift))
+senate_shift$Office.Shift <- "Senator"
+
+# join with senate district data
+districts_dra_nyt_shift <- districts_dra_nyt_shift %>%
+                        left_join(senate_shift, by = c("Office" = "Office.Shift", "State_Abbr" = "stateid", "Special" = "Special"))
+
+# combine house and senate columns
+districts_dra_nyt_shift$Dem_Margin_2022 <- ifelse(is.na(districts_dra_nyt_shift$Margin_2022), districts_dra_nyt_shift$Senate_Margin_2022, districts_dra_nyt_shift$Margin_2022)
+districts_dra_nyt_shift$Dem_Margin_Shift <- ifelse(is.na(districts_dra_nyt_shift$Shift), districts_dra_nyt_shift$Senate_Shift, districts_dra_nyt_shift$Shift)
+districts_dra_nyt_shift <- districts_dra_nyt_shift %>%
+                        select(-c(Margin_2022, Shift, Senate_Margin_2022, Senate_Shift))
+
+
+# head(districts_dra_nyt_shift)
+write.csv(districts_dra_nyt_shift, "output data/districts_dra_nyt_shift.csv")
+
+```
+
+
+State Abortion status
+```{r}
+
+state_abortion_status <- read.csv("input data/Center for Reproductive Rights/State Abortion Status - Data.csv") 
+
+# create numeric dummy variables for illegal, hostile, and other abortion status
+state_abortion_status$Illegal.Status <- ifelse(state_abortion_status$Abortion.Status == "Illegal", 1, 0) 
+state_abortion_status$Hostile.Status <- ifelse(state_abortion_status$Abortion.Status == "Hostile", 1, 0) 
+state_abortion_status$Other.Status <- ifelse(state_abortion_status$Hostile.Status == 0 & state_abortion_status$Illegal.Status == 0, 1, 0) 
+
+state_abortion_status <- state_abortion_status %>%
+                          select(-c(Abortion.Status))
+
+# join to district data set
+districts_dra_nyt_shift_status <- districts_dra_nyt_shift %>%
+                                left_join(state_abortion_status, by = c("State" = "State"))
+
+# head(districts_dra_nyt_shift_status)
+write.csv(districts_dra_nyt_shift_status, "output data/districts_dra_nyt_shift_status.csv")
+
+```
+
+
+Google Trends data
+```{r}
+
+# get overall salience compared to other issues
+Gtrenddata2022 <- data.frame(gtrends(c("Abortion", "Crime", "Inflation", "Gas Prices", "Border"), 
+               geo = "US", time = "2022-01-01 2022-12-01",onlyInterest = TRUE))
+write.csv(Gtrenddata2022, "output data/Gtrenddata2022.csv")
+
+full_states <- c("AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DE", "FL", "GA", "HI", "ID", "IL", "IN", "IA", "KS", "KY", "LA", "ME", "MD", "MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ", "NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA", "RI", "SC", "SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV", "WI", "WY")
+
+gtrends_data <- data.frame(full_states)
+gtrends_data$Abortion_Salience <- 0
+
+# get the relative number of searches for "abortion" in the last full week before the 2022 midterm general elections
+for (i in 1:nrow(gtrends_data)) {
+  # print(gtrends_data[i, "used_states"])
+  temp <- data.frame(gtrends(c("abortion"), geo = paste0("US-", gtrends_data[i, "full_states"]), time = "2022-01-01 2022-12-01",onlyInterest = TRUE)) %>%
+                       filter(as.character(interest_over_time.date) == "2022-10-30") %>%
+                       select(interest_over_time.hits)
+  gtrends_data$Abortion_Salience[i] <- temp[1, "interest_over_time.hits"]
+}
+
+write.csv(gtrends_data, "output data/gtrends_data.csv")
+
+# join with district data
+districts_dra_nyt_shift_status_trend <- districts_dra_nyt_shift_status %>%
+                                      left_join(gtrends_data, by = c("State_Abbr" = "full_states"))
+
+# head(districts_dra_nyt_shift_status_trend)
+
+```
+
+
+Census data
+```{r}
+
+# pull relevant information
+# education level: profln: 59 for population 25 and over, 68 for bachelor's degree or higher
+census_education <- read.csv("input data/Census/DP02_1yr_500.csv") %>%
+                      filter(PROFLN == 59 | PROFLN == 68) %>%
+                      select(GEONAME, PROFLN, TITLE, PRF_ESTIMATE, PCT_ESTIMATE)
+# process data
+census_education$State <- trimws(word(census_education$GEONAME, sep = ",", -1))
+census_education$District <- word(census_education$GEONAME, 3)
+census_education$District <- ifelse(census_education$District == "(at", "0", census_education$District)
+census_education$Total <- ifelse(census_education$PROFLN == 59, as.double(sub(",", "", census_education$PRF_ESTIMATE)), NA)
+census_education$Bachelors <- ifelse(census_education$PROFLN == 68, as.double(sub(",", "", census_education$PRF_ESTIMATE)), NA)
+names(census_education)[names(census_education) == "PCT_ESTIMATE"] <- "Share_Bachelors"
+census_education$Share_Bachelors <- as.double(census_education$Share_Bachelors)
+census_education$Office <- "Representative"
+
+census_education_house <- census_education %>%
+                            filter(PROFLN == 68) %>%
+                            select(State, District, Office, Share_Bachelors)
+
+census_education_senate <- census_education %>%
+                            group_by(State) %>%
+                            dplyr::summarize(State_Total = sum(Total, na.rm=TRUE), State_Bachelors = sum(Bachelors, na.rm=TRUE))
+
+census_education_senate$Share_Bachelors <- census_education_senate$State_Bachelors / census_education_senate$State_Total * 100
+census_education_senate$District <- "0"
+census_education_senate$Office <- "Senator"
+
+census_education_senate <- census_education_senate %>%
+                            select(-c(State_Total, State_Bachelors))
+
+# union the two data sets
+census_education_total <- rbind(census_education_house, census_education_senate)
+
+# join with district data set
+districts_dra_nyt_shift_status_trend_census <- districts_dra_nyt_shift_status_trend %>%
+                                            left_join(census_education_total, by = c("State" = "State", "District" = "District", "Office" = "Office"))
+
+
+# income level: profln: 51 for total households, 57-61 for households above $50k income
+census_income <- read.csv("input data/Census/DP03_1yr_500.csv") %>%
+                      filter(PROFLN == 51 | (PROFLN >= 58 & PROFLN <= 61)) %>%
+                      select(GEONAME, PROFLN, TITLE, PRF_ESTIMATE)
+
+# process data
+census_income$State <- trimws(word(census_income$GEONAME, sep = ",", -1))
+census_income$District <- word(census_income$GEONAME, 3)
+census_income$District <- ifelse(census_income$District == "(at", "0", census_income$District)
+census_income$Income_Group <- ifelse(census_income$PROFLN == 51, "Total", "Above 75k")
+census_income <- census_income %>%
+                  group_by(State, District, Income_Group) %>%
+                  dplyr::summarize(Summed = sum(as.double(sub(",", "", PRF_ESTIMATE)), na.rm=TRUE))
+
+census_income$Total <- ifelse(census_income$Income_Group == "Total", census_income$Summed, NA)
+census_income$Above <- ifelse(census_income$Income_Group == "Above 75k", census_income$Summed, NA)
+
+census_income <- census_income %>%
+                  group_by(State, District) %>%
+                  dplyr::summarize(Total = sum(Total, na.rm=TRUE), Above = sum(Above, na.rm=TRUE))
+
+census_income$Share_Above_75k <- census_income$Above / census_income$Total * 100
+census_income$Office <- "Representative"
+
+census_income_house <- census_income %>%
+                        select(State, District, Office, Share_Above_75k)
+
+census_income_senate <- census_income %>%
+                       group_by(State) %>%
+                       dplyr::summarize(State_Total = sum(Total, na.rm=TRUE), State_Above = sum(Above, na.rm=TRUE))
+
+census_income_senate$Share_Above_75k <- census_income_senate$State_Above / census_income_senate$State_Total * 100
+census_income_senate$District <- "0"
+census_income_senate$Office <- "Senator"
+
+census_income_senate <- census_income_senate %>%
+                          select(State, District, Office, Share_Above_75k)
+
+# union the two data sets
+census_income_total <- rbind(census_income_house, census_income_senate)
+
+# join with district data set
+districts_dra_nyt_shift_status_trend_census <- districts_dra_nyt_shift_status_trend_census %>%
+                                            left_join(census_income_total, by = c("State" = "State", "District" = "District", "Office" = "Office"))
+
+
+# share white: profln: 37 for white alone, 33 for total population
+census_race <- read.csv("input data/Census/DP05_1yr_500.csv") %>%
+                      filter(PROFLN == 37 | PROFLN == 33) %>%
+                      select(GEONAME, PROFLN, TITLE, PRF_ESTIMATE, PCT_ESTIMATE)
+
+# process data
+census_race$State <- trimws(word(census_race$GEONAME, sep = ",", -1))
+census_race$District <- word(census_race$GEONAME, 3)
+census_race$District <- ifelse(census_race$District == "(at", "0", census_race$District)
+census_race$Total <- ifelse(census_race$PROFLN == 33, as.double(sub(",", "", census_race$PRF_ESTIMATE)), NA)
+census_race$White <- ifelse(census_race$PROFLN == 37, as.double(sub(",", "", census_race$PRF_ESTIMATE)), NA)
+names(census_race)[names(census_race) == "PCT_ESTIMATE"] <- "Share_White"
+census_race$Share_White <- as.double(census_race$Share_White)
+census_race$Office <- "Representative"
+
+census_race_house <- census_race %>%
+                      filter(PROFLN == 37) %>%
+                      select(State, District, Office, Share_White)
+
+census_race_senate <- census_race %>%
+                       group_by(State) %>%
+                       dplyr::summarize(State_Total = sum(Total, na.rm=TRUE), State_White = sum(White, na.rm=TRUE))
+
+census_race_senate$Share_White <- census_race_senate$State_White / census_race_senate$State_Total * 100
+census_race_senate$District <- "0"
+census_race_senate$Office <- "Senator"
+
+census_race_senate <- census_race_senate %>%
+                       select(-c(State_Total, State_White))
+
+# union the two data sets
+census_race_total <- rbind(census_race_house, census_race_senate)
+
+# join with district data set
+districts_dra_nyt_shift_status_trend_census <- districts_dra_nyt_shift_status_trend_census %>%
+                                            left_join(census_race_total, by = c("State" = "State", "District" = "District", "Office" = "Office"))
+
+
+# gender share: profln: 3 for female, 1 for total population
+census_gender <- read.csv("input data/Census/DP05_1yr_500.csv") %>%
+                      filter(PROFLN == 3 | PROFLN == 1) %>%
+                      select(GEONAME, PROFLN, TITLE, PRF_ESTIMATE, PCT_ESTIMATE)
+
+# process data
+census_gender$State <- trimws(word(census_gender$GEONAME, sep = ",", -1))
+census_gender$District <- word(census_gender$GEONAME, 3)
+census_gender$District <- ifelse(census_gender$District == "(at", "0", census_gender$District)
+census_gender$Total <- ifelse(census_gender$PROFLN == 1, as.double(sub(",", "", census_gender$PRF_ESTIMATE)), NA)
+census_gender$Female <- ifelse(census_gender$PROFLN == 3, as.double(sub(",", "", census_gender$PRF_ESTIMATE)), NA)
+names(census_gender)[names(census_gender) == "PCT_ESTIMATE"] <- "Share_Female"
+census_gender$Share_Female <- as.double(census_gender$Share_Female)
+census_gender$Office <- "Representative"
+
+census_gender_house <- census_gender %>%
+                            filter(PROFLN == 3) %>%
+                            select(State, District, Office, Share_Female)
+
+census_gender_senate <- census_gender %>%
+                            group_by(State) %>%
+                            dplyr::summarize(State_Total = sum(Total, na.rm=TRUE), State_Female = sum(Female, na.rm=TRUE))
+
+census_gender_senate$Share_Female <- census_gender_senate$State_Female / census_gender_senate$State_Total * 100
+census_gender_senate$District <- "0"
+census_gender_senate$Office <- "Senator"
+
+census_gender_senate <- census_gender_senate %>%
+                            select(-c(State_Total, State_Female))
+
+# union the two data sets
+census_gender_total <- rbind(census_gender_house, census_gender_senate)
+
+# join with district data set
+districts_dra_nyt_shift_status_trend_census <- districts_dra_nyt_shift_status_trend_census %>%
+                                            left_join(census_gender_total, by = c("State" = "State", "District" = "District", "Office" = "Office"))
+
+
+# age share: profln: 1 for total population, 8-11 for 15 to 44 years old
+census_age <- read.csv("input data/Census/DP05_1yr_500.csv") %>%
+                      filter(PROFLN == 1 | (PROFLN >= 8 & PROFLN <= 11)) %>%
+                      select(GEONAME, PROFLN, TITLE, PRF_ESTIMATE, PCT_ESTIMATE)
+# process data
+census_age$State <- trimws(word(census_age$GEONAME, sep = ",", -1))
+census_age$District <- word(census_age$GEONAME, 3)
+census_age$District <- ifelse(census_age$District == "(at", "0", census_age$District)
+census_age$Age_Group <- ifelse(census_age$PROFLN == 1, "Total", "Age 15-44")
+census_age <- census_age %>%
+                  group_by(State, District, Age_Group) %>%
+                  dplyr::summarize(Summed = sum(as.double(sub(",", "", PRF_ESTIMATE)), na.rm=TRUE))
+
+census_age$Total <- ifelse(census_age$Age_Group == "Total", census_age$Summed, NA)
+census_age$Age <- ifelse(census_age$Age_Group == "Age 15-44", census_age$Summed, NA)
+
+census_age <- census_age %>%
+                  group_by(State, District) %>%
+                  dplyr::summarize(Total = sum(Total, na.rm=TRUE), Age = sum(Age, na.rm=TRUE))
+
+census_age$Total <- ifelse(census_age$State == "Delaware", 1003384, census_age$Total)
+census_age$Share_Age_15_to_44 <- census_age$Age / census_age$Total * 100
+census_age$Office <- "Representative"
+
+census_age_house <- census_age %>%
+                        select(State, District, Office, Share_Age_15_to_44)
+
+census_age_senate <- census_age %>%
+                       group_by(State) %>%
+                       dplyr::summarize(State_Total = sum(Total, na.rm=TRUE), State_Age = sum(Age, na.rm=TRUE))
+
+census_age_senate$Share_Age_15_to_44 <- census_age_senate$State_Age / census_age_senate$State_Total * 100
+census_age_senate$District <- "0"
+census_age_senate$Office <- "Senator"
+
+census_age_senate <- census_age_senate %>%
+                          select(State, District, Office, Share_Age_15_to_44)
+
+# union the two data sets
+census_age_total <- rbind(census_age_house, census_age_senate)
+
+# join with district data set
+districts_dra_nyt_shift_status_trend_census <- districts_dra_nyt_shift_status_trend_census %>%
+                                            left_join(census_age_total, by = c("State" = "State", "District" = "District", "Office" = "Office"))
+
+
+# head(districts_dra_nyt_shift_status_trend_census)
+write.csv(districts_dra_nyt_shift_status_trend_census, "output data/districts_dra_nyt_shift_trend_census.csv")
+
+```
+
+
+State Region
+```{r}
+
+# regions provided by the Census
+regions <- read.csv("input data/Census/State Regions - State.csv") 
+
+# create dummy variables
+regions$South <- ifelse(regions$Region == "South", 1, 0)
+regions$West <- ifelse(regions$Region == "West", 1, 0)
+regions$Northeast <- ifelse(regions$Region == "Northeast", 1, 0)
+regions$Midwest <- ifelse(regions$Region == "Midwest", 1, 0)
+
+# join with district data set
+districts_dra_nyt_shift_status_trend_census_regions <- districts_dra_nyt_shift_status_trend_census %>%
+                                            left_join(regions, by = c("State" = "State")) %>%
+                                            select(-c(Region))
+
+# head(districts_dra_nyt_shift_status_trend_census_regions)
+
+```
+
+
+Urbanization Index
+```{r}
+
+# house level
+urban_house <- read.csv("input data/538/Urbanization Index - House.csv")
+
+# process data
+urban_house$Office <- "Representative"
+urban_house$District <- as.character(as.integer(word(urban_house$tcd, sep = "-", 2)))
+urban_house$District <- ifelse(urban_house$state == "ND" | urban_house$state == "SD" | urban_house$state == "DE" | urban_house$state == "WY" | urban_house$state == "VT", 0, urban_house$District)
+names(urban_house)[names(urban_house) == "state"] <- "State_Abbr"
+urban_house <- urban_house %>%
+                select(State_Abbr, Office, District, urbanindex)
+
+# senate level
+urban_senate <- read.csv("input data/538/Urbanization Index - Senate.csv")
+
+# process data
+names(urban_senate)[names(urban_senate) == "Urbanization.Index"] <- "urbanindex"
+urban_senate$Office <- "Senator"
+urban_senate$District <- "0"
+urban_senate$State_Abbr <- state.abb[match(urban_senate$State,state.name)]
+urban_senate <- urban_senate %>%
+                select(State_Abbr, Office, District, urbanindex)
+
+# union two data sets
+urban_total <- rbind(urban_house, urban_senate)
+
+# join with district data set
+districts_dra_nyt_shift_status_trend_census_regions_urban <- districts_dra_nyt_shift_status_trend_census_regions %>%
+                                            left_join(urban_total, by = c("State_Abbr" = "State_Abbr", "Office" = "Office", "District" = "District"))
+
+# head(districts_dra_nyt_shift_status_trend_census_regions_urban)
+
+```
+
+
+State Religious Adherence
+```{r}
+
+all_denominations <- read.csv("input data/ARDA/Religious Adherence - All Denominations.csv") %>%
+                      select(name, value)
+names(all_denominations)[names(all_denominations) == "value"] <- "Adherence_per_1000_All"
+
+evangelical <- read.csv("input data/ARDA/Religious Adherence - Evangelical Protestant.csv") %>%
+                      select(name, value)
+names(evangelical)[names(evangelical) == "value"] <- "Adherence_per_1000_Evan"
+
+# join the two data sets 
+adherence_both <- all_denominations %>%
+                    left_join(evangelical, by = c("name"))
+write.csv(adherence_both, "output data/adherence_both.csv")
+
+# join with district data set
+districts_dra_nyt_shift_status_trend_census_regions_urban_religion <- districts_dra_nyt_shift_status_trend_census_regions_urban %>%
+                                                                        left_join(adherence_both, by = c("State" = "name"))
+
+# head(districts_dra_nyt_shift_status_trend_census_regions_urban_religion)
+
+```
+
+
+
+Processing final data sets for models
+```{r}
+
+# candidate data set full
+final_candidates <- candidate_fundraising_filtered_nyt %>%
+                      left_join(districts_dra_nyt_shift_status_trend_census_regions_urban_religion, by = c("State" = "State", "State_Abbr" = "State_Abbr", "Office" = "Office", "District" = "District", "Special" = "Special")) %>%
+                      select(State,
+                             Office, 
+                             District,
+                             Abortion_Salience, 
+                             Illegal.Status, 
+                             Hostile.Status, 
+                             Gender.Num,                             
+                             Share_Bachelors,
+                             Adherence_per_1000_Evan,
+                             Election_Denier.Num,
+                             Party.Num, 
+                             White.Num, 
+                             Black.Num, 
+                             Latino.Num, 
+                             Incumbent.Num, 
+                             Open.Num, 
+                             Dem_Margin_2020, 
+                             Share_Above_75k, 
+                             Share_Age_15_to_44,
+                             Share_Female,
+                             Share_White, 
+                             urbanindex, 
+                             South, 
+                             West,
+                             Midwest,
+                             Fundraising_Prop,
+                             Winner)
+
+head(final_candidates)
+write.csv(final_candidates, "output data/final_candidates.csv")
+
+# house candidates data
+candidate_house <- final_candidates %>%
+                    filter(Office == "Representative") %>%
+                    select(-c(Office, District, State))
+
+# senate candidates data
+candidate_senate <- final_candidates %>%
+                    filter(Office == "Senator") %>%
+                    select(-c(Office, District, State))
+
+# competitive house candidates data
+competitive_candidate_house <- final_candidates %>%
+                                filter(Office == "Representative" & abs(Dem_Margin_2020) <= 10) %>%
+                                select(-c(Office, District, State))
+
+# district data set full
+final_districts <- districts_dra_nyt_shift_status_trend_census_regions_urban_religion %>%
+                    select(State,
+                           Office,
+                           District,
+                           Special,
+                           Abortion_Salience,
+                           Illegal.Status, 
+                           Hostile.Status, 
+                           Dem_Woman_Rep_Man, 
+                           Dem_Man_Rep_Woman, 
+                           Dem_Woman_Rep_Woman,
+                           Share_Bachelors,
+                           Adherence_per_1000_Evan,                           
+                           Rep_Election_Denier, 
+                           Dem_Incumbent, 
+                           Rep_Incumbent, 
+                           Dem_Margin_2020, 
+                           Share_Above_75k, 
+                           Share_White,
+                           Share_Age_15_to_44,
+                           Share_Female,
+                           urbanindex, 
+                           South, 
+                           West, 
+                           Midwest, 
+                           Fundraising_Prop,
+                           Dem_Margin_Shift,
+                           District_DEM_Win)
+
+head(final_districts)
+write.csv(final_districts, "output data/final_districts.csv")
+
+# house districts data
+district_house <- final_districts %>%
+                    filter(Office == "Representative") %>%
+                    select(-c(Office, District, State, Special))
+
+# senate districts data
+district_senate <- final_districts %>%
+                    filter(Office == "Senator") %>%
+                    select(-c(Office, District, State, Special))
+
+# competitive house districts data
+competitive_districts_house <- final_districts %>%
+                                filter(Office == "Representative" & abs(Dem_Margin_2020) <= 10) %>%
+                                select(-c(Office, District, State, Special))
+
+```
+
+
+Fundraising model
+```{r}
+
+candidate_house_fundraising <- glm(Fundraising_Prop ~ . - Winner, data = candidate_house, family="gaussian")
+summary(candidate_house_fundraising)
+
+candidate_senate_fundraising <- glm(Fundraising_Prop ~ . - Winner, data = candidate_senate, family="gaussian")
+summary(candidate_senate_fundraising)
+
+competitive_candidate_house_fundraising <- glm(Fundraising_Prop ~ . - Winner, data = competitive_candidate_house, family="gaussian")
+summary(competitive_candidate_house_fundraising)
+
+a <- candidate_house_fundraising
+b <- candidate_senate_fundraising
+c <- competitive_candidate_house_fundraising
+
+stargazer(a, b, c,
+          title="Table 1. Candidate Fundraising Model Results", 
+          type = "html", 
+          out="figures/Table_1.doc",
+          align=TRUE)
+
+house_r_squared <- with(summary(candidate_house_fundraising), 1 - deviance/null.deviance)
+house_adj_r_squared <- adjR2(candidate_house_fundraising)
+
+senate_r_squared <- with(summary(candidate_senate_fundraising), 1 - deviance/null.deviance)
+senate_adj_r_squared <- adjR2(candidate_senate_fundraising)
+
+house_comp_r_squared <- with(summary(competitive_candidate_house_fundraising), 1 - deviance/null.deviance)
+house_compe_adj_r_squared <- adjR2(competitive_candidate_house_fundraising )
+
+r_squared <- round(c(house_r_squared, senate_r_squared, house_comp_r_squared), 3)
+r_squared
+
+adj_r_squared <- round(c(house_adj_r_squared, senate_adj_r_squared, house_compe_adj_r_squared), 3)
+adj_r_squared
+
+```
+
+
+Candidate Win model
+```{r}
+
+candidate_house_win <- glm(Winner ~ . , data = candidate_house, family="binomial")
+summary(candidate_house_win)
+
+candidate_senate_win <- glm(Winner ~ . - Incumbent.Num, data = candidate_senate, family="binomial")
+summary(candidate_senate_win)
+
+competitive_candidate_house_win <- glm(Winner ~ . , data = competitive_candidate_house, family="binomial")
+summary(competitive_candidate_house_win)
+
+logit2prob <- function(logit){
+  odds <- exp(logit)
+  prob <- odds / (1 + odds)
+  return(prob)
+}
+
+logit2prob(coef(candidate_senate_win))
+
+a <- candidate_house_win
+b <- candidate_senate_win
+c <- competitive_candidate_house_win
+
+stargazer(a, b, c,
+          title="Table 2. Candidate Win Model Results", 
+          type = "html", 
+          out="figures/Table_2.doc",
+          align=TRUE)
+
+house_r_squared <- with(summary(candidate_house_win), 1 - deviance/null.deviance)
+house_adj_r_squared <- adjR2(candidate_house_win)
+
+senate_r_squared <- with(summary(candidate_senate_win), 1 - deviance/null.deviance)
+senate_adj_r_squared <- adjR2(candidate_senate_win)
+
+house_comp_r_squared <- with(summary(competitive_candidate_house_win), 1 - deviance/null.deviance)
+house_compe_adj_r_squared <- adjR2(competitive_candidate_house_win)
+
+r_squared <- round(c(house_r_squared, senate_r_squared, house_comp_r_squared), 3)
+r_squared
+
+adj_r_squared <- round(c(house_adj_r_squared, senate_adj_r_squared, house_compe_adj_r_squared), 3)
+adj_r_squared
+
+```
+
+District Shift model
+```{r}
+
+district_house_shift <- glm(Dem_Margin_Shift ~ ., data = district_house, family="gaussian")
+summary(district_house_shift)
+
+district_senate_shift <- glm(Dem_Margin_Shift ~ ., data = district_senate, family="gaussian")
+summary(district_senate_shift)
+
+competitive_districts_house_shift <- glm(Dem_Margin_Shift ~ ., data = competitive_districts_house, family="gaussian")
+summary(competitive_districts_house_shift)
+
+a <- district_house_shift
+b <- district_senate_shift
+c <- competitive_districts_house_shift
+
+stargazer(a, b, c,
+          title="Table 3. District Margin Shift Model Results", 
+          type = "html", 
+          out="figures/Table_3.doc",
+          align=TRUE)
+
+house_r_squared <- with(summary(district_house_shift), 1 - deviance/null.deviance)
+house_adj_r_squared <- adjR2(district_house_shift)
+
+senate_r_squared <- with(summary(district_senate_shift), 1 - deviance/null.deviance)
+senate_adj_r_squared <- adjR2(district_senate_shift)
+
+house_comp_r_squared <- with(summary(competitive_districts_house_shift), 1 - deviance/null.deviance)
+house_compe_adj_r_squared <- adjR2(competitive_districts_house_shift)
+
+r_squared <- round(c(house_r_squared, senate_r_squared, house_comp_r_squared), 3)
+r_squared
+
+adj_r_squared <- round(c(house_adj_r_squared, senate_adj_r_squared, house_compe_adj_r_squared), 3)
+adj_r_squared
+
+```
+
+District Win model
+```{r}
+
+district_house_win <- glm(District_DEM_Win ~ . - Dem_Margin_Shift - Share_White - Share_Age_15_to_44 - Share_Female - Share_Above_75k , data = district_house, family="binomial")
+summary(district_house_win)
+
+competitive_districts_house_win <- glm(District_DEM_Win ~ . - Dem_Margin_Shift - Share_White - Share_Age_15_to_44 - Share_Female - Share_Above_75k - South - Midwest - West, data = competitive_districts_house, family="binomial")
+summary(competitive_districts_house_win)
+
+logit2prob <- function(logit){
+  odds <- exp(logit)
+  prob <- odds / (1 + odds)
+  return(prob)
+}
+
+logit2prob(coef(district_house_win))
+
+a <- district_house_win
+c <- competitive_districts_house_win
+
+stargazer(a, c,
+          title="Table 4. District Democrat Win Model Results", 
+          type = "html", 
+          out="figures/Table_4.doc",
+          align=TRUE)
+
+house_r_squared <- with(summary(district_house_win), 1 - deviance/null.deviance)
+house_adj_r_squared <- adjR2(district_house_win)
+ 
+house_comp_r_squared <- with(summary(competitive_districts_house_win), 1 - deviance/null.deviance)
+house_compe_adj_r_squared <- adjR2(competitive_districts_house_win)
+
+r_squared <- round(c(house_r_squared, house_comp_r_squared), 3)
+r_squared
+
+adj_r_squared <- round(c(house_adj_r_squared, house_compe_adj_r_squared), 3)
+adj_r_squared
+
+```
+
+

@@ -1,0 +1,65 @@
+
+<table style="text-align:center"><caption><strong>Table 4. District Democrat Win Model Results</strong></caption>
+<tr><td colspan="3" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td colspan="2"><em>Dependent variable:</em></td></tr>
+<tr><td></td><td colspan="2" style="border-bottom: 1px solid black"></td></tr>
+<tr><td style="text-align:left"></td><td colspan="2">District_DEM_Win</td></tr>
+<tr><td style="text-align:left"></td><td>(1)</td><td>(2)</td></tr>
+<tr><td colspan="3" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Abortion_Salience</td><td>-0.651</td><td>-3.057<sup>*</sup></td></tr>
+<tr><td style="text-align:left"></td><td>(0.428)</td><td>(1.694)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Illegal.Status</td><td>-4.169</td><td>-2.537</td></tr>
+<tr><td style="text-align:left"></td><td>(27.821)</td><td>(3,215.940)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Hostile.Status</td><td>2.086</td><td>6.615<sup>*</sup></td></tr>
+<tr><td style="text-align:left"></td><td>(1.743)</td><td>(3.646)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Dem_Woman_Rep_Man</td><td>1.258</td><td>6.792</td></tr>
+<tr><td style="text-align:left"></td><td>(1.638)</td><td>(4.476)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Dem_Man_Rep_Woman</td><td>6.974<sup>*</sup></td><td>9.402</td></tr>
+<tr><td style="text-align:left"></td><td>(3.773)</td><td>(8.446)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Dem_Woman_Rep_Woman</td><td>-0.059</td><td>-4.504</td></tr>
+<tr><td style="text-align:left"></td><td>(1.582)</td><td>(3.928)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Share_Bachelors</td><td>-0.101</td><td>-0.549<sup>*</sup></td></tr>
+<tr><td style="text-align:left"></td><td>(0.068)</td><td>(0.289)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Adherence_per_1000_Evan</td><td>0.036<sup>*</sup></td><td>-0.024</td></tr>
+<tr><td style="text-align:left"></td><td>(0.022)</td><td>(0.023)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Rep_Election_Denier</td><td>2.693<sup>*</sup></td><td>5.538<sup>*</sup></td></tr>
+<tr><td style="text-align:left"></td><td>(1.597)</td><td>(3.060)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Dem_Incumbent</td><td>3.420<sup>***</sup></td><td>7.081</td></tr>
+<tr><td style="text-align:left"></td><td>(1.298)</td><td>(4.472)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Rep_Incumbent</td><td>-7.030<sup>**</sup></td><td>-11.897</td></tr>
+<tr><td style="text-align:left"></td><td>(2.968)</td><td>(8.839)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Dem_Margin_2020</td><td>0.623<sup>***</sup></td><td>1.553<sup>**</sup></td></tr>
+<tr><td style="text-align:left"></td><td>(0.209)</td><td>(0.765)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td></tr>
+<tr><td style="text-align:left">urbanindex</td><td>-0.886</td><td>-0.461</td></tr>
+<tr><td style="text-align:left"></td><td>(0.775)</td><td>(1.028)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td></tr>
+<tr><td style="text-align:left">South</td><td>-4.984</td><td></td></tr>
+<tr><td style="text-align:left"></td><td>(3.063)</td><td></td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td></tr>
+<tr><td style="text-align:left">West</td><td>-1.907</td><td></td></tr>
+<tr><td style="text-align:left"></td><td>(1.909)</td><td></td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Midwest</td><td>-1.450</td><td></td></tr>
+<tr><td style="text-align:left"></td><td>(2.196)</td><td></td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Fundraising_Prop</td><td>10.929<sup>**</sup></td><td>34.662<sup>*</sup></td></tr>
+<tr><td style="text-align:left"></td><td>(5.448)</td><td>(20.067)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Constant</td><td>6.743</td><td>30.919<sup>*</sup></td></tr>
+<tr><td style="text-align:left"></td><td>(9.048)</td><td>(17.740)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td></tr>
+<tr><td colspan="3" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Observations</td><td>393</td><td>78</td></tr>
+<tr><td style="text-align:left">Log Likelihood</td><td>-18.272</td><td>-8.725</td></tr>
+<tr><td style="text-align:left">Akaike Inf. Crit.</td><td>72.545</td><td>47.449</td></tr>
+<tr><td colspan="3" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"><em>Note:</em></td><td colspan="2" style="text-align:right"><sup>*</sup>p<0.1; <sup>**</sup>p<0.05; <sup>***</sup>p<0.01</td></tr>
+</table>

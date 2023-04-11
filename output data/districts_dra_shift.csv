@@ -1,0 +1,424 @@
+"","State","State_Abbr","Office","District","Special","Dem_Name","Rep_Name","Dem_Gender","Rep_Gender","Dem_Incumbent","Rep_Incumbent","Rep_Election_Denier","Dem_Fundraised","Rep_Fundraised","Open.Num","Dem_Man_Rep_Man","Dem_Woman_Rep_Man","Dem_Man_Rep_Woman","Dem_Woman_Rep_Woman","Fundraising_Prop","Dem_Margin_2020","Dem_Margin_2022","Dem_Margin_Shift"
+"1","Texas","TX","Representative","1",0,"Jrmar ""JJ"" Jefferson","Nathaniel Moran",1,1,0,0,0,29594,410903,1,1,0,0,0,0.0671832044259098,-45.8725865410564,-56.2,-10.3
+"2","Texas","TX","Representative","2",0,"Robin Fulford","Dan Crenshaw",0,1,0,1,0,123037,2786689,0,0,1,0,0,0.0422847374632526,-22.7659925686219,-31.8,-9
+"3","Texas","TX","Representative","3",0,"Sandeep Srivastava","Keith Self",1,1,0,0,1,75334,331948,1,1,0,0,0,0.184967663682657,-14.3760816867848,-23.6,-9.2
+"4","Texas","TX","Representative","4",0,"Iro Omere","Pat Fallon",0,1,0,1,1,14200,133626,0,0,1,0,0,0.0960588800346353,-25.9053045892726,-35.8,-9.8
+"5","Texas","TX","Representative","5",0,"Tartisha Hill","Lance Gooden",0,1,0,1,1,3000,239187,0,0,1,0,0,0.0123871223476074,-22.4247808377613,-30.1,-7.7
+"6","Texas","TX","Representative","7",0,"Lizzie Fletcher","Johnny Teague",0,1,1,0,0,1201185,100077,0,0,1,0,0,0.923092351886092,29.7294011207307,27.6,-2.1
+"7","Texas","TX","Representative","8",0,"Laura Jones","Morgan Luttrell",0,1,0,0,1,12880,1731908,1,0,1,0,0,0.00738198566244151,-27.1829994239263,-37.6,-10.4
+"8","Texas","TX","Representative","9",0,"Al Green","Jimmy I. Leon",1,1,1,0,0,111043,0,0,1,0,0,0,1,53.4058374655755,53.4,0
+"9","Texas","TX","Representative","10",0,"Linda Nuno","Michael McCaul",0,1,0,1,0,0,1090336,0,0,1,0,0,0,-18.7757537282287,-29,-10.2
+"10","Texas","TX","Representative","12",0,"Trey J. Hunt","Kay Granger",1,0,0,1,0,14865,593612,0,0,0,1,0,0.024429846978604,-18.126636332032,-28.6,-10.4
+"11","Texas","TX","Representative","13",0,"Kathleen Brown","Ronny Jackson",0,1,0,1,1,43497,1213395,0,0,1,0,0,0.0346067919916747,-45.4642885760838,-50.8,-5.3
+"12","Texas","TX","Representative","14",0,"Mikal Williams","Randy Weber",1,1,0,1,1,30540,364714,0,1,0,0,0,0.0772667702287643,-28.4992764340124,-40.4,-11.8
+"13","Texas","TX","Representative","15",0,"Michelle Vallejo","Monica De La Cruz",0,0,0,0,1,952758,1484589,1,0,0,0,1,0.390899613391117,-2.87623180623836,-8.5,-5.6
+"14","Texas","TX","Representative","16",0,"Veronica Escobar","Irene Armendariz-Jackson",0,0,1,0,1,262797,104379,0,0,0,0,1,0.715724883979345,35.4189180338606,27,-8.5
+"15","Texas","TX","Representative","17",0,"Mary Jo Woods","Pete Sessions",0,1,0,1,1,0,315890,0,0,1,0,0,0,-22.525244178552,-33,-10.5
+"16","Texas","TX","Representative","18",0,"Sheila Jackson Lee","Carmen Maria Montiel",0,0,1,0,1,438267,74845,0,0,0,0,1,0.854135159575297,48.5479606702167,44.5,-4
+"17","Texas","TX","Representative","20",0,"Joaquin Castro","Kyle Sinclair",1,1,1,0,0,169238,130261,0,1,0,0,0,0.565070334124655,33.0804624868005,36.8,3.7
+"18","Texas","TX","Representative","21",0,"Claudia Andreana Zapata","Chip Roy",0,1,0,1,0,32768,864119,0,0,1,0,0,0.0365352602947751,-19.6915227554165,-25.6,-5.9
+"19","Texas","TX","Representative","22",0,"Jamie Kaye Jordan","Troy E. Nehls",0,1,0,1,1,0,350216,0,0,1,0,0,0,-16.0360720605657,-26.7,-10.6
+"20","Texas","TX","Representative","23",0,"John Lira","Tony Gonzales",1,1,0,1,0,242474,630488,0,1,0,0,0,0.27776008577693,-7.18534768634253,-17.1,-10
+"21","Texas","TX","Representative","24",0,"Jan McDowell","Beth Van Duyne",0,0,0,1,1,70778,595073,0,0,0,0,1,0.106297054446115,-12.3446307454655,-19.4,-7
+"22","Texas","TX","Representative","27",0,"Maclovio Perez Jr.","Michael Cloud",1,1,0,1,1,0,275412,0,1,0,0,0,0,-22.3961044820669,-28.8,-6.3
+"23","Texas","TX","Representative","28",0,"Henry Cuellar","Cassy Garcia",1,0,1,0,0,1597522,710252,0,0,0,1,0,0.692235028213335,7.03578045670011,13.4,6.4
+"24","Texas","TX","Representative","29",0,"Sylvia Garcia","Robert Schafranek",0,1,1,0,0,190010,0,0,0,1,0,0,1,36.727593192405,42.8,6
+"25","Texas","TX","Representative","30",0,"Jasmine Crockett","James Rodgers",0,1,0,0,0,223120,28782,1,0,1,0,0,0.88574128033918,56.7402035359266,53,-3.8
+"26","Texas","TX","Representative","32",0,"Colin Allred","Antonio Swad",1,1,1,0,0,1357351,40347,0,1,0,0,0,0.971133249099591,32.9544159760572,30.8,-2.2
+"27","Texas","TX","Representative","33",0,"Marc Veasey","Patrick David Gillespie",1,1,1,0,0,360424,0,0,1,0,0,0,1,49.8862104068178,46.4,-3.4
+"28","Texas","TX","Representative","34",0,"Vicente Gonzalez","Mayra Flores",1,0,1,0,1,1229405,1336762,0,0,0,1,0,0.479082226526956,15.5139418441313,9.5,-6
+"29","Texas","TX","Representative","35",0,"Greg Casar","Dan McQueen",1,1,0,0,0,605257,0,1,1,0,0,0,1,45.1312708234174,45.2,0
+"30","Texas","TX","Representative","36",0,"Jon Haire","Brian Babin",1,1,0,1,1,34127,339382,0,1,0,0,0,0.0913686149463601,-31.5936662990389,-39,-7.4
+"31","Texas","TX","Representative","37",0,"Lloyd Doggett","Jenny Garcia Sharon",1,0,1,0,1,497391,1575,0,0,0,1,0,0.996843472300718,52.6265585078871,55.7,2.9
+"32","Texas","TX","Representative","38",0,"Duncan F. Klussmann","Wesley Hunt",1,1,0,0,0,102728,1876575,1,1,0,0,0,0.0519010985180137,-18.1261100001398,-27.5,-9.3
+"33","Indiana","IN","Senator","0",0,"Thomas M. McDermott Jr.","Todd Young",1,1,0,1,0,605821,2508434,0,1,0,0,0,0.194531597444654,-16.0777908563315,-20.8,-4.7
+"34","Indiana","IN","Representative","1",0,"Frank J. Mrvan","Jennifer-Ruth Green",1,0,1,0,0,891251,1142512,0,0,0,1,0,0.438227561421857,8.35583628806913,5.6,-2.8
+"35","Indiana","IN","Representative","2",0,"Paul D. Steury","Jackie Walorski",1,0,0,1,1,43950,338512,0,0,0,1,0,0.114913377015233,-22.569386470762,-32.2,-9.6
+"36","Indiana","IN","Representative","3",0,"Gary L. Snyder","Jim Banks",1,1,0,1,0,28693,632225,0,1,0,0,0,0.0434138576949031,-29.8978986290114,-35.3,-5.4
+"37","Indiana","IN","Representative","4",0,"Roger D. Day","Jim Baird",1,1,0,1,1,0,73758,0,1,0,0,0,0,-29.1345081741699,-36.4,-7.3
+"38","Indiana","IN","Representative","5",0,"Jeannine Lee Lake","Victoria Spartz",0,0,0,1,0,11735,931596,0,0,0,0,1,0.0124399600988412,-15.9385179042757,-22.2,-6.2
+"39","Indiana","IN","Representative","6",0,"Cynthia ""Cinde"" Wirth","Greg Pence",0,1,0,1,1,11221,604704,0,0,1,0,0,0.0182181272070463,-31.9266757503045,-35,-3.1
+"40","Indiana","IN","Representative","7",0,"André D. Carson","Angela Grabovsky",1,0,1,0,0,180354,117435,0,0,0,1,0,0.605643593282492,42.3678033009255,36.4,-6
+"41","Indiana","IN","Representative","8",0,"Ray McCormick","Larry D. Bucshon",1,1,0,1,0,50339,187782,0,1,0,0,0,0.211400926419761,-32.8325880786384,-34.2,-1.4
+"42","Indiana","IN","Representative","9",0,"Matthew Fyfe","Erin Houchin",1,0,0,0,0,32357,195746,1,0,0,1,0,0.141852584139621,-27.3892973157805,-30,-2.7
+"43","Ohio","OH","Senator","0",0,"Tim Ryan","J.D. Vance",1,1,0,0,1,23660267,5169205,1,1,0,0,0,0.820697201807928,-8.03443360054591,-6.6,1.4
+"44","Ohio","OH","Representative","1",0,"Greg Landsman","Steve Chabot",1,1,0,1,1,1104331,660739,0,1,0,0,0,0.625658472468514,8.45825035216398,5.6,-2.9
+"45","Ohio","OH","Representative","2",0,"Samantha Meadows","Brad Wenstrup",0,1,0,1,0,8152,283382,0,0,1,0,0,0.0279624331981861,-45.3587557774276,-49,-3.7
+"46","Ohio","OH","Representative","3",0,"Joyce Beatty","Lee R. Stahley",0,1,1,0,0,355516,0,0,0,1,0,0,1,43.7639763913547,41,-2.7
+"47","Ohio","OH","Representative","4",0,"Tamie Wilson","Jim Jordan",0,1,0,1,1,30773,3378626,0,0,1,0,0,0.00902593096319909,-35.6810440554467,-38.4,-2.7
+"48","Ohio","OH","Representative","5",0,"Craig Swartz","Bob Latta",1,1,0,1,0,14285,277410,0,1,0,0,0,0.0489723855396904,-26.7954610200856,-33.8,-7
+"49","Ohio","OH","Representative","6",0,"Louis G. Lyras","Bill Johnson",1,1,0,1,1,30881,291917,0,1,0,0,0,0.0956666398180906,-28.7228710340334,-35.4,-6.7
+"50","Ohio","OH","Representative","7",0,"Matthew Diemer","Max Miller",1,1,0,0,1,110217,577939,1,1,0,0,0,0.160162811920553,-9.22706606044397,-10.7,-1.5
+"51","Ohio","OH","Representative","8",0,"Vanessa Enoch","Warren Davidson",0,1,0,1,1,0,276576,0,0,1,0,0,0,-22.0245623751113,-29.2,-7.2
+"52","Ohio","OH","Representative","9",0,"Marcy Kaptur","J.R. Majewski",0,1,1,0,1,911009,317876,0,0,1,0,0,0.741329742001896,-2.91820965902539,13.2,16.1
+"53","Ohio","OH","Representative","10",0,"David Esrati","Mike Turner",1,1,0,1,0,20954,202360,0,1,0,0,0,0.0938320033674557,-3.51999060587031,-23.4,-19.9
+"54","Ohio","OH","Representative","11",0,"Shontel Brown","Eric J. Brewer",0,1,1,0,0,964150,0,0,0,1,0,0,1,57.5981629925588,55.6,-2
+"55","Ohio","OH","Representative","12",0,"Amy Rippel-Elton","Troy Balderson",0,1,0,1,0,0,414477,0,0,1,0,0,0,-30.8570738277114,-38.6,-7.7
+"56","Ohio","OH","Representative","13",0,"Emilia Sykes","Madison Gesiotto Gilbert",0,0,0,0,0,933367,835008,1,0,0,0,1,0.527810560542871,2.8189921936737,5.4,2.6
+"57","Ohio","OH","Representative","14",0,"Matt Kilboy","David P. Joyce",1,1,0,1,0,16646,711210,0,1,0,0,0,0.0228699083335165,-14.9441212232777,-23.4,-8.5
+"58","Ohio","OH","Representative","15",0,"Gary Josephson","Mike Carey",1,1,0,1,0,31001,652689,0,1,0,0,0,0.0453436498998084,-6.75792031801978,-14,-7.2
+"59","West Virginia","WV","Representative","1",0,"Lacy Watson","Carol Miller",1,0,0,1,1,0,274721,0,0,0,1,0,0,-40.9031626997066,-37.9,3
+"60","West Virginia","WV","Representative","2",0,"Barry Lee Wendell","Alexander X. Mooney",1,1,0,1,1,13243,562218,0,1,0,0,0,0.0230128540422374,-37.0134004516559,-31.1,5.9
+"61","Nebraska","NE","Representative","1",0,"Patty Pansing Brooks","Mike Flood",0,1,0,0,0,807855,548069,1,0,1,0,0,0.595796667069836,-11.0615313095919,-15.8,-4.8
+"62","Nebraska","NE","Representative","2",0,"Tony Vargas","Don Bacon",1,1,0,1,0,1763085,1161173,0,1,0,0,0,0.602917047675,6.31667342514217,-2.6,-9
+"63","Nebraska","NE","Representative","3",0,"David J. Else","Adrian Smith",1,1,0,1,0,0,190581,0,1,0,0,0,0,-51.8342475613691,-62.5,-10.7
+"64","Kentucky","KY","Senator","0",0,"Charles Booker","Rand Paul",1,1,0,1,0,1760072,5716148,0,1,0,0,0,0.235422713617309,-25.9512343146786,-23.6,2.3
+"65","Kentucky","KY","Representative","1",0,"Jimmy C. Ausbrooks","James R. Comer",1,1,0,1,0,250,507949,0,1,0,0,0,0.000491933278105624,-42.7744974910068,-49.8,-7.1
+"66","Kentucky","KY","Representative","2",0,"Hank Linderman","S. Brett Guthrie",1,1,0,1,0,25129,180500,0,1,0,0,0,0.122205525485219,-36.5735951160173,-43.8,-7.1
+"67","Kentucky","KY","Representative","3",0,"Morgan McGarvey","Stuart N. Ray",1,1,0,0,0,1438897,196979,1,1,0,0,0,0.879588061686827,22.3482954157273,24,1.7
+"68","Kentucky","KY","Representative","4",0,"Matthew Lehman","Thomas Massie",1,1,0,1,0,74851,272006,0,1,0,0,0,0.215797864826139,-32.7043455320192,-34,-1.4
+"69","Kentucky","KY","Representative","5",0,"Conor Halbleib","Harold ""Hal"" Rogers",1,1,0,1,1,3530,240560,0,1,0,0,0,0.0144618788151911,-59.325543468302,-64.4,-5
+"70","Kentucky","KY","Representative","6",0,"Geoffrey M. ""Geoff"" Young","Andy Barr",1,1,0,1,0,14331,885349,0,1,0,0,0,0.0159289969767028,-10.949757602468,-29.1,-18.1
+"71","Oregon","OR","Senator","0",0,"Ron Wyden","Jo Rae Perkins",1,0,1,0,1,3990987,36430,0,0,0,1,0,0.990954500117569,16.1054175235141,14.9,-1.2
+"72","Oregon","OR","Representative","1",0,"Suzanne Bonamici","Christopher A. Mann",0,1,1,0,1,214741,0,0,0,1,0,0,1,38.9844050243735,36,-3.3
+"73","Oregon","OR","Representative","2",0,"Joe Yetter","Cliff S. Bentz",1,1,0,1,0,25396,395700,0,1,0,0,0,0.0603092881433212,-24.3168230599926,-35.1,-10.6
+"74","Oregon","OR","Representative","3",0,"Earl Blumenauer","Joanna Harbour",1,0,1,0,0,324443,5400,0,0,0,1,0,0.983628574806802,46.9748735469441,43.6,-3.7
+"75","Oregon","OR","Representative","4",0,"Val Hoyle","Alek Skarlatos",0,1,0,0,0,957268,1645573,1,0,1,0,0,0.367778131664593,12.6339206307823,7.4,-5.4
+"76","Oregon","OR","Representative","5",0,"Jamie McLeod-Skinner","Lori Chavez-DeRemer",0,0,0,0,0,1601757,1039006,1,0,0,0,1,0.606550833982451,8.7761648325919,-2.1,-10.9
+"77","Oregon","OR","Representative","6",0,"Andrea Salinas","Mike Erickson",0,1,0,0,0,1564639,509850,1,0,1,0,0,0.754228631725692,13.0697218066307,2.5,-10.6
+"78","Idaho","ID","Senator","0",0,"David Roth","Mike Crapo",1,1,0,1,0,33508,802478,0,1,0,0,0,0.040082010942767,-30.7971695448188,-32,-1.2
+"79","Idaho","ID","Representative","1",0,"Kaylee Peterson","Russ Fulcher",0,1,0,1,1,29125,116160,0,0,1,0,0,0.200468045565612,-38.1614428922187,-45,-6.8
+"80","Idaho","ID","Representative","2",0,"Wendy Norman","Mike Simpson",0,1,0,1,0,4470,244800,0,0,1,0,0,0.0179323624984956,-22.9429565383149,-27.2,-4.3
+"81","North Carolina","NC","Senator","0",0,"Cheri Beasley","Ted Budd",0,1,0,0,0,16696598,5508299,1,0,1,0,0,0.751933143396252,-1.35092964768635,-3.2,-1.9
+"82","North Carolina","NC","Representative","1",0,"Don Davis","Sandy Smith",1,0,0,0,1,628318,137822,1,0,0,1,0,0.820108596340094,7.28975488396754,4.8,-2.5
+"83","North Carolina","NC","Representative","2",0,"Deborah K. Ross","",0,-1,1,-1,0,741411,-1,0,0,0,0,0,1.00000134878138,28.6523107630892,29.4,0.6
+"84","North Carolina","NC","Representative","3",0,"Barbara D. Gaskins","Greg Murphy",0,1,0,1,1,8750,824808,0,0,1,0,0,0.010497169962978,-25.3179788740063,-33.8,-8.5
+"85","North Carolina","NC","Representative","4",0,"Valerie P. Foushee","Courtney Geels",0,0,0,0,0,232016,197795,1,0,0,0,1,0.539809358066685,34.9898362186287,33.8,-1.2
+"86","North Carolina","NC","Representative","5",0,"Kyle Parrish","Virginia Foxx",1,0,0,1,1,4150,569818,0,0,0,1,0,0.00723036824352577,-21.2545019194997,-26.4,-5.1
+"87","North Carolina","NC","Representative","6",0,"Kathy Manning","Christian Castelli",0,1,1,0,0,1300759,365082,0,0,1,0,0,0.780842229240366,12.3784428452019,8.9,-3.5
+"88","North Carolina","NC","Representative","7",0,"Charles Graham","David Rouzer",1,1,0,1,1,74134,302483,0,1,0,0,0,0.196841884460871,-12.7193411930594,-15.4,-2.7
+"89","North Carolina","NC","Representative","8",0,"Scott Huffman","Dan Bishop",1,1,0,1,1,17740,626825,0,1,0,0,0,0.0275224376129638,-34.0090702371727,-39.8,-5.7
+"90","North Carolina","NC","Representative","9",0,"Ben Clark","Richard Hudson",1,1,0,1,1,72283,1047547,0,1,0,0,0,0.064548190350321,-7.96482017455297,-13,-5
+"91","North Carolina","NC","Representative","10",0,"Pam Genant","Patrick McHenry",0,1,0,1,0,55637,721428,0,0,1,0,0,0.0715989009928384,-39.4688946675494,-45.3,-5.8
+"92","North Carolina","NC","Representative","11",0,"Jasmine Beach-Ferrara","Chuck Edwards",0,1,0,0,0,585572,315034,1,0,1,0,0,0.650197755733362,-10.1349644794063,-9.3,0.8
+"93","North Carolina","NC","Representative","12",0,"Alma S. Adams","Tyler Lee",0,1,1,0,0,156005,118831,0,0,1,0,0,0.5676294226375,30.1033937145351,25.4,-4.8
+"94","North Carolina","NC","Representative","13",0,"Wiley Nickel","Bo Hines",1,1,0,0,1,1391612,784226,1,1,0,0,0,0.639575188961678,1.69401399665834,3.2,1.5
+"95","North Carolina","NC","Representative","14",0,"Jeff Jackson","Pat Harrigan",1,1,0,0,0,1893411,399904,1,1,0,0,0,0.825621861802674,16.3618913427472,15.4,-1
+"96","Pennsylvania","PA","Senator","0",0,"John Fetterman","Mehmet Oz",1,1,0,0,0,24432727,10700416,1,1,0,0,0,0.695432429714586,1.1857308730739,4.9,3.7
+"97","Pennsylvania","PA","Representative","1",0,"Ashley Ehasz","Brian Fitzpatrick",0,1,0,1,0,517272,845800,0,0,1,0,0,0.379489858202648,4.63989053341369,-9.8,-14.4
+"98","Pennsylvania","PA","Representative","2",0,"Brendan F. Boyle","Aaron Bashir",1,1,1,0,1,273882,0,0,1,0,0,0,1,42.7384507796786,51.4,8.7
+"99","Pennsylvania","PA","Representative","4",0,"Madeleine Dean","Christian Nascimento",0,1,1,0,0,480514,137960,0,0,1,0,0,0.776934842855156,18.9295384945417,22.6,3.7
+"100","Pennsylvania","PA","Representative","5",0,"Mary Gay Scanlon","David Galluch",0,1,1,0,0,442265,413742,0,0,1,0,0,0.516660494598759,32.2771692963692,30.2,-2.1
+"101","Pennsylvania","PA","Representative","6",0,"Chrissy Houlahan","Guy Ciarrocchi",0,1,1,0,0,1279119,363263,0,0,1,0,0,0.778819422034581,14.714202271707,16.6,1.8
+"102","Pennsylvania","PA","Representative","7",0,"Susan Wild","Lisa Scheller",0,0,1,0,0,2598285,1387912,0,0,0,0,1,0.65182051965821,0.621218273855617,2,1.4
+"103","Pennsylvania","PA","Representative","8",0,"Matt Cartwright","Jim Bognet",1,1,1,0,1,1709895,1292810,0,1,0,0,0,0.569451544524021,-2.90816125860374,2.4,5.3
+"104","Pennsylvania","PA","Representative","9",0,"Amanda R. Waldman","Dan Meuser",0,1,0,1,1,8950,496252,0,0,1,0,0,0.0177156860028266,-36.5258657678569,-38.6,-2.1
+"105","Pennsylvania","PA","Representative","10",0,"Shamaine Daniels","Scott Perry",0,1,0,1,1,190716,1132226,0,0,1,0,0,0.144160514973446,-4.13271333039683,-7.6,-3.5
+"106","Pennsylvania","PA","Representative","11",0,"Bob Hollister","Lloyd K. Smucker",1,1,0,1,1,127984,149243,0,1,0,0,0,0.461657775036342,-21.2548863544773,-23,-1.7
+"107","Pennsylvania","PA","Representative","12",0,"Summer Lee","Mike Doyle",0,1,0,0,0,491262,81252,1,0,1,0,0,0.858078579737788,19.9502372922384,12.4,-7.5
+"108","Pennsylvania","PA","Representative","16",0,"Dan Pastore","Mike Kelly",1,1,0,1,1,169323,245285,0,1,0,0,0,0.408392988075483,-20.6383669294359,-18.8,1.9
+"109","Pennsylvania","PA","Representative","17",0,"Chris Deluzio","Jeremy Shaffer",1,1,0,0,0,1657255,806642,1,1,0,0,0,0.672615373126393,5.8333259991375,6.8,1
+"110","Virginia","VA","Representative","9",0,"Taysha DeVaughan","H. Morgan Griffith",0,1,0,1,0,19072,132789,0,0,1,0,0,0.125588531617729,-41.8947572999385,-46.7,-4.9
+"111","Alabama","AL","Senator","0",0,"Will Boyd","Katie Britt",1,0,0,0,1,50840,4385345,1,0,0,1,0,0.0114602975304231,-25.4616529547425,-35.9,-10.4
+"112","Alabama","AL","Representative","2",0,"Phyllis Harvey-Hall","Barry Moore",0,1,0,1,1,14222,245611,0,0,1,0,0,0.0547351568122602,-29.3705922901532,-39.9,-10.5
+"113","Alabama","AL","Representative","3",0,"Lin Veasey","Mike Rogers",0,1,0,1,1,1300,1121560,0,0,1,0,0,0.00115775786830059,-34.0260124801945,-46.1,-12
+"114","Alabama","AL","Representative","4",0,"Rick Neighbors","Robert Aderholt",1,1,0,1,1,9010,384813,0,1,0,0,0,0.022878298118698,-61.6634398637096,-70.5,-8.7
+"115","Alabama","AL","Representative","5",0,"Kathy Warner-Stanton","Dale Strong",0,1,0,0,1,6035,421609,1,0,1,0,0,0.0141122054793239,-26.9899277753421,-37.6,-10.5
+"116","Alabama","AL","Representative","7",0,"Terrycina Sewell","Beatrice Nichols",0,0,1,0,0,267118,17190,0,0,0,0,1,0.939537403098049,32.0516896663467,28.7,-3.3
+"117","Arkansas","AR","Senator","0",0,"Natalie James","John Boozman",0,1,0,1,0,15310,1765129,0,0,1,0,0,0.00859900283020087,-27.6206679031294,-34.6,-7
+"118","Arkansas","AR","Representative","1",0,"Monte Hodges","Rick Crawford",1,1,0,1,1,12950,181752,0,1,0,0,0,0.0665119002372857,-40.9063014310023,-47.6,-6.7
+"119","Arkansas","AR","Representative","2",0,"Quintessa Hathaway","French Hill",0,1,0,1,0,0,779352,0,0,1,0,0,0,-13.1245101954414,-24.7,-11.6
+"120","Arkansas","AR","Representative","3",0,"Lauren Mallett-Hays","Steve Womack",0,1,0,1,0,12794,463416,0,0,1,0,0,0.0268662984817622,-23.4169458561181,-30.8,-7.4
+"121","Arkansas","AR","Representative","4",0,"John White","Bruce Westerman",1,1,0,1,0,0,516154,0,1,0,0,0,0,-35.246619971769,-44.8,-9.6
+"122","Georgia","GA","Senator","0",0,"Raphael Warnock","Herschel Junior Walker",1,1,1,0,0,80055872,29770040,0,1,0,0,0,0.72893427918905,0.253476955603721,2.8,2.6
+"123","Georgia","GA","Representative","1",0,"Wade Herring","Earl L. ""Buddy"" Carter",1,1,0,1,0,687270,469286,0,1,0,0,0,0.594238411283154,-13.3842381993265,-18.2,-4.8
+"124","Georgia","GA","Representative","2",0,"Sanford Bishop","Chris West",1,1,1,0,0,703166,442341,0,1,0,0,0,0.613846969071337,10.374593500414,10,-0.3
+"125","Georgia","GA","Representative","3",0,"Val Almonord","Drew Ferguson",1,1,0,1,0,145,343300,0,1,0,0,0,0.000422192781959266,-30.1137145632026,-37.4,-7.4
+"126","Georgia","GA","Representative","4",0,"Henry C. ""Hank"" Johnson Jr.","Jonathan Chavez",1,1,1,0,0,38266,0,0,1,0,0,0,1,57.7066503548109,57,-0.7
+"127","Georgia","GA","Representative","5",0,"Nikema Williams","Christian Zimm",0,1,1,0,0,159326,11224,0,0,1,0,0,0.934189387276459,66.5250768070946,65,-1.4
+"128","Georgia","GA","Representative","6",0,"Bob Christian","Rich McCormick",1,1,0,0,1,23798,1436691,1,1,0,0,0,0.0162945424443457,-14.7609127650792,-24.4,-9.5
+"129","Georgia","GA","Representative","7",0,"Lucy McBath","Mark Gonsalves",0,1,1,0,1,1750241,216632,0,0,1,0,0,0.889859690991742,25.8119500904381,22.1,-3.7
+"130","Georgia","GA","Representative","8",0,"Darrius Butler","Austin Scott",1,1,0,1,0,240,186600,0,1,0,0,0,0.00128452151573539,-27.627747610313,-37.2,-9.6
+"131","Georgia","GA","Representative","9",0,"Michael ""Mike"" Ford","Andrew Clyde",1,1,0,1,1,5075,223986,0,1,0,0,0,0.0221556703236256,-37.8859079401797,-44.8,-6.9
+"132","Georgia","GA","Representative","10",0,"Tabitha Johnson-Green","Mike Collins",0,1,0,0,1,1959,601694,1,0,1,0,0,0.00324524188565285,-23.4209697441313,-29,-5.6
+"133","Georgia","GA","Representative","11",0,"Antonio Daza","Barry Loudermilk",1,1,0,1,1,12890,200847,0,1,0,0,0,0.0603077614077113,-15.2902659857765,-25.2,-9.9
+"134","Georgia","GA","Representative","12",0,"Elizabeth ""Liz"" Johnson","Rick W. Allen",0,1,0,1,1,68093,315204,0,0,1,0,0,0.177650751245118,-10.144791495553,-19.2,-9
+"135","Georgia","GA","Representative","13",0,"David Scott","Caesar Gonzales",1,1,1,0,1,155250,4265,0,1,0,0,0,0.973262702567157,60.3535426979298,63.6,3.2
+"136","Georgia","GA","Representative","14",0,"Marcus Flowers","Marjorie Taylor Greene",1,0,0,1,1,2525753,1681836,0,0,0,1,0,0.600285103892039,-37.4296941438667,-31.8,5.6
+"137","New Mexico","NM","Representative","1",0,"Melanie Ann Stansbury","Michelle Garcia Holmes",0,0,1,0,0,558403,116185,0,0,0,0,1,0.827768949343896,14.4620585376992,11.5,-2.9
+"138","New Mexico","NM","Representative","2",0,"Gabriel Vasquez","Yvette Herrell",1,0,0,1,1,1671086,1444573,0,0,0,1,0,0.536350736714127,5.88275263296969,0.7,-5.1
+"139","New Mexico","NM","Representative","3",0,"Teresa Leger Fernandez","Alexis Martinez Johnson",0,0,1,0,0,1264675,147631,0,0,0,0,1,0.8954681209313,10.7356235997013,16.4,5.6
+"140","Mississippi","MS","Representative","1",0,"Dianne Black","Trent Kelly",0,1,0,1,1,8869,272560,0,0,1,0,0,0.031514165206855,-31.6893896263446,-46,-14.3
+"141","Mississippi","MS","Representative","2",0,"Bennie G. Thompson","Brian Flowers",1,1,1,0,1,312561,6605,0,1,0,0,0,0.979305439802485,26.0817909892503,20.2,-5.9
+"142","Mississippi","MS","Representative","3",0,"Shuwaski A. Young","Michael Guest",1,1,0,1,0,28300,225144,0,1,0,0,0,0.111661747762819,-24.3268235696541,-41.4,-17.1
+"143","Mississippi","MS","Representative","4",0,"Johnny L. DuPree ","Mike Ezell",1,1,0,0,0,41179,386710,1,1,0,0,0,0.0962375756329328,-37.9864588546034,-48.7,-10.8
+"144","Montana","MT","Representative","1",0,"Monica Tranel","Ryan K. Zinke",0,1,0,0,0,1682723,2084495,1,0,1,0,0,0.446675238863267,-6.87589032182666,-3.1,3.8
+"145","Montana","MT","Representative","2",0,"Penny Ronning","Matt Rosendale",0,1,0,1,1,77781,548188,0,0,1,0,0,0.124256952021586,-26.8418100550096,-34.6,-7.7
+"146","Iowa","IA","Senator","0",0,"Michael Franken","Chuck Grassley",1,1,0,1,0,3585971,2219256,0,1,0,0,0,0.617714173795443,-8.19760939776009,-12.2,-4
+"147","Iowa","IA","Representative","1",0,"Christina Bohannan","Mariannette Miller-Meeks",0,0,0,1,0,1597437,1258226,0,0,0,0,1,0.559392687442461,-2.88325413845787,-6.9,-4
+"148","Iowa","IA","Representative","2",0,"Liz Mathis","Ashley Hinson",0,0,0,1,0,2112398,1934604,0,0,0,0,1,0.52196613690826,-4.38883019006908,-8.3,-3.9
+"149","Iowa","IA","Representative","3",0,"Cindy Axne","Zach Nunn",0,1,1,0,0,2347124,1060922,0,0,1,0,0,0.688700798052608,-0.344731800084042,-0.6,-0.2
+"150","Iowa","IA","Representative","4",0,"Ryan Melton","Randy Feenstra",1,1,0,1,0,12602,571776,0,1,0,0,0,0.021564809079055,-25.970603764781,-36.9,-10.9
+"151","New Jersey","NJ","Representative","1",0,"Donald W. Norcross","Claire Gustafson",1,0,1,0,0,551412,0,0,0,0,1,0,1,24.4445217581467,27.2,2.8
+"152","New Jersey","NJ","Representative","2",0,"Tim Alexander","Jeff Van Drew",1,1,0,1,0,177726,881302,0,1,0,0,0,0.167819925441065,-5.02282659828843,-18.8,-13.9
+"153","New Jersey","NJ","Representative","3",0,"Andy Kim","Bob Healey",1,1,1,0,0,2654127,1062109,0,1,0,0,0,0.714197645144173,14.1135101144817,11.8,-2.2
+"154","New Jersey","NJ","Representative","4",0,"Matthew Jenkins","Christopher H. Smith",1,1,0,1,0,19345,494160,0,1,0,0,0,0.0376724666751054,-22.4750041970565,-35.6,-13.1
+"155","New Jersey","NJ","Representative","5",0,"Josh Gottheimer","Frank T. Pallotta",1,1,1,0,0,2865226,387936,0,1,0,0,0,0.880751096932769,12.3985553824029,10.4,-2
+"156","New Jersey","NJ","Representative","6",0,"Frank Pallone Jr.","Susan M. Kiley",1,0,1,0,0,570242,116861,0,0,0,1,0,0.829922151409614,19.6881219975756,16.4,-2.9
+"157","New Jersey","NJ","Representative","7",0,"Tom Malinowski","Thomas H. Kean Jr.",1,1,1,0,0,3893808,1938823,0,1,0,0,0,0.667590320731759,3.65911196142426,-2.8,-6.6
+"158","New Jersey","NJ","Representative","8",0,"Robert J. Menendez","Marcos Arroyo",1,1,0,0,0,216376,0,1,1,0,0,0,1,44.7512199190891,50.1,4.8
+"159","New Jersey","NJ","Representative","9",0,"Bill Pascrell Jr.","Billy Prempeh",1,1,1,0,0,336864,93806,0,1,0,0,0,0.782185896393991,19.0181244424408,11.3,-7.6
+"160","New Jersey","NJ","Representative","10",0,"Donald M. Payne Jr.","David H. Pinckney",1,1,1,0,0,140550,0,0,1,0,0,0,1,62.5163387510693,57.6,-4.4
+"161","New Jersey","NJ","Representative","11",0,"Mikie Sherrill","Paul DeGroot",0,1,1,0,0,2038658,180824,0,0,1,0,0,0.918528737786565,16.82204281883,18.7,1.8
+"162","New Jersey","NJ","Representative","12",0,"Bonnie Watson Coleman","Darius Mayfield",0,1,1,0,1,159726,76230,0,0,1,0,0,0.676931292274831,34.342166853714,27.1,-7.4
+"163","California","CA","Senator","0",0,"Alex Padilla","Mark P. Meuser",1,1,1,0,0,3621648,327477,0,1,0,0,0,0.917076061152787,29.1709864400076,22.2,-7
+"164","California","CA","Representative","1",0,"Max Steiner","Doug LaMalfa",1,1,0,1,1,249012,318169,0,1,0,0,0,0.439034452846622,-18.9955636870435,-24.2,-5.1
+"165","California","CA","Representative","2",0,"Jared Huffman","Douglas Brower",1,1,1,0,0,171837,5907,0,1,0,0,0,0.966766810694032,49.4775730592526,48.8,-0.7
+"166","California","CA","Representative","4",0,"Mike Thompson","Matt Brock",1,1,1,0,0,408241,2250,0,1,0,0,0,0.994518759241981,36.564063018775,35.6,-1
+"167","California","CA","Representative","5",0,"Michael J. ""Mike"" Barkley","Tom McClintock",1,1,0,1,0,13361,481954,0,1,0,0,0,0.0269747534397303,-12.3344193263517,-22.6,-10.3
+"168","California","CA","Representative","6",0,"Ami Bera","Tamika Hamilton",1,0,1,0,0,260624,344055,0,0,0,1,0,0.431012156863394,18.4236583272823,11.8,-6.7
+"169","California","CA","Representative","7",0,"Doris Matsui","Max Semenenko",0,1,1,0,0,161389,4152,0,0,1,0,0,0.974918600225926,37.171418975057,36.6,-0.5
+"170","California","CA","Representative","8",0,"John Garamendi","Rudy Recile",1,1,1,0,0,263846,6275,0,1,0,0,0,0.97676966988868,54.0001680415996,51.4,-2.6
+"171","California","CA","Representative","9",0,"Josh Harder","Tom Patti",1,1,1,0,0,2489866,648925,0,1,0,0,0,0.793256384384943,12.6099675921871,9.6,-3
+"172","California","CA","Representative","11",0,"Nancy Pelosi","John Dennis",0,1,1,0,1,19603272,164074,0,0,1,0,0,0.991699745631002,74.5543674278022,68,-6.6
+"173","California","CA","Representative","12",0,"Barbara Lee","Stephen Slauson",0,1,1,0,0,661783,0,0,0,1,0,0,1,80.7079189086363,81,0.3
+"174","California","CA","Representative","13",0,"Adam Gray","John Duarte",1,1,0,0,0,844194,1046842,1,1,0,0,0,0.446418788431315,10.8352603909545,-0.4,-11.3
+"175","California","CA","Representative","14",0,"Eric Swalwell","Alison Hayden",1,0,1,0,1,1319847,0,0,0,0,1,0,1,45.4590576655125,38.6,-6.9
+"176","California","CA","Representative","17",0,"Ro Khanna","Ritesh Tandon",1,1,1,0,0,2279806,55636,0,1,0,0,0,0.976177528707628,47.4187500828067,41.8,-5.6
+"177","California","CA","Representative","18",0,"Zoe Lofgren","Peter Hernandez",0,1,1,0,0,388838,118242,0,0,1,0,0,0.766817859114933,44.0465315709998,31.8,-12.3
+"178","California","CA","Representative","19",0,"Jimmy Panetta","Jeff Gorman",1,1,1,0,0,618300,19960,0,1,0,0,0,0.968727477830351,39.5917288602451,37.4,-2.2
+"179","California","CA","Representative","20",0,"Marisa Wood","Kevin McCarthy",0,1,0,1,1,243431,13141083,0,0,1,0,0,0.0181875113283904,-24.8925822343468,-34.4,-9.5
+"180","California","CA","Representative","21",0,"Jim Costa","Michael Maher",1,1,1,0,0,640914,153670,0,1,0,0,0,0.806603203688974,20.2727601315314,8.4,-11.9
+"181","California","CA","Representative","22",0,"Rudy Salas","David G. Valadao",1,1,0,1,0,1387080,864874,0,1,0,0,0,0.615945085912057,12.8927744375279,-3,-16
+"182","California","CA","Representative","23",0,"Derek Marshall","Jay Obernolte",1,1,0,1,0,392111,321552,0,1,0,0,0,0.549434396907224,-9.82664383400971,-22,-12.2
+"183","California","CA","Representative","24",0,"Salud Carbajal","Brad Allen",1,1,1,0,0,527642,8000,0,1,0,0,0,0.985064651390294,29.0617740357613,21.2,-7.8
+"184","California","CA","Representative","25",0,"Raul Ruiz","Brian E. Hawkins",1,1,1,0,0,611926,133261,0,1,0,0,0,0.821171061760337,15.3077650979638,14.8,-0.5
+"185","California","CA","Representative","26",0,"Julia Brownley","Matt Jacobs",0,1,1,0,0,718759,1081197,0,0,1,0,0,0.399320316718853,19.9763206021333,9,-10.9
+"186","California","CA","Representative","27",0,"Christy Smith","Mike Garcia",0,1,0,1,1,1856835,2310513,0,0,1,0,0,0.445567540795729,12.3629375525473,-6.4,-18.8
+"187","California","CA","Representative","28",0,"Judy Chu","Wes Hallman",0,1,1,0,0,730592,46372,0,0,1,0,0,0.940316411056368,33.8773106883177,32.4,-1.8
+"188","California","CA","Representative","31",0,"Grace F. Napolitano","Daniel Bocic Martinez",0,1,1,0,0,29750,0,0,0,1,0,0,1,31.0342244944479,19,-12.1
+"189","California","CA","Representative","32",0,"Brad Sherman","Lucie Lapointe Volotzky",1,0,1,0,0,552160,26370,0,0,0,1,0,0.954418958394552,40.7320128556613,38.4,-2.4
+"190","California","CA","Representative","33",0,"Pete Aguilar","John Mark Porter",1,1,1,0,0,665094,3432,0,1,0,0,0,0.994866317839545,25.3418747166279,15.4,-9.9
+"191","California","CA","Representative","35",0,"Norma J. Torres","Mike Cargile",0,1,1,0,1,136362,21215,0,0,1,0,0,0.865367407680055,27.9628229156391,14.8,-12.8
+"192","California","CA","Representative","36",0,"Ted W. Lieu","Joe E. Collins III",1,1,1,0,1,387133,298703,0,1,0,0,0,0.564468765127523,44.1225622779175,39.6,-4.5
+"193","California","CA","Representative","38",0,"Linda T. Sánchez","Eric J. Ching",0,1,1,0,1,239147,122294,0,0,1,0,0,0.66164878915231,30.1946174902072,16.2,-14
+"194","California","CA","Representative","39",0,"Mark Takano","Aja Smith",1,0,1,0,1,337624,9671,0,0,0,1,0,0.972153356656445,26.1300806303487,15.4,-10.8
+"195","California","CA","Representative","40",0,"Asif Mahmood","Young Kim",1,0,0,1,0,883594,4022321,0,0,0,1,0,0.180107890169316,1.86956603649174,-13.6,-15.5
+"196","California","CA","Representative","41",0,"Will Rollins","Ken Calvert",1,1,0,1,1,1878764,1100552,0,1,0,0,0,0.630602460430515,-1.09314686225861,-4.6,-3.5
+"197","California","CA","Representative","42",0,"Robert Garcia","John Briscoe",1,1,0,0,1,121800,14675,1,1,0,0,0,0.892471148562008,45.8255311798238,36.8,-9
+"198","California","CA","Representative","43",0,"Maxine Waters","Omar Navarro",0,1,1,0,1,296799,3745,0,0,1,0,0,0.98753926213799,63.7825438103963,54.6,-9.2
+"199","California","CA","Representative","44",0,"Nanette Diaz Barragan","Paul Jones",0,1,1,0,0,157761,0,0,0,1,0,0,1,48.2063959245273,44.4,-3.8
+"200","California","CA","Representative","45",0,"Jay F. Chen","Michelle Steel",1,0,0,1,0,1922437,1475746,0,0,0,1,0,0.565724977142196,6.18405725678188,-4.8,-10.9
+"201","California","CA","Representative","46",0,"Lou Correa","Christopher J. Gonzales",1,1,1,0,0,209826,31188,0,1,0,0,0,0.870596728820732,30.4064713584804,23.6,-6.8
+"202","California","CA","Representative","47",0,"Katie Porter","Scott Baugh",0,1,1,0,0,6542705,1394403,0,0,1,0,0,0.82431850492648,11.0789357222707,3.4,-7.7
+"203","California","CA","Representative","48",0,"Stephen Houlahan","Darrell Issa",1,1,0,1,1,28817,385446,0,1,0,0,0,0.0695620897835433,-12.3301787645785,-20.8,-8.5
+"204","California","CA","Representative","49",0,"Mike Levin","Brian Maryott",1,1,1,0,0,1926825,2338087,0,1,0,0,0,0.451785406123268,11.4093843827174,5.2,-6.2
+"205","California","CA","Representative","50",0,"Scott Peters","Corey Gustafson",1,1,1,0,0,315804,28307,0,1,0,0,0,0.917738752902406,33.0987873792097,25.6,-7.6
+"206","California","CA","Representative","51",0,"Sara Jacobs","Stan Caplan",0,1,1,0,0,559148,56008,0,0,1,0,0,0.908953176104923,27.2918893323412,23.8,-3.5
+"207","California","CA","Representative","52",0,"Juan Vargas","Tyler Geffeney",1,1,1,0,0,1e+05,9180,0,1,0,0,0,0.915918666422422,36.8623335738178,33.4,-3.5
+"208","Virginia","VA","Representative","6",0,"Jennifer Lewis","Ben L. Cline",0,1,0,1,1,76099,259475,0,0,1,0,0,0.226772634351887,-22.0985320953737,-29,-7.4
+"209","Maine","ME","Representative","1",0,"Chellie Pingree","Edwin Thelander",0,1,1,0,0,128776,186803,0,0,1,0,0,0.408062640416504,22.8053534937894,25.8,3
+"210","Maine","ME","Representative","2",0,"Jared Golden","Bruce Poliquin",1,1,1,0,0,2326312,1605982,0,1,0,0,0,0.591591574790695,-6.11325214531628,6.2,12.3
+"211","Nevada","NV","Senator","0",0,"Catherine Cortez Masto","Adam Paul Laxalt",0,1,1,0,1,24485386,8963232,0,0,1,0,0,0.732029825567083,2.39053463272462,0.9,-1.5
+"212","Nevada","NV","Representative","1",0,"Dina Titus","Mark Robertson",0,1,1,0,0,1046478,458547,0,0,1,0,0,0.695322669058653,8.52569518535192,5.7,-2.8
+"213","Nevada","NV","Representative","2",0,"Elizabeth Mercedes Krause","Mark E. Amodei",0,1,0,1,0,26445,417975,0,0,1,0,0,0.0595045227487512,-11.0173244173781,-21.9,-10.9
+"214","Nevada","NV","Representative","3",0,"Susie Lee","April Becker",0,0,1,0,1,2205729,956908,0,0,0,0,1,0.697433502485426,6.64086708625414,4,-2.7
+"215","Nevada","NV","Representative","4",0,"Steven A. Horsford","Sam Peters",1,1,1,0,1,1308364,862109,0,1,0,0,0,0.602801324872505,8.26596380872223,4.8,-3.4
+"216","South Carolina","SC","Senator","0",0,"Krystle Matthews","Tim Scott",0,1,0,1,0,34487,13469068,0,0,1,0,0,0.00255392006031004,-11.6802058146785,-25.8,-14.1
+"217","South Carolina","SC","Representative","1",0,"Annie Andrews","Nancy Mace",0,0,0,1,0,1096443,993918,0,0,0,0,1,0.524523276123119,-8.63706620158115,-14,-5.4
+"218","South Carolina","SC","Representative","2",0,"Judd Larkins","Joe Wilson",1,1,0,1,1,40349,258040,0,1,0,0,0,0.135222813173408,-10.5903668372971,-20.2,-9.6
+"219","South Carolina","SC","Representative","5",0,"Evangeline Hundley","Ralph Norman",0,1,0,1,1,0,287952,0,0,1,0,0,0,-18.171669357266,-29.5,-11.3
+"220","South Carolina","SC","Representative","6",0,"James E. ""Jim"" Clyburn","Duke Buckner",1,1,1,0,0,880305,73891,0,1,0,0,0,0.922562031280785,32.114444721915,24.1,-8
+"221","South Carolina","SC","Representative","7",0,"Daryl W. Scott","Russell Fry",1,1,0,0,1,0,696237,1,1,0,0,0,0,-18.6578788713721,-29.7,-11.1
+"222","North Dakota","ND","Senator","0",0,"Katrina Christiansen","John Hoeven",0,1,0,1,0,42645,661990,0,0,1,0,0,0.0605206951116536,-33.3428170508033,-31.5,1.9
+"223","North Dakota","ND","Representative","0",0,"Mark Haugen","Kelly Armstrong",1,1,0,1,0,2050,513886,0,1,0,0,0,0.00397336103702785,-33.3428170508033,-24.6,9
+"224","Virginia","VA","Representative","1",0,"Herbert C. ""Herb"" Jones Jr.","Rob J. Wittman",1,1,0,1,0,143691,590381,0,1,0,0,0,0.195745104022494,-6.66169336563087,-13.1,-7
+"225","Virginia","VA","Representative","2",0,"Elaine G. Luria","Jen A. Kiggans",0,0,1,0,0,4107428,1390301,0,0,0,0,1,0.747113580898586,2.04705783377583,-3.4,-5.3
+"226","Virginia","VA","Representative","3",0,"Robert C. ""Bobby"" Scott","Terry T. Namkung",1,1,1,0,0,89455,48577,0,1,0,0,0,0.648074359568796,38.06124648921,34.6,-3.7
+"227","Virginia","VA","Representative","4",0,"A. Donald McEachin","Leon Benjamin Sr.",1,1,1,0,1,165865,125858,0,1,0,0,0,0.568570184730035,35.7154629242257,30,-5.7
+"228","Virginia","VA","Representative","5",0,"Joshua M. Throneburg","Bob Good",1,1,0,1,1,531670,362987,0,1,0,0,0,0.59427244184084,-8.24054782311066,-15.4,-7.2
+"229","Virginia","VA","Representative","7",0,"Abigail A. Spanberger","Yesli I. Vega",0,0,1,0,0,3125584,1312497,0,0,0,0,1,0.704264748660513,6.72956264757251,4.6,-2.2
+"230","Virginia","VA","Representative","8",0,"Donald S. Beyer Jr.","Karina Lipsman",1,0,1,0,0,478131,113053,0,0,0,1,0,0.808768505236948,55.6157672786041,48.7,-7.4
+"231","Virginia","VA","Representative","10",0,"Jennifer T. Wexton","Hung Cao",0,1,1,0,0,1145553,1556642,0,0,1,0,0,0.42393424604812,17.9974808032362,6.4,-11.7
+"232","Virginia","VA","Representative","11",0,"Gerald E. ""Gerry"" Connolly","Jim Myles",1,1,1,0,0,252768,131054,0,1,0,0,0,0.658555267806431,40.9981840986952,33.7,-7.6
+"233","Colorado","CO","Senator","0",0,"Michael Bennet","Joe O'Dea",1,1,1,0,0,7135063,3582373,0,1,0,0,0,0.665743467000876,13.5016180633593,14.6,1.1
+"234","Colorado","CO","Representative","1",0,"Diana DeGette","Jennifer Qualteri",0,0,1,0,1,179366,0,0,0,0,0,1,1,61.2940409585004,62.8,1.5
+"235","Colorado","CO","Representative","2",0,"Joe Neguse","Marshall Dawson",1,1,1,0,0,543553,15947,0,1,0,0,0,0.971497765862377,39.8927597113658,42,2.1
+"236","Colorado","CO","Representative","3",0,"Adam Frisch","Lauren Boebert",1,0,0,1,1,2010452,1706512,0,0,0,1,0,0.540885518396196,-8.25348373931463,-0.2,8
+"237","Colorado","CO","Representative","4",0,"Ike McCorkle","Ken Buck",1,1,0,1,0,66880,370020,0,1,0,0,0,0.153078507667659,-18.550336602497,-24.3,-5.8
+"238","Colorado","CO","Representative","5",0,"David Torres","Doug Lamborn",1,1,0,1,1,10250,119177,0,1,0,0,0,0.0791952220170444,-10.1070581241532,-15.7,-5.6
+"239","Colorado","CO","Representative","6",0,"Jason Crow","Steven Monahan",1,1,1,0,0,782657,159464,0,1,0,0,0,0.83073936362739,23.7896722520264,23.2,-0.6
+"240","Colorado","CO","Representative","7",0,"Brittany Pettersen","Erik Aadland",0,1,0,0,0,1072791,739604,1,0,1,0,0,0.591918980134022,14.1729526857918,15,0.8
+"241","Colorado","CO","Representative","8",0,"Yadira Caraveo","Barbara Kirkmeyer",0,0,0,0,0,1583412,633030,1,0,0,0,1,0.714393609216934,4.54598605012833,0.7,-3.8
+"242","Illinois","IL","Senator","0",0,"Tammy Duckworth","Kathy Salvi",0,0,1,0,0,3133212,371613,0,0,0,0,1,0.893971025657486,16.9890533390747,14.5,-2.5
+"243","Illinois","IL","Representative","1",0,"Jonathan L. Jackson","Eric Carlson",1,1,0,0,0,121304,2744,1,1,0,0,0,0.977879530504321,42.3704240666908,34.1,-8.3
+"244","Illinois","IL","Representative","2",0,"Robin Kelly","Thomas Lynch",0,1,1,0,0,262255,0,0,0,1,0,0,1,40.0008367375602,34.2,-5.8
+"245","Illinois","IL","Representative","3",0,"Delia Ramirez","Justin Burau",0,1,0,0,0,152507,9360,1,0,1,0,0,0.942174748404554,41.4333356842752,37,-4.4
+"246","Illinois","IL","Representative","4",0,"Jesus ""Chuy"" Garcia","James Falakos",1,1,1,0,0,145125,0,0,1,0,0,0,1,46.3939533810293,40.3,-6.1
+"247","Illinois","IL","Representative","5",0,"Mike Quigley","Tommy Hanson",1,1,1,0,0,154250,0,0,1,0,0,0,1,39.7622215865988,40.8,1.2
+"248","Illinois","IL","Representative","6",0,"Sean Casten","Keith Pekau",1,1,1,0,0,2298106,711644,0,1,0,0,0,0.763553783536839,10.8765288660495,8.8,-2.1
+"249","Illinois","IL","Representative","8",0,"Raja Krishnamoorthi","Chris Dargis",1,1,1,0,0,3179335,101026,0,1,0,0,0,0.969202779816002,15.4107854216062,13.8,-1.6
+"250","Illinois","IL","Representative","9",0,"Janice D. Schakowsky","Maxwell ""Max"" Rice",0,1,1,0,0,282461,6251,0,0,1,0,0,0.978348665798443,41.3572602379544,43.4,1.9
+"251","Illinois","IL","Representative","10",0,"Brad Schneider","Joseph Severino",1,1,1,0,0,1141007,20450,0,1,0,0,0,0.982392804899363,25.8639694510525,26,0.1
+"252","Illinois","IL","Representative","11",0,"Bill Foster","Catalina Lauf",1,0,1,0,0,1147278,760919,0,0,0,1,0,0.601236664767841,15.300068086762,12.9,-2.4
+"253","Illinois","IL","Representative","12",0,"Homer ""Chip"" Markel","Mike Bost",1,1,0,1,1,15854,322622,0,1,0,0,0,0.0468393623181555,-42.7773560492822,-50,-7.2
+"254","Illinois","IL","Representative","13",0,"Nikki Budzinski","Regan Deering",0,0,0,0,0,1876158,414364,1,0,0,0,1,0.819096258407472,11.2151720256025,13.2,2
+"255","Illinois","IL","Representative","14",0,"Lauren Underwood","Scott R. Gryder",0,1,1,0,0,2405767,279158,0,0,1,0,0,0.89602763578126,11.4611267734764,8.3,-3.1
+"256","Illinois","IL","Representative","15",0,"Paul J. Lange","Mary Miller",1,0,0,1,1,13743,349617,0,0,0,1,0,0.0378219947159841,-38.7448022581722,-42.2,-3.5
+"257","Illinois","IL","Representative","17",0,"Eric Sorensen","Esther Joy King",1,0,0,0,0,1574395,2033867,1,0,0,1,0,0.436330565795943,7.78732513265799,3.9,-3.9
+"258","New York","NY","Senator","0",0,"Charles E. Schumer","Joe Pinion",1,1,1,0,0,11813239,125291,0,1,0,0,0,0.989505324357354,23.0865453086234,13.2,-9.9
+"259","Oklahoma","OK","Senator","0",0,"Madison Horn","Markwayne Mullin",0,1,0,0,1,914494,1492056,1,0,1,0,0,0.380002077663045,-33.0870975120763,-32.2,0.9
+"260","Oklahoma","OK","Representative","1",1,"Adam Martin","Kevin Hern",1,1,0,1,1,14850,308601,0,1,0,0,0,0.0459111271877348,-21.3537017036764,-26.4,-5
+"261","Oklahoma","OK","Representative","2",0,"Naomi Andrews","Josh Brecheen",0,1,0,0,0,75,338293,1,0,1,0,0,0.000221652165689427,-53.3766488241679,-49,4.4
+"262","Oklahoma","OK","Representative","3",0,"Jeremiah A. Ross","Frank D. Lucas",1,1,0,1,1,0,145047,0,1,0,0,0,0,-42.7999096965158,-49,-4.3
+"263","Oklahoma","OK","Representative","4",0,"Mary Brannon","Tom Cole",0,1,0,1,1,0,747487,0,0,1,0,0,0,-30.9080596421853,-33.4,-1.8
+"264","Oklahoma","OK","Representative","5",0,"Joshua Harris-Till","Stephanie Bice",1,0,0,1,1,28411,560770,0,0,0,1,0,0.0482211748172463,-18.4549094282506,-21.6,-4.8
+"265","Utah","UT","Representative","1",0,"Rick Edwin Jones","Blake D. Moore",1,1,0,1,0,0,366951,0,1,0,0,0,0,-19.3435596067466,-34,-14.1
+"266","Utah","UT","Representative","2",0,"Nick Mitchell","Chris Stewart",1,1,0,1,1,12135,228309,0,1,0,0,0,0.0504691321056046,-16.919243606433,-25.7,-8.5
+"267","Utah","UT","Representative","3",0,"Glenn J. Wright","John Curtis",1,1,0,1,0,3500,522900,0,1,0,0,0,0.00664893617021277,-19.2173107925031,-34.9,-15.7
+"268","Utah","UT","Representative","4",0,"Darlene McDonald","Burgess Owens",0,1,0,1,1,20795,1117537,0,0,1,0,0,0.0182679569756451,-25.6020355451018,-28.9,-3
+"269","Maryland","MD","Senator","0",0,"Chris Van Hollen","Chris Chaffee",1,1,1,0,1,2064924,0,0,1,0,0,0,1,33.210493943421,31.8,-1.4
+"270","Maryland","MD","Representative","1",0,"Heather R. Mizeur","Andy Harris",0,1,0,1,1,1271957,458961,0,0,1,0,0,0.734845324850744,-14.4500284582874,-11.3,3.3
+"271","Maryland","MD","Representative","2",0,"C.A. Dutch Ruppersberger","Nicolee Ambrose",1,0,1,0,0,201255,299054,0,0,0,1,0,0.402261402453284,20.6614274697621,18.6,-2.2
+"272","Maryland","MD","Representative","3",0,"John Sarbanes","Yuripzy Morgan",1,0,1,0,0,88610,350835,0,0,0,1,0,0.201640705890384,25.2946900661045,20.5,-5
+"273","Maryland","MD","Representative","4",0,"Glenn F. Ivey","Jeff Warner",1,1,0,0,0,632856,29897,1,1,0,0,0,0.954889679865651,80.6024274475668,80.4,-0.5
+"274","Maryland","MD","Representative","5",0,"Steny Hoyer","Chris Palombi",1,1,1,0,0,826278,16165,0,1,0,0,0,0.980811758184233,36.2622971154855,32,-4.5
+"275","Maryland","MD","Representative","6",0,"David J. Trone","Neil C. Parrott",1,1,1,0,0,313767,493534,0,1,0,0,0,0.388661725923788,9.77049916832022,9.5,-0.3
+"276","Maryland","MD","Representative","7",0,"Kweisi Mfume","Scott M. Collier",1,1,1,0,1,144601,0,0,1,0,0,0,1,63.1617842301085,64.4,0.9
+"277","Maryland","MD","Representative","8",0,"Jamie Raskin","Gregory Thomas Coll",1,1,1,0,0,1253008,11800,0,1,0,0,0,0.990670520743069,62.0854893641334,62.1,-0.5
+"278","Arizona","AZ","Senator","0",0,"Mark Kelly","Blake Masters",1,1,1,0,1,33047796,7450738,0,1,0,0,0,0.816024501035025,0.308894884757421,4.9,4.6
+"279","Arizona","AZ","Representative","1",0,"Jevin D. Hodge","David Schweikert",1,1,0,1,1,1261376,588060,0,1,0,0,0,0.682032792700045,1.47564154099508,-0.8,-2.3
+"280","Arizona","AZ","Representative","2",0,"Tom O'Halleran","Eli Crane",1,1,1,0,1,1400902,1318199,0,1,0,0,0,0.515207783749114,-7.88010117295547,-7.8,-0.1
+"281","Arizona","AZ","Representative","3",0,"Ruben Gallego","Jeff Zink",1,1,1,0,1,486816,20213,0,1,0,0,0,0.960134430180522,50.6243247011258,54,3.4
+"282","Arizona","AZ","Representative","4",0,"Greg Stanton","Kelly Cooper",1,1,1,0,0,1362023,504176,0,1,0,0,0,0.729838029063353,10.285746597806,12.2,1.9
+"283","Arizona","AZ","Representative","5",0,"Javier Garcia Ramos","Andy Biggs",1,1,0,1,1,6149,515849,0,1,0,0,0,0.0117797386196882,-16.3658707192273,-19.3,-2.9
+"284","Arizona","AZ","Representative","6",0,"Kirsten Engel","Juan Ciscomani",0,1,0,0,0,1276739,1809171,1,0,1,0,0,0.413731767938793,0.0701701281636713,-1.5,-1.6
+"285","Arizona","AZ","Representative","7",0,"Raúl Grijalva","Luis Pozzolo",1,1,1,0,0,189477,43490,0,1,0,0,0,0.813321199998283,32.764905235782,29,-3.7
+"286","Kansas","KS","Senator","0",0,"Mark R. Holland","Jerry Moran",1,1,0,1,0,461293,885984,0,1,0,0,0,0.342389130074959,-14.6528989758033,-23.2,-8.5
+"287","Kansas","KS","Representative","1",0,"James ""Jimmy"" Beard","Tracey Mann",1,1,0,1,1,7620,233230,0,1,0,0,0,0.0316379489308698,-29.5906685387191,-35.4,-5.8
+"288","Kansas","KS","Representative","2",0,"Patrick Schmidt","Jake LaTurner",1,1,0,1,1,647353,532828,0,1,0,0,0,0.548520099882984,-16.31130229766,-15.3,1
+"289","Kansas","KS","Representative","3",0,"Sharice Davids","Amanda L. Adkins",0,0,1,0,0,3135948,1413071,0,0,0,0,1,0.689367971424169,4.45013933121019,12.2,7.7
+"290","Kansas","KS","Representative","4",0,"Bob Hernandez","Ron Estes",1,1,0,1,1,16125,350234,0,1,0,0,0,0.0440142046462623,-21.7460107324612,-26.6,-4.9
+"291","Michigan","MI","Representative","1",0,"Bob Lorinser","Jack Bergman",1,1,0,1,1,179340,287446,0,1,0,0,0,0.384201754122874,-19.7794070219948,-22.6,-2.8
+"292","Michigan","MI","Representative","2",0,"Jerry Hilliard","John Moolenaar",1,1,0,1,0,7303,802153,0,1,0,0,0,0.00902210867545611,-28.2040644033046,-29.4,-1.2
+"293","Michigan","MI","Representative","3",0,"Hillary Scholten","John Gibbs",0,1,0,0,0,1603821,446437,1,0,1,0,0,0.782253257882666,8.49335639424564,13,4.5
+"294","Michigan","MI","Representative","5",0,"Bart Goldberg","Tim Walberg",1,1,0,1,1,102244,416683,0,1,0,0,0,0.197029640007169,-24.1636237304673,-27.4,-3.3
+"295","Michigan","MI","Representative","6",0,"Debbie Dingell","Whittney Williams",0,0,1,0,0,311512,450,0,0,0,0,1,0.998557516620614,26.6732533583365,31.8,5.1
+"296","Michigan","MI","Representative","7",0,"Elissa Slotkin","Tom Barrett",0,1,1,0,0,3785855,628339,0,0,1,0,0,0.857654874253374,0.947125881924377,5.4,4.9
+"297","Michigan","MI","Representative","8",0,"Daniel T. Kildee","Paul Junge",1,1,1,0,0,1547817,431041,0,1,0,0,0,0.782176891924534,2.02930966193704,10.3,8.2
+"298","Michigan","MI","Representative","9",0,"Brian Jaye","Lisa McClain",1,0,0,1,1,22595,344979,0,0,0,1,0,0.0614706154407004,-29.449769258076,-30.7,-1.3
+"299","Michigan","MI","Representative","10",0,"Carl J. Marlinga","John James",1,1,0,0,0,515862,974474,1,1,0,0,0,0.346138052090267,-0.97899397202143,-0.5,0.5
+"300","Michigan","MI","Representative","11",0,"Haley Stevens","Mark Ambrose",0,1,1,0,0,1442940,200107,0,0,1,0,0,0.878209813839774,19.8365003547756,22.6,2.7
+"301","Michigan","MI","Representative","12",0,"Rashida Tlaib","Steven Elliott",0,1,1,0,0,891303,50074,0,0,1,0,0,0.946807708282654,48.5087302652638,44.5,-4
+"302","Michigan","MI","Representative","13",0,"Shri Thanedar","Martell D. Bivings",1,1,0,0,0,44850,52600,1,1,0,0,0,0.460236018471011,49.5868932494601,47.2,-2.4
+"303","Missouri","MO","Senator","0",0,"Trudy Busch Valentine","Eric Schmitt",0,1,0,0,1,4212156,2545686,1,0,1,0,0,0.623298976211637,-15.3949695833968,-13.4,2
+"304","Missouri","MO","Representative","1",0,"Cori Bush","Andrew Jones",0,1,1,0,0,649627,26729,0,0,1,0,0,0.960480871020587,58.3752556179617,48.6,-9.8
+"305","Missouri","MO","Representative","2",0,"Trish Gunby","Ann Wagner",0,0,0,1,0,467675,974240,0,0,0,0,1,0.324342974447176,-7.75940247086863,-11.9,-4.2
+"306","Missouri","MO","Representative","3",0,"Bethany Mann","Blaine Luetkemeyer",0,1,0,1,1,3900,465185,0,0,1,0,0,0.00831405821972564,-26.1266078260084,-30.2,-3.9
+"307","Missouri","MO","Representative","4",0,"Jack Truman","Mark Alford",1,1,0,0,0,0,461063,1,1,0,0,0,0,-39.6131527010489,-45,-5.6
+"308","Missouri","MO","Representative","5",0,"Emanuel Cleaver II","Jacob Turk",1,1,1,0,0,116716,18450,0,1,0,0,0,0.863501176331326,26.3095883376601,24.6,-1.7
+"309","Missouri","MO","Representative","6",0,"Henry Martin","Sam Graves",1,1,0,1,1,45511,456406,0,1,0,0,0,0.0906743545247521,-37.102118155162,-42.8,-5.7
+"310","Missouri","MO","Representative","7",0,"Kristen Radaker-Sheafer","Eric Burlison",0,1,0,0,0,2925,539779,1,0,1,0,0,0.00538967835136649,-41.3914900156982,-44.1,-2.7
+"311","Missouri","MO","Representative","8",0,"Randi McCallian","Jason Smith",0,1,0,1,1,13592,1037399,0,0,1,0,0,0.0129325560352087,-51.2997354713791,-54.1,-2.7
+"312","Washington","WA","Senator","0",0,"Patty Murray","Tiffany Smiley",0,0,1,0,0,4894682,10211264,0,0,0,0,1,0.324023533514551,19.2028525470481,14.6,-4.6
+"313","Washington","WA","Representative","1",0,"Suzan DelBene","Vincent J. Cavaleri",0,1,1,0,0,552898,85674,0,0,1,0,0,0.865835019387007,30.3978767761001,27.1,-3.6
+"314","Washington","WA","Representative","2",0,"Rick Larsen","Dan Matthews",1,1,1,0,0,301690,23309,0,1,0,0,0,0.928279779322398,22.7638308449806,20.4,-2.5
+"315","Washington","WA","Representative","3",0,"Marie Gluesenkamp Perez","Joe Kent",0,1,0,0,1,2404272,1383588,1,0,1,0,0,0.634730956265543,-4.17350444504788,0.8,5
+"316","Washington","WA","Representative","4",0,"Doug White","Dan Newhouse",1,1,0,1,0,418817,382035,0,1,0,0,0,0.522964293027925,-16.8507275765194,-35.3,-18.4
+"317","Washington","WA","Representative","5",0,"Natasha Hill","Cathy McMorris Rodgers",0,0,0,1,0,164471,1036462,0,0,0,0,1,0.136952685953338,-9.89706402885269,-19.3,-9.3
+"318","Washington","WA","Representative","6",0,"Derek Kilmer","Elizabeth Kreiselmaier",1,0,1,0,0,575475,174521,0,0,0,1,0,0.767304092288492,17.1020022903768,20.1,2.9
+"319","Washington","WA","Representative","7",0,"Pramila Jayapal","Cliff Moon",0,1,1,0,0,760004,2341,0,0,1,0,0,0.996929211839784,75.1225175786091,71.2,-4.3
+"320","Washington","WA","Representative","8",0,"Kim Schrier","Matt Larkin",0,1,1,0,0,4028580,786256,0,0,1,0,0,0.836701395436937,6.67304537998906,6.9,0.2
+"321","Washington","WA","Representative","9",0,"Adam Smith","Doug Basler",1,1,1,0,1,261258,82275,0,1,0,0,0,0.760503357756023,44.7142593761697,43.4,-1.8
+"322","Washington","WA","Representative","10",0,"Marilyn Strickland","Keith R. Swank",0,1,1,0,1,600984,70731,0,0,1,0,0,0.894700877604341,17.5714525538255,14.1,-3.6
+"323","Tennessee","TN","Representative","1",0,"Cameron Parsons","Diana Lynn Harshbarger",1,0,0,1,1,0,362482,0,0,0,1,0,0,-54.2374645081687,-58.6,-4.3
+"324","Tennessee","TN","Representative","2",0,"Mark Harmon","Tim Burchett",1,1,0,1,1,25282,305330,0,1,0,0,0,0.0764703035582495,-29.2178008825214,-35.8,-6.5
+"325","Tennessee","TN","Representative","3",0,"Meg Gorman","Chuck Fleischmann",0,1,0,1,1,31525,202496,0,0,1,0,0,0.134710132851325,-31.9104996337838,-38.2,-6.3
+"326","Tennessee","TN","Representative","4",0,"Wayne Steele","Scott DesJarlais",1,1,0,1,1,3838,50870,0,1,0,0,0,0.0701542735980113,-37.7366513829315,-44.9,-7.2
+"327","Tennessee","TN","Representative","5",0,"Heidi Campbell","Andy Ogles",0,1,0,0,1,597016,557575,1,0,1,0,0,0.51708007424274,-11.2992274922831,-13.5,-2.2
+"328","Tennessee","TN","Representative","6",0,"Randal Cooper","John Rose",1,1,0,1,1,0,529434,0,1,0,0,0,0,-29.1427061371509,-32.6,-3.5
+"329","Tennessee","TN","Representative","7",0,"Odessa Kelly","Mark E. Green",0,1,0,1,0,362907,588026,0,0,1,0,0,0.381632565070305,-15.1245800671892,-21.9,-6.8
+"330","Tennessee","TN","Representative","8",0,"Lynnette P. Williams","David Kustoff",0,1,0,1,1,375,475103,0,0,1,0,0,0.000788680023050488,-37.2699403538781,-49.7,-12.4
+"331","Tennessee","TN","Representative","9",0,"Steve Cohen","Charlotte Bergmann",1,0,1,0,1,73375,18197,0,0,0,1,0,0.801282051282051,48.2150660937724,43.8,-4.4
+"332","Connecticut","CT","Senator","0",0,"Richard Blumenthal","Leora R. Levy",1,0,1,0,0,1219611,714151,0,0,0,1,0,0.630693435903694,20.0754869279738,15,-5.1
+"333","Connecticut","CT","Representative","1",0,"John B. Larson","Larry Lazor",1,1,1,0,0,396364,59927,0,1,0,0,0,0.868664952848073,28.0799959996444,23.8,-4.3
+"334","Connecticut","CT","Representative","2",0,"Joe Courtney","Mike France",1,1,1,0,0,462841,277784,0,1,0,0,0,0.624932995780591,11.4723627199914,18,6.6
+"335","Connecticut","CT","Representative","3",0,"Rosa L. DeLauro","Lesley DeNardis",0,0,1,0,0,686981,10328,0,0,0,0,1,0.985188775707757,19.7238126753631,16.1,-3.6
+"336","Connecticut","CT","Representative","4",0,"Jim Himes","Jayme Stevenson",1,0,1,0,0,321168,173571,0,0,0,1,0,0.649166530231091,31.2008314813719,18.8,-12.2
+"337","Connecticut","CT","Representative","5",0,"Jahana Hayes","George Logan",0,1,1,0,0,835943,703833,0,0,1,0,0,0.542899097011513,10.742508870706,0.8,-9.9
+"338","Minnesota","MN","Representative","1",0,"Jeff Ettinger","Brad Finstad",1,1,0,0,0,447071,460170,1,1,0,0,0,0.492780859771549,-9.17924598501002,-11.5,-2.3
+"339","Minnesota","MN","Representative","2",0,"Angie Craig","Tyler Kistner",0,1,1,0,0,2516928,1258548,0,0,1,0,0,0.666651834099859,7.15295789660686,5.3,-1.8
+"340","Minnesota","MN","Representative","3",0,"Dean Phillips","Tom Weiler",1,1,1,0,0,1070483,310116,0,1,0,0,0,0.775375760811068,20.9026226334598,19.1,-1.9
+"341","Minnesota","MN","Representative","4",0,"Betty McCollum","May Lor Xiong",0,0,1,0,0,433202,54607,0,0,0,0,1,0.888056595921764,37.5110597225015,35.3,-2.3
+"342","Minnesota","MN","Representative","5",0,"Ilhan Omar","Cicely Davis",0,0,1,0,0,992772,680463,0,0,0,0,1,0.593324906543313,62.8846086200572,49.8,-13.4
+"343","Minnesota","MN","Representative","6",0,"Jeanne Hendricks","Tom Emmer",0,1,0,1,0,55784,1373088,0,0,1,0,0,0.0390405858607349,-17.5948930878841,-24.2,-6.6
+"344","Minnesota","MN","Representative","7",0,"Jill Abahsain","Michelle Fischbach",0,0,0,1,1,10521,295442,0,0,0,0,1,0.034386510787252,-33.1434824154684,-39.3,-6.1
+"345","Minnesota","MN","Representative","8",0,"Jen Schultz","Pete Stauber",0,1,0,1,0,274830,575319,0,0,1,0,0,0.323272743954295,-11.2804697370885,-14.5,-3.2
+"346","Vermont","VT","Senator","0",0,"Peter Welch","Gerald Malloy",1,1,0,0,0,884115,228960,1,1,0,0,0,0.794299575500303,35.4126522747314,40.4,5
+"347","Vermont","VT","Representative","0",0,"Becca Balint","Liam Madden",0,1,0,0,0,544245,4355,1,0,1,0,0,0.992061611374408,35.4126522747314,34.8,-0.8
+"348","Wisconsin","WI","Senator","0",0,"Mandela Barnes","Ron Johnson",1,1,0,1,1,20654973,12167925,0,1,0,0,0,0.629285476255022,0.629952491259839,-1,-1.6
+"349","Wisconsin","WI","Representative","1",0,"Ann Roe","Bryan Steil",0,1,0,1,0,388062,950438,0,0,1,0,0,0.28992304818827,-2.00230977297364,-8.9,-6.9
+"350","Wisconsin","WI","Representative","2",0,"Mark Pocan","Erik Olsen",1,1,1,0,0,192957,49823,0,1,0,0,0,0.794781283466513,41.6337437165002,44.1,2.3
+"351","Wisconsin","WI","Representative","3",0,"Brad Pfaff","Derrick Van Orden",1,1,0,0,1,985283,2279766,1,1,0,0,0,0.301766680990086,-4.66591155050239,-3.7,1
+"352","Wisconsin","WI","Representative","4",0,"Gwen Moore","Tim Rogers",0,1,1,0,0,139234,0,0,0,1,0,0,1,52.8217268172246,52.7,-0.4
+"353","Wisconsin","WI","Representative","5",0,"Mike Van Someren","Scott Fitzgerald",1,1,0,1,1,41717,255137,0,1,0,0,0,0.14053036172664,-22.8401170341335,-28.8,-5.9
+"354","Wisconsin","WI","Representative","7",0,"Richard ""Dick"" Ausman","Tom Tiffany",1,1,0,1,1,30625,457621,0,1,0,0,0,0.0627245282091405,-19.9298112940009,-23.8,-3.9
+"355","Hawaii","HI","Senator","0",0,"Brian Schatz","Bob McDermott",1,1,1,0,0,499293,0,0,1,0,0,0,1,29.4647752968393,45.2,15.7
+"356","Hawaii","HI","Representative","1",0,"Ed Case","Conrad Kress",1,1,1,0,0,431782,31357,0,1,0,0,0,0.932294624292059,29.4313675711819,47.4,18
+"357","Hawaii","HI","Representative","2",0,"Jill N. Tokuda","Joe Akana",0,1,0,0,0,399931,5710,1,0,1,0,0,0.985923513648768,29.4964687684448,26.9,-2.6
+"358","Wyoming","WY","Representative","0",0,"Lynnette GreyBull","Harriet Hageman",0,0,0,0,1,22600,1485312,1,0,0,0,1,0.0149876120091889,-43.3826531533973,-43.8,-0.1
+"359","Florida","FL","Senator","0",0,"Val Demings","Marco Rubio",0,1,0,1,0,26587599,17334851,0,0,1,0,0,0.605330508657873,-3.35176495240527,-16.4,-13
+"360","Florida","FL","Representative","1",0,"Rebekah Jones","Matt Gaetz",0,1,0,1,1,44601,1142277,0,0,1,0,0,0.037578420022951,-32.2165362516066,-35.8,-3.5
+"361","Florida","FL","Representative","3",0,"Danielle Hawk","Kat Cammack",0,0,0,1,1,24402,377408,0,0,0,0,1,0.0607301958637167,-14.0660893252831,-26.2,-12.1
+"362","Florida","FL","Representative","4",0,"LaShonda ""L.J."" Holloway","Aaron Bean",0,1,0,0,0,1300,495451,1,0,1,0,0,0.00261700530044227,-6.68413108291855,-21,-14.3
+"363","Florida","FL","Representative","7",0,"Karen Green","Cory Mills",0,1,0,0,1,29630,199736,1,0,1,0,0,0.129182180445227,-5.53076437261148,-17,-11.5
+"364","Florida","FL","Representative","8",0,"Joanne Terry","Bill Posey",0,1,0,1,1,39322,299370,0,0,1,0,0,0.116099583102051,-17.5955700789383,-29.8,-12.1
+"365","Florida","FL","Representative","9",0,"Darren Soto","Scotty Moore",1,1,1,0,1,247287,366475,0,1,0,0,0,0.402903731413805,17.3916226870428,7.2,-10.2
+"366","Florida","FL","Representative","10",0,"Maxwell Alejandro Frost","Calvin B. Wimbish",1,1,0,0,1,937550,117575,1,1,0,0,0,0.888567705248193,31.6851700987709,19.6,-12.2
+"367","Florida","FL","Representative","11",0,"Shante Munns","Daniel Webster",0,1,0,1,1,1920,198095,0,0,1,0,0,0.00959928005399595,-10.8572833378209,-27.7,-16.8
+"368","Florida","FL","Representative","12",0,"Kimberly Walker","Gus Michael Bilirakis",0,1,0,1,1,3522,400343,0,0,1,0,0,0.00872073588946802,-28.659900464128,-40.8,-12
+"369","Florida","FL","Representative","13",0,"Eric Lynn","Anna Paulina Luna",1,0,0,0,1,1210082,1136366,1,0,0,1,0,0.515707997790703,-6.74859113950097,-8,-1.2
+"370","Florida","FL","Representative","14",0,"Kathy Castor","James Judge",0,1,1,0,0,396728,127950,0,0,1,0,0,0.756136144454313,19.115935325482,13.8,-5.4
+"371","Florida","FL","Representative","15",0,"Alan M. Cohn","Laurel Lee",1,0,0,0,0,651568,755247,1,0,0,1,0,0.463151160600363,-3.12727785109052,-17,-13.9
+"372","Florida","FL","Representative","16",0,"Jan Schneider","Vern Buchanan",0,1,0,1,0,1522,742569,0,0,1,0,0,0.00204544874215654,-8.86831671828662,-24.3,-15.4
+"373","Florida","FL","Representative","17",0,"Andrea Doria Kale","Greg Steube",0,1,0,1,1,4460,242652,0,0,1,0,0,0.0180484962284308,-15.9226078279188,-28.3,-12.3
+"374","Florida","FL","Representative","19",0,"Cindy Banyai","Byron Donalds",0,1,0,1,1,19550,1282901,0,0,1,0,0,0.0150101616106863,-21.0184102020992,-36,-14.9
+"375","Florida","FL","Representative","20",0,"Sheila Cherfilus-McCormick","Drew Montez Clark",0,1,1,0,0,175227,54808,0,0,1,0,0,0.761740604690591,52.2641023027716,44.6,-7.8
+"376","Florida","FL","Representative","21",0,"Corinna Balderramos Robinson","Brian Mast",0,1,0,1,1,45308,1295554,0,0,1,0,0,0.0337902036152863,-9.42443545805777,-27,-17.6
+"377","Florida","FL","Representative","22",0,"Lois Frankel","Dan Franzese",0,1,1,0,0,316953,270161,0,0,1,0,0,0.539849160469687,17.5823533893785,10.2,-7.4
+"378","Florida","FL","Representative","23",0,"Jared Moskowitz","Joe Budd",1,1,0,0,0,361191,65700,1,1,0,0,0,0.846096544551185,13.1645998427197,4.8,-8.4
+"379","Florida","FL","Representative","24",0,"Frederica Wilson","Jesus G. Navarro",0,1,1,0,1,81321,15491,0,0,1,0,0,0.839988844358137,48.9650051613916,43.6,-5.5
+"380","Florida","FL","Representative","25",0,"Debbie Wasserman Schultz","Carla Spalding",0,0,1,0,0,701257,358461,0,0,0,0,1,0.661739255160335,19.8716352240417,10.2,-9.8
+"381","Florida","FL","Representative","26",0,"Christine Alexandria Olivo","Mario Diaz-Balart",0,1,0,1,1,57653,636947,0,0,1,0,0,0.0830017276130147,-18.2997559947366,-41.8,-23.5
+"382","Florida","FL","Representative","27",0,"Annette Taddeo","Maria Elvira Salazar",0,0,0,1,0,1335226,1607332,0,0,0,0,1,0.453763698115721,-0.31913209402315,-14.6,-14.3
+"383","Florida","FL","Representative","28",0,"Robert Asencio","Carlos A. Gimenez",1,1,0,1,1,65282,452532,0,1,0,0,0,0.12607229622992,-6.33511850302158,-27.4,-21
+"384","New York","NY","Representative","1",0,"Bridget Fleming","Nicholas J. LaLota",0,1,0,0,0,1578631,0,1,0,1,0,0,1,0.212975441487612,-11,-11.2
+"385","New York","NY","Representative","2",0,"Jackie Gordon","Andrew R. Garbarino",0,1,0,1,0,669859,615293,0,0,1,0,0,0.521229395433381,-1.49708301175924,-21.5,-20
+"386","New York","NY","Representative","3",0,"Robert P. Zimmerman","George A.D. Santos",1,1,0,0,1,1318765,649236,1,1,0,0,0,0.670103826166755,8.14781789764757,-7.5,-15.7
+"387","New York","NY","Representative","4",0,"Laura A. Gillen","Anthony P. D'Esposito",0,1,0,0,0,743227,660654,1,0,1,0,0,0.529408831660233,14.5014647561225,-3.6,-18.2
+"388","New York","NY","Representative","5",0,"Gregory Meeks","Paul King",1,1,1,0,0,387803,51553,0,1,0,0,0,0.882662351259571,62.3691231531511,50.3,-12.1
+"389","New York","NY","Representative","6",0,"Grace Meng","Thomas Zmich",0,1,1,0,0,421563,1000,0,0,1,0,0,0.997633488970875,30.225429809826,27.9,-2.4
+"390","New York","NY","Representative","7",0,"Nydia M. Velazquez","Juan Pagan",0,1,1,0,0,40779,0,0,0,1,0,0,1,62.2926443938479,61.3,-1.3
+"391","New York","NY","Representative","8",0,"Hakeem S. Jeffries","Yuri Dashevsky",1,1,1,0,0,1448565,2532,0,1,0,0,0,0.998255113200565,53.0157887131984,43.4,-9.8
+"392","New York","NY","Representative","10",0,"Daniel Goldman","Benine Hamdan",1,0,0,0,0,1573484,850,1,0,0,1,0,0.99946008915516,70.9627985993135,68.4,-2.8
+"393","New York","NY","Representative","11",0,"Max N. Rose","Nicole Malliotakis",1,0,0,1,1,2014203,1440210,0,0,0,1,0,0.583081119715564,-7.61723310581013,-23.5,-15.8
+"394","New York","NY","Representative","12",0,"Jerrold L. Nadler","Michael Zumbluskas",1,1,1,0,0,1091014,3300,0,1,0,0,0,0.996984412152271,71.041256451782,63.7,-7.7
+"395","New York","NY","Representative","14",0,"Alexandria Ocasio-Cortez","Tina Forte",0,0,1,0,1,2084792,453160,0,0,0,0,1,0.821446583702135,56.4120709917051,43.3,-13.3
+"396","New York","NY","Representative","15",0,"Ritchie J. Torres","Stylo A. Sapaskis",1,1,1,0,0,1772948,0,0,1,0,0,0,1,69.8030918241207,65.5,-4.5
+"397","New York","NY","Representative","16",0,"Jamaal Bowman","Miriam L. Flisser",1,0,1,0,0,543837,0,0,0,0,1,0,1,43.6826373868431,28.5,-15.2
+"398","New York","NY","Representative","17",0,"Sean Patrick Maloney","Michael V. Lawler",1,1,1,0,0,2169613,694734,0,1,0,0,0,0.757454665932584,10.0400267706484,-0.6,-10.7
+"399","New York","NY","Representative","18",0,"Pat Ryan","Colin J. Schmitt",1,1,0,0,0,2762876,658414,1,1,0,0,0,0.807553875877228,8.34949474328876,1.3,-7.1
+"400","New York","NY","Representative","19",0,"Josh Riley","Marcus Molinaro",1,1,0,0,0,2343211,1092714,1,1,0,0,0,0.681973849836652,4.62046903237927,-1.6,-6.2
+"401","New York","NY","Representative","20",0,"Paul D. Tonko","Elizabeth L. Joy",1,0,1,0,1,338251,356955,0,0,0,1,0,0.486547872141495,19.1175101622863,10.1,-9.1
+"402","New York","NY","Representative","21",0,"Matt Castelli","Elise M. Stefanik",1,0,0,1,1,1292291,2091202,0,0,0,1,0,0.381939906481261,-12.3615214686262,-18.3,-5.9
+"403","New York","NY","Representative","22",0,"Francis Conole","Brandon M. Williams",1,1,0,0,0,1610019,449599,1,1,0,0,0,0.781707578784027,7.44805168638934,-1,-8.4
+"404","New York","NY","Representative","23",0,"Max H. Della Pia","Nick Langworthy",1,1,0,0,0,114990,522769,1,1,0,0,0,0.180303217986732,-17.1957283688349,-29.9,-12.7
+"405","New York","NY","Representative","24",0,"Steven Holden","Claudia Tenney",1,0,0,1,0,43293,792971,0,0,0,1,0,0.0517695368926559,-17.1792132930932,-31.4,-14.2
+"406","New York","NY","Representative","25",0,"Joseph D. Morelle","La'Ron D. Singletary",1,1,1,0,0,608425,232564,0,1,0,0,0,0.723463683829396,19.625597512194,7.7,-12
+"407","New York","NY","Representative","26",0,"Brian Higgins","Steven L. Sams II",1,1,1,0,0,280398,7250,0,1,0,0,0,0.974795583490933,23.3813273087968,27.9,4.5
+"408","Massachusetts","MA","Representative","1",0,"Richard E. Neal","Dean James Martilli",1,1,1,0,0,512682,8080,0,1,0,0,0,0.984484274966299,21.5844224315364,23.1,1.5
+"409","Massachusetts","MA","Representative","2",0,"James P. McGovern","Jeffrey A. Sossa-Paquette",1,1,1,0,0,349594,99583,0,1,0,0,0,0.778298977908486,30.6843794650943,32.5,1.7
+"410","Massachusetts","MA","Representative","3",0,"Lori Loureiro Trahan","Dean A. Tran",0,1,1,0,0,662922,48234,0,0,1,0,0,0.932175218939304,27.3022693989246,27.1,-0.3
+"411","Massachusetts","MA","Representative","5",0,"Katherine M. Clark","Caroline Colarusso",0,0,1,0,1,406489,45520,0,0,0,0,1,0.899294040605386,50.8760099432914,48.1,-3.1
+"412","Massachusetts","MA","Representative","6",0,"Seth Moulton","Bob May",1,1,1,0,0,422773,11918,0,1,0,0,0,0.972582823200848,27.4783181711637,27.8,0.2
+"413","Massachusetts","MA","Representative","7",0,"Ayanna S. Pressley","Donnie Dionicio Palmer",0,1,1,0,1,386589,0,0,0,1,0,0,1,72.1119744087395,69.5,-2.9
+"414","Massachusetts","MA","Representative","8",0,"Stephen F. Lynch","Robert G. Burke",1,1,1,0,0,359355,0,0,1,0,0,0,1,35.2840245064278,39.6,4.1
+"415","Massachusetts","MA","Representative","9",0,"Bill Keating","Jesse G. Brown",1,1,1,0,0,164088,36970,0,1,0,0,0,0.816122710859553,18.1088376142795,18.4,0.2
+"416","Delaware","DE","Representative","0",0,"Lisa Blunt Rochester","Lee Murphy",0,1,1,0,0,663583,155504,0,0,1,0,0,0.810149593388736,18.9807741909883,12.5,-6.5
+"417","New Hampshire","NH","Senator","0",0,"Maggie Hassan","Donald C. Bolduc",0,1,1,0,1,13429305,1899782,0,0,1,0,0,0.876066852513786,7.3742929190516,9.2,1.8
+"418","New Hampshire","NH","Representative","1",0,"Chris Pappas","Karoline Leavitt",1,0,1,0,1,1920983,1849102,0,0,0,1,0,0.509533074187983,5.92760876790063,8.1,2.1
+"419","New Hampshire","NH","Representative","2",0,"Ann McLane Kuster","Robert Burns",0,1,1,0,0,1451024,103900,0,0,1,0,0,0.933180013942804,8.83023200668938,11.7,2.8
+"420","Rhode Island","RI","Representative","1",0,"David N. Cicilline","Allen R. Waters",1,1,1,0,0,496730,20955,0,1,0,0,0,0.959521716874161,28.9452604579544,28.2,-0.9
+"421","Rhode Island","RI","Representative","2",0,"Seth M. Magaziner","Allan W. Fung",1,1,0,0,0,1155719,845312,1,1,0,0,0,0.577561766909158,13.6635888098954,3.7,-10
+"422","California","CA","Representative","3",0,"","Kevin Kiley",-1,1,-1,0,0,-1,1171542,0,0,0,0,0,-8.53576614049359e-07,-1.78393822673104,-7.2,-5.4
+"423","Florida","FL","Representative","2",0,"","Neal Dunn",-1,1,-1,1,1,-1,607022,0,0,0,0,0,-1.64738946428542e-06,-10.9623719655595,-19.6,-8.6
